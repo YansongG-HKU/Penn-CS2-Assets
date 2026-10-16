@@ -1,0 +1,6 @@
+NA_IrvineAuditorium_7x7 - Irvine Auditorium, University of Pennsylvania (Horace Trumbauer firm, chief designer Julian Abele, 1926-32; VSBA restoration 1997-2000).
+Fully procedural model (no third-party meshes/textures).
+- Footprint PCA 50.5 x 51.5 m, area ~1855 m2: OpenStreetMap way 51469206 (c) OSM contributors, ODbL.
+- 116,624 sq ft, 5 floors: Penn Facilities building 255. Octagonal hall, 120 ft high tower interior: VSBA project page; Wikipedia "Irvine Auditorium".
+- Exterior (red brick, stone-capped buttresses, slate octagonal roof + spire, round stair turret, slate-hipped lower wings): Wikimedia Commons "Irvine.JPG", "Irvine Auditorium, Penn Campus.jpg".
+Lot 7 x 7 cells (56 x 56 m). Front = -Y. Estimated: podium layout, exact heights (spire top ~56 m est.), window counts. Interior not modelled.

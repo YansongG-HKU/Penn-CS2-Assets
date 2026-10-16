@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_IrvineAuditorium_7x7_LOD1_BaseColor.png": "NA_IrvineAuditorium_7x7_BaseColor.png",
+    "NA_IrvineAuditorium_7x7_LOD1_Normal.png": "NA_IrvineAuditorium_7x7_Normal.png",
+    "NA_IrvineAuditorium_7x7_LOD1_MaskMap.png": "NA_IrvineAuditorium_7x7_MaskMap.png",
+    "NA_IrvineAuditorium_7x7_LOD1_ControlMask.png": "NA_IrvineAuditorium_7x7_ControlMask.png",
+    "NA_IrvineAuditorium_7x7_LOD1_Emissive.png": "NA_IrvineAuditorium_7x7_Emissive.png"
+  }
+}
