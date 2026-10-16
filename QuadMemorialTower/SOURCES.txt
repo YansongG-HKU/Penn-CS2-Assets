@@ -1,0 +1,3 @@
+NA_QuadMemorialTower_3x3 - War Memorial Tower (Cope & Stewardson, 1901): gateway tower with three onion-domed towers, red brick with limestone bands/quoins.
+Fully procedural. OSM way 320602388: PCA 22.1 x 21.6 m (~267 m2 core) (c) OpenStreetMap contributors, ODbL. Building split from The Quadrangle (Fisher Hassenfeld/Ware/Riepe college houses).
+Ref photos: Wikimedia Commons (Quad_3.jpg, Quad_1.jpg in _audit/ref). No 3D vegetation.
