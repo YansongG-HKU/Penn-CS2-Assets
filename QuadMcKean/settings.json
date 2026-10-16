@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_QuadMcKean_5x4_LOD1_BaseColor.png": "NA_QuadMcKean_5x4_BaseColor.png",
+    "NA_QuadMcKean_5x4_LOD1_Normal.png": "NA_QuadMcKean_5x4_Normal.png",
+    "NA_QuadMcKean_5x4_LOD1_MaskMap.png": "NA_QuadMcKean_5x4_MaskMap.png",
+    "NA_QuadMcKean_5x4_LOD1_ControlMask.png": "NA_QuadMcKean_5x4_ControlMask.png",
+    "NA_QuadMcKean_5x4_LOD1_Emissive.png": "NA_QuadMcKean_5x4_Emissive.png"
+  }
+}

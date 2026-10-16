@@ -26,6 +26,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Quad: Ward | [QuadWard](QuadWard) | NA_QuadWard_4x4 | 4x4 |
 | Quad: Fitler | [QuadFitler](QuadFitler) | NA_QuadFitler_3x3 | 3x3 |
 | Quad: MemorialTower | [QuadMemorialTower](QuadMemorialTower) | NA_QuadMemorialTower_3x3 | 3x3 |
+| Quad: McKean | [QuadMcKean](QuadMcKean) | NA_QuadMcKean_5x4 | 5x4 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.
