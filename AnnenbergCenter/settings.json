@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_AnnenbergCenter_10x9_LOD1_BaseColor.png": "NA_AnnenbergCenter_10x9_BaseColor.png",
+    "NA_AnnenbergCenter_10x9_LOD1_Normal.png": "NA_AnnenbergCenter_10x9_Normal.png",
+    "NA_AnnenbergCenter_10x9_LOD1_MaskMap.png": "NA_AnnenbergCenter_10x9_MaskMap.png",
+    "NA_AnnenbergCenter_10x9_LOD1_ControlMask.png": "NA_AnnenbergCenter_10x9_ControlMask.png",
+    "NA_AnnenbergCenter_10x9_LOD1_Emissive.png": "NA_AnnenbergCenter_10x9_Emissive.png"
+  }
+}

@@ -1,0 +1,5 @@
+NA_AnnenbergCenter_10x9 - Annenberg Center for the Performing Arts, University of Pennsylvania (Vincent G. Kling & Associates, 1971).
+Fully procedural model (no third-party meshes/textures).
+- Footprint PCA 79.8 x 69.2 m, area ~3073 m2: OpenStreetMap way 32120984 (c) OSM contributors, ODbL.
+- Brown brick hexagonal tower with glass entrance under metal canopy, lower wings: Wikimedia Commons "Annenberg Center for the Performing Arts - UPenn (53589301237).jpg".
+Lot 10 x 9 cells (80 x 72 m). Front = -Y. Estimated: tower height, wing extents, canopy. No 3D vegetation; interior theatres not modelled.

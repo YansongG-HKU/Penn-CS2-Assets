@@ -13,6 +13,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Houston Hall | [HoustonHall](HoustonHall) | NA_HoustonHall_11x5 | 11x5 |
 | Irvine Auditorium | [IrvineAuditorium](IrvineAuditorium) | NA_IrvineAuditorium_7x7 | 7x7 |
 | Van Pelt–Dietrich Library | [VanPeltLibrary](VanPeltLibrary) | NA_VanPeltLibrary_18x6 | 18x6 |
+| Annenberg Center | [AnnenbergCenter](AnnenbergCenter) | NA_AnnenbergCenter_10x9 | 10x9 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.
