@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Lot | 11x7 |
-| Model bounds (incl. lot surface) | 88.0 x 56.0 x 29.1 m |
+| Model bounds (incl. lot surface) | 88.0 x 56.0 x 36.35 m |
 | Real reference | OSM way 51367353 ~84x52 m; 6 floors; Thomas W. Richards 1871-73 |
-| LOD0 tris (Base / Win / Gls) | 70766 / 1800 / 112 |
-| LOD1 tris (Base / Win / Gls) | 38246 / 1800 / 112 |
+| LOD0 tris (Base / Win / Gls) | 113156 / 3147 / 112 |
+| LOD1 tris (Base / Win / Gls) | 80624 / 3147 / 112 |
 | LOD2 tris | 144 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,11 +18,11 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_CollegeHall_11x7_Base | 70766 | 0 | 5548 | 0 | 0 | 0 | 0 |
-| NA_CollegeHall_11x7_Win | 1800 | 2432 | 0 | 0 | 0 | 0 | 316 |
+| NA_CollegeHall_11x7_Base | 113156 | 0 | 22650 | 0 | 0 | 0 | 0 |
+| NA_CollegeHall_11x7_Win | 3147 | 3781 | 0 | 0 | 0 | 0 | 317 |
 | NA_CollegeHall_11x7_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_CollegeHall_11x7_LOD1_Base | 38246 | 0 | 5012 | 0 | 0 | 0 | 0 |
-| NA_CollegeHall_11x7_LOD1_Win | 1800 | 2432 | 0 | 0 | 0 | 0 | 316 |
+| NA_CollegeHall_11x7_LOD1_Base | 80624 | 0 | 22114 | 0 | 0 | 0 | 0 |
+| NA_CollegeHall_11x7_LOD1_Win | 3147 | 3781 | 0 | 0 | 0 | 0 | 317 |
 | NA_CollegeHall_11x7_LOD1_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_CollegeHall_11x7_LOD2_Base | 144 | 0 | 0 | 0 | 0 | 0 | 0 |
 
