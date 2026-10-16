@@ -38,6 +38,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Quad: Chestnut | [QuadChestnut](QuadChestnut) | NA_QuadChestnut_3x3 | 3x3 |
 | Quad: NewYorkAlumni | [QuadNewYorkAlumni](QuadNewYorkAlumni) | NA_QuadNewYorkAlumni_3x3 | 3x3 |
 | Quad: Carruth | [QuadCarruth](QuadCarruth) | NA_QuadCarruth_3x3 | 3x3 |
+| Quad: Craig | [QuadCraig](QuadCraig) | NA_QuadCraig_3x3 | 3x3 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.
