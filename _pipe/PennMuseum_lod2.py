@@ -1,0 +1,5 @@
+boxr(-84,84,-60,60,-0.05,0)
+boxr(-70,70,-40,-10,0,12); boxr(-14,14,-48,-10,0,16)
+boxr(-40,40,-10,25,0,14)
+cyl(0,25,0,28,18.5,24)
+bmesh.ops.create_cone(bm,cap_ends=True,segments=24,radius1=28.8,radius2=0.5,depth=12.5,matrix=Matrix.Translation((0,25,18.5+6.25)))
