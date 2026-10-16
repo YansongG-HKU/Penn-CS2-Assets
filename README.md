@@ -12,6 +12,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Fisher Fine Arts Library | [FisherFineArts](FisherFineArts) | NA_FisherFineArts_8x6 | 8x6 |
 | Houston Hall | [HoustonHall](HoustonHall) | NA_HoustonHall_11x5 | 11x5 |
 | Irvine Auditorium | [IrvineAuditorium](IrvineAuditorium) | NA_IrvineAuditorium_7x7 | 7x7 |
+| Van Pelt–Dietrich Library | [VanPeltLibrary](VanPeltLibrary) | NA_VanPeltLibrary_18x6 | 18x6 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.

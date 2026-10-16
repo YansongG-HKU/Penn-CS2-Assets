@@ -1,0 +1,5 @@
+NA_VanPeltLibrary_18x6 - Van Pelt–Dietrich Library Center, University of Pennsylvania (Harbeson, Hough, Livingston & Larson, opened 1962).
+Fully procedural model (no third-party meshes/textures).
+- Footprint PCA 140.7 x 46.7 m, area ~5062 m2: OpenStreetMap way 32120084 (c) OSM contributors, ODbL.
+- 383,484 sq ft, 10 floors: Penn Facilities. Mid-century brown brick panels between white concrete fins; recessed glazed ground and attic storeys: Wikimedia Commons "Van Pelt Library - UPenn (53590176501).jpg", "Van Pelt-Dietrich Library Center - IMG 6589.JPG".
+Lot 18 x 6 cells (144 x 48 m). Front (College Green) = -Y. Estimated: fin spacing, storey heights, entrance recess. No 3D vegetation.
