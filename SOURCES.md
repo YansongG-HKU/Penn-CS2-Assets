@@ -14,7 +14,7 @@ Standards match Columbia Morningside project: 1 unit = 1 m, pivot bottom-centre 
 | 4 | Irvine Auditorium | **7×7** | NA_IrvineAuditorium_7x7 | OSM PCA **50.5×51.5**, ~1855 m² | Octagonal brick, Trumbauer |
 | 5 | Van Pelt–Dietrich Library | **18×6** | NA_VanPeltLibrary_18x6 | OSM PCA **140.7×46.7**, ~5062 m² | Large mid-century block |
 | 6 | Annenberg Center | **10×9** | NA_AnnenbergCenter_10x9 | OSM PCA **79.8×69.2**, ~3073 m² | Perelman Quad area |
-| later | Hill College House, etc. | TBD | — | — | After core |
+| later | (see Phase 2) | — | — | — | After core |
 
 Cell rule: ceil(dim/8) per axis, lot must contain building + flat lawn/paving (no 3D vegetation).
 
@@ -77,3 +77,17 @@ Cell rule: ceil(dim/8) per axis, lot must contain building + flat lawn/paving (n
 
 Copied/adapted from `/workspace/columbia_campus/_pipe/` into `/workspace/penn_campus/_pipe/`.
 Repo: https://github.com/YansongG-HKU/Penn-CS2-Assets (public). Do **not** put Penn assets in Columbia-CS2-Assets.
+
+
+## Phase 2 — residential / medical / academic
+
+| Priority | Building | Planned lot | Asset | Footprint (OSM) | Notes |
+|---|---|---|---|---|---|
+| 7 | Hill College House | **10×6** | NA_HillCollegeHouse_10x6 | PCA **78.9×45.7**, ~3457 m² (rel 5235124) | Eero Saarinen 1960; 6 floors; fortress brick + moat |
+| 8 | Claudia Cohen Hall | **7×5** | NA_ClaudiaCohenHall_7x5 | PCA **49.5×34.7**, ~1432 m² (way 51367397) | Collegiate Gothic (ex-Logan Hall); Perelman Quad |
+| 9 | Steinberg-Dietrich Hall | **16×10** | NA_SteinbergDietrich_16x10 | PCA **127.4×78.5**, ~4980 m² (way 51469702) | Wharton; Locust Walk / Perelman area |
+| 10 | Wistar Institute | **17×8** | NA_WistarInstitute_17x8 | PCA **130.5×62.0**, ~4288 m² (way 32120133) | Lab / historic + modern wings |
+| 11 | Penn Museum | **21×15** | NA_PennMuseum_21x15 | PCA **164.9×114.0**, ~10128 m² (rel 5231601) | Rotunda + wings; simplified massing |
+| 12 | Franklin Field (exterior) | **28×19** | NA_FranklinField_28x19 | PCA **219.7×149.9**, ~27635 m² (way 665447049) | Stadium bowl shell only; no field veg |
+| — | The Quad (full) | — | — | (no single OSM polygon via Nominatim) | Too complex as one asset; defer to distinct houses |
+
