@@ -27,8 +27,8 @@ lathe((0,0,ZO+11.5),[(1.6,0),(1.6,2.2),(1.0,2.4),(0.12,16.0)],8,'Copper',rot=pi/
 for k in range(8):
     a=pi/8+k*pi/4; ca,sa=math.cos(a),math.sin(a)
     F=frame((RC*ca,RC*sa,0),a-pi/2)
-    boxr(-0.8,0.8,-0.5,1.6,12.0,24.5,'Brick',F); boxr(-0.9,0.9,-0.5,1.75,24.5,25.0,'LimeDark',F)
-    boxr(-0.6,0.6,-0.5,0.9,25.0,ZO-0.6,'Brick',F); boxr(-0.7,0.7,-0.5,1.05,ZO-0.9,ZO-0.6,'LimeDark',F)
+    boxr(-0.8,0.8,-0.5,1.6,12.0,24.5,'Brick',F); boxr(-0.85,0.85,-0.5,1.65,24.5,24.85,'Limestone',F)
+    boxr(-0.6,0.6,-0.5,0.9,25.0,ZO-0.6,'Brick',F); boxr(-0.65,0.65,-0.5,0.95,ZO-0.85,ZO-0.55,'Limestone',F)
     cyl((0,0.2,ZO),0.35,1.6,8,'Copper',F)
 # octagon face windows (paired pointed) + gabled roof dormers on axes
 for k in range(8):
@@ -44,11 +44,12 @@ lathe((TX,TY,33.0),[(3.2,0),(0.1,6.0)],16,'Roof'); cyl((TX,TY,38.6),0.08,1.8,6,'
 # podium facades
 Ff=frame((0,-25,0),pi); Fb=frame((0,25,0),0); Fe=frame((25,0,0),-pi/2); Fw=frame((-25,0,0),pi/2)
 for F in (Ff,Fb,Fe,Fw):
-    for x in (-20,-16,16,20): window(F,x,1.8,1.4,2.2,None,0.1,'LimeDark'); window(F,x,6.0,1.4,2.4,None,0,'LimeDark'); window(F,x,9.3,1.2,1.6,None,0,'LimeDark')
+    for x in (-16,-10,10,16):
+        window(F,x,1.8,1.4,2.2,None,0.1,'LimeDark'); window(F,x,6.0,1.4,2.4,None,0,'LimeDark'); window(F,x,9.3,1.2,1.6,None,0,'LimeDark')
     for x in (-8,-4,4,8): gothwin(F,x,4.5,1.6,5.0,'Limestone',k=6)
 door(Ff,0,3.0,3.8,0.9,None,y=0.14); gothwin(Ff,0,6.0,2.6,4.6,'Limestone',k=6)
 for x in (-11.5,11.5):
-    for F in (Ff,Fb,Fe,Fw): boxr(x-0.7,x+0.7,0,1.3,0.9,10.5,'Brick',F); boxr(x-0.8,x+0.8,0,1.45,10.5,10.9,'LimeDark',F)
+    for F in (Ff,Fb,Fe,Fw): boxr(x-0.7,x+0.7,0,1.3,0.9,10.5,'Brick',F); boxr(x-0.75,x+0.75,0,1.35,10.5,10.85,'Limestone',F)
 # site
 boxr(-LX,LX,-LY,LY,-0.05,0,'Paving')
 boxr(-27,-3.5,-27.5,-25.8,0,0.06,'Granite'); boxr(-26.8,-3.7,-27.3,-26.0,0,0.08,'Lawn')
