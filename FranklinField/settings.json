@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_FranklinField_28x19_LOD1_BaseColor.png": "NA_FranklinField_28x19_BaseColor.png",
+    "NA_FranklinField_28x19_LOD1_Normal.png": "NA_FranklinField_28x19_Normal.png",
+    "NA_FranklinField_28x19_LOD1_MaskMap.png": "NA_FranklinField_28x19_MaskMap.png",
+    "NA_FranklinField_28x19_LOD1_ControlMask.png": "NA_FranklinField_28x19_ControlMask.png",
+    "NA_FranklinField_28x19_LOD1_Emissive.png": "NA_FranklinField_28x19_Emissive.png"
+  }
+}
