@@ -24,6 +24,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Quad: Speakman | [QuadSpeakman](QuadSpeakman) | NA_QuadSpeakman_7x3 | 7x3 |
 | Quad: McClelland | [QuadMcClelland](QuadMcClelland) | NA_QuadMcClelland_6x3 | 6x3 |
 | Quad: Ward | [QuadWard](QuadWard) | NA_QuadWard_4x4 | 4x4 |
+| Quad: Fitler | [QuadFitler](QuadFitler) | NA_QuadFitler_3x3 | 3x3 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.
