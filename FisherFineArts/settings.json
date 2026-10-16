@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_FisherFineArts_8x6_LOD1_BaseColor.png": "NA_FisherFineArts_8x6_BaseColor.png",
+    "NA_FisherFineArts_8x6_LOD1_Normal.png": "NA_FisherFineArts_8x6_Normal.png",
+    "NA_FisherFineArts_8x6_LOD1_MaskMap.png": "NA_FisherFineArts_8x6_MaskMap.png",
+    "NA_FisherFineArts_8x6_LOD1_ControlMask.png": "NA_FisherFineArts_8x6_ControlMask.png",
+    "NA_FisherFineArts_8x6_LOD1_Emissive.png": "NA_FisherFineArts_8x6_Emissive.png"
+  }
+}

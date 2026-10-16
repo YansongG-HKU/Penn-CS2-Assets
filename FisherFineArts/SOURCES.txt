@@ -1,0 +1,9 @@
+NA_FisherFineArts_8x6 - Anne & Jerome Fisher Fine Arts Library (Furness Library), University of Pennsylvania (Frank Furness, 1888-1891; restored VSBA 1986-91).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Original plan ~140 x 80 ft (42.7 x 24.4 m); apse radius 38.7 ft (11.8 m); stair tower ~95 ft: NRHP nomination 72001154 (NPS).
+- Red sandstone base, red brick and terra-cotta, Venetian Gothic: Wikipedia "Fisher Fine Arts Library"; VSBA restoration sheet.
+- Massing checked against Wikimedia Commons photos (Fisher Fine Arts Library of the University of Pennsylvania.jpg).
+Model: rusticated sandstone rotunda drum with arched upper ring and conical roof, gabled main reading-room hall,
+crenellated stair tower, stacks wing, gabled arched entrance porch. Lot 8 x 6 cells (64 x 48 m). Front = -Y.
+Estimated: wing extents (OSM had only a node), heights, bay counts. Omitted: gargoyles, finials, Lea Library bay, Duhring Wing / Arthur Ross Gallery additions; no 3D vegetation.
