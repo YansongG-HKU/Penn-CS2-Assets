@@ -56,6 +56,16 @@ for F in (Ftf,Fte,Ftw):
 for a in np.linspace(pi*0.55,pi*1.45,7):
     F=frame((CX+(R+0.05)*math.cos(a),CY+(R+0.05)*math.sin(a),0),a-pi/2); archwin(F,0,11.6,1.8,3.0,'Limestone',k=8)
     F2=frame((CX+(R+1.65)*math.cos(a),CY+(R+1.65)*math.sin(a),0),a-pi/2); window(F2,0,1.4,1.2,1.6,None,0,'LimeDark')
+# rotunda gabled dormers + finials (photo), terracotta frieze band
+for a in np.linspace(pi*0.6,pi*1.4,5):
+    F=frame((CX+(R-0.6)*math.cos(a),CY+(R-0.6)*math.sin(a),0),a-pi/2)
+    boxr(-1.6,1.6,-1.5,0.9,16.8,20.0,'Brick',F); prism([(-1.9,20.0),(1.9,20.0),(0,22.4)],-1.7,1.1,'Brick',F)
+    prism([(-2.05,19.9),(2.05,19.9),(0,22.6)],0.9,1.15,'LimeDark',F)
+    gothwin(F,0,17.5,1.1,2.0,'Limestone',k=5,frm='Iron')
+    cyl((0,1.0,22.45),0.18,1.0,8,'Copper',F); cyl((0,1.0,23.4),0.07,0.7,6,'Copper',F)
+lathe((CX,CY,15.6),[(R+0.08,0),(R+0.08,0.35)],40,'Carve')
+boxr(-14.05,8.05,-6.05,10.05,16.3,16.6,'Carve')
+for (x,y) in ((-14,-6),(8,-6),(-14,10),(8,10)): cyl((x,y,18.0),0.3,2.2,8,'LimeDark'); cyl((x,y,20.2),0.12,0.8,6,'Copper')
 # site: brick paving plaza + flat lawn
 boxr(-LX,LX,-LY,LY,-0.05,0.0,'Paving')
 boxr(-30,-4,-22.5,-16,0,0.06,'Granite'); boxr(-29.8,-4.2,-22.3,-16.2,0,0.08,'Lawn')
