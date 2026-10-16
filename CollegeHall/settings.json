@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_CollegeHall_11x7_LOD1_BaseColor.png": "NA_CollegeHall_11x7_BaseColor.png",
+    "NA_CollegeHall_11x7_LOD1_Normal.png": "NA_CollegeHall_11x7_Normal.png",
+    "NA_CollegeHall_11x7_LOD1_MaskMap.png": "NA_CollegeHall_11x7_MaskMap.png",
+    "NA_CollegeHall_11x7_LOD1_ControlMask.png": "NA_CollegeHall_11x7_ControlMask.png",
+    "NA_CollegeHall_11x7_LOD1_Emissive.png": "NA_CollegeHall_11x7_Emissive.png"
+  }
+}

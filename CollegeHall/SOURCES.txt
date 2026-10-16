@@ -1,0 +1,14 @@
+NA_CollegeHall_11x7 - College Hall, University of Pennsylvania (Thomas W. Richards, 1871-1873).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint envelope ~84.1 x 51.6 m (oriented PCA), polygon area ~2319 m2:
+  OpenStreetMap way 51367353 (c) OSM contributors, ODbL.
+- 6 floors, 110,266 sq ft: Penn Facilities / Wikipedia (College Hall, University of Pennsylvania).
+- Victorian Gothic / Second Empire massing, green serpentine with sandstone trim, schist base:
+  SAH Archipedia PA-02-PH147.2; Penn Facilities building page; Wikimedia Commons photos.
+Model: tripartite pavilions (arts / administration / sciences) with recessed connectors; rusticated
+base; serpentine upper walls; flush sandstone belts; Gothic portico and arched openings at centre;
+hipped roofs with copper ridge; flat lawn/paving only. Historic end towers omitted (removed).
+Lot 11 x 7 cells (88 x 56 m). Front (College Green) = -Y.
+Estimated: exact floor heights, bay spacing, portico depth, lamp posts.
+Omitted: Benjamin Franklin statue (no CC0/CC-BY scan used); no 3D vegetation; interior not modelled.
