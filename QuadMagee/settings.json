@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_QuadMagee_4x3_LOD1_BaseColor.png": "NA_QuadMagee_4x3_BaseColor.png",
+    "NA_QuadMagee_4x3_LOD1_Normal.png": "NA_QuadMagee_4x3_Normal.png",
+    "NA_QuadMagee_4x3_LOD1_MaskMap.png": "NA_QuadMagee_4x3_MaskMap.png",
+    "NA_QuadMagee_4x3_LOD1_ControlMask.png": "NA_QuadMagee_4x3_ControlMask.png",
+    "NA_QuadMagee_4x3_LOD1_Emissive.png": "NA_QuadMagee_4x3_Emissive.png"
+  }
+}
