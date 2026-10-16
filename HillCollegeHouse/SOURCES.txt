@@ -1,0 +1,4 @@
+NA_HillCollegeHouse_10x6 - Hill College House, University of Pennsylvania (Eero Saarinen, designed 1958, built 1960; renovated 2017).
+Fully procedural. OSM relation 5235124: PCA 78.9 x 45.7 m, area ~3457 m2 (c) OSM contributors, ODbL.
+6 floors, ~200,000 sf fortress brick dorm with atrium court, recessed windows, entry bridge over dry moat: Penn Facilities / collegehouses.upenn.edu.
+Lot 10x6 (80x48). Front (Walnut)= -Y. Moat = recessed paving only; no 3D vegetation/fence ivy. Spikes simplified as iron posts.

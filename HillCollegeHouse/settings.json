@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_HillCollegeHouse_10x6_LOD1_BaseColor.png": "NA_HillCollegeHouse_10x6_BaseColor.png",
+    "NA_HillCollegeHouse_10x6_LOD1_Normal.png": "NA_HillCollegeHouse_10x6_Normal.png",
+    "NA_HillCollegeHouse_10x6_LOD1_MaskMap.png": "NA_HillCollegeHouse_10x6_MaskMap.png",
+    "NA_HillCollegeHouse_10x6_LOD1_ControlMask.png": "NA_HillCollegeHouse_10x6_ControlMask.png",
+    "NA_HillCollegeHouse_10x6_LOD1_Emissive.png": "NA_HillCollegeHouse_10x6_Emissive.png"
+  }
+}
