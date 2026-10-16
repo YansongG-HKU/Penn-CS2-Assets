@@ -25,9 +25,9 @@ for q in (-1,1): box((q*8.6,YF-1.6,0),(4.6,4.6,ZC),'Brick',rz=pi/4)
 boxr(-7.2,7.2,YP-0.1,YF,ZC-0.6,ZC,'LimeDark')
 Fp=frame((0,YP,0),pi)
 window(Fp,0,6.6,8.0,8.0,None,0.1,'Brick')
-box((0,0.12,4.6),(6.4,0.24,1.3),'Limestone',Fp)
-door(Fp,0,5.0,3.0,1.0,None,y=0.1)
-for i in range(5): boxr(-9-0.9*i,9+0.9*i,YP-1.0-0.9*i,YP,0,1.0-0.2*i,'Granite')
+box((0,0.12,5.25),(6.4,0.24,0.85),'Limestone',Fp)  # nameplate, clear of door cornice (<=4.8) and window sill (>=6.3)
+door(Fp,0,5.0,2.8,1.0,None,y=0.1)
+for i in range(4): boxr(-9-0.9*i,9+0.9*i,YP-1.0-0.9*i,YP,0,1.0-0.2*i,'Granite')
 # side bays: tall vertical glazed slots
 for q in (-1,1):
     for z in (2.0,8.0): window(frame((q*11.6,YF-1.6,0),pi+q*pi/4),0,z,1.4,5.0,None,0.1,'Brick')
