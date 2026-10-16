@@ -91,3 +91,14 @@ Repo: https://github.com/YansongG-HKU/Penn-CS2-Assets (public). Do **not** put P
 | 12 | Franklin Field (exterior) | **28×19** | NA_FranklinField_28x19 | PCA **219.7×149.9**, ~27635 m² (way 665447049) | Stadium bowl shell only; no field veg |
 | — | The Quad (full) | — | — | (no single OSM polygon via Nominatim) | Too complex as one asset; defer to distinct houses |
 
+
+## Phase 3 — The Quadrangle (split into individual houses; OSM API 0.6 map bbox, PCA footprints)
+| Asset | OSM | PCA footprint | Lot |
+|---|---|---|---|
+| NA_QuadMemorialTower_3x3 | way 320602388 | 22.1 × 21.6 m | 3x3 |
+| NA_QuadSpeakman_7x3 | way 320602397 | 51.2 × 17.5 m | 7x3 |
+| NA_QuadMcClelland_6x3 | way 320602420 | 45.6 × 18.8 m | 6x3 |
+| NA_QuadWard_4x4 | way 320602400 | 23.6 × 23.3 m (+corner turret) | 4x4 |
+| NA_QuadFitler_3x3 | way 320602405 | 16.7 × 16.2 m (typical unit) | 3x3 |
+Remaining ~33 Quad houses (Craig, Baird, Hopkinson, Smith, Lippincott, Morgan, Bodine, Morris, Rodney, Bishop White, Coxe…) listed in OSM, same kit (`_pipe/quad_lib.py`) reusable.
+Refs: Commons "Penn campus 2.jpg", "War Memorial Tower & Quadrangle Dormitories c.1908.jpg", "University of Pennsylvania Quadrangle First-Year Dormitory.jpg". Steinberg-Dietrich now real photos: "The Wharton School - UPenn 20240528.jpg", "Locust Walk by Wharton.jpg".
