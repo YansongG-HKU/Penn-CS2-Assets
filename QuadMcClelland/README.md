@@ -7,8 +7,8 @@
 | Lot | 6x3 |
 | Model bounds (incl. lot surface) | 48.0 x 24.1 x 20.9 m |
 | Real reference | OSM way 320602420 45.6x18.8 m |
-| LOD0 tris (Base / Win / Gls) | 15336 / 319 / 0 |
-| LOD1 tris (Base / Win / Gls) | 11628 / 319 / 0 |
+| LOD0 tris (Base / Win / Gls) | 15194 / 310 / 0 |
+| LOD1 tris (Base / Win / Gls) | 11486 / 310 / 0 |
 | LOD2 tris | 40 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,10 +18,10 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_QuadMcClelland_6x3_Base | 15336 | 0 | 618 | 0 | 0 | 0 | 0 |
-| NA_QuadMcClelland_6x3_Win | 319 | 547 | 0 | 0 | 0 | 0 | 114 |
-| NA_QuadMcClelland_6x3_LOD1_Base | 11628 | 0 | 618 | 0 | 0 | 0 | 0 |
-| NA_QuadMcClelland_6x3_LOD1_Win | 319 | 547 | 0 | 0 | 0 | 0 | 114 |
+| NA_QuadMcClelland_6x3_Base | 15194 | 0 | 590 | 0 | 0 | 0 | 0 |
+| NA_QuadMcClelland_6x3_Win | 310 | 536 | 0 | 0 | 0 | 0 | 113 |
+| NA_QuadMcClelland_6x3_LOD1_Base | 11486 | 0 | 590 | 0 | 0 | 0 | 0 |
+| NA_QuadMcClelland_6x3_LOD1_Win | 310 | 536 | 0 | 0 | 0 | 0 | 113 |
 | NA_QuadMcClelland_6x3_LOD2_Base | 40 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 (Boundary / non-manifold edges come from intentionally open trim pieces and touching/overlapping detail blocks; Win/Gls panes are single-sided planes that sit on the Base mesh, so they count as 'floating' inside their own sub-mesh.)
