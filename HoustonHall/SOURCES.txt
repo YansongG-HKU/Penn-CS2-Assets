@@ -1,0 +1,6 @@
+NA_HoustonHall_11x5 - Houston Hall, University of Pennsylvania (Frank Miles Day; William C. Hays & Milton B. Medary, 1894-96; McGoodwin 1936; VSBA 2000). First US student union.
+Fully procedural model (no third-party meshes/textures).
+- Footprint PCA 84.0 x 37.3 m, area ~2305 m2: OpenStreetMap way 51469194 (c) OSM contributors, ODbL.
+- 4 floors, 99,882 sq ft: Penn Facilities building 245; Wikipedia "Houston Hall (University of Pennsylvania)".
+- Massing (two steep street gables flanking a lower central range, shaped-gable entrance bay, chimneys, mullioned windows): Wikimedia Commons historic photo "Houston Hall, University of Pennsylvania, Philadelphia, PA.jpg" + Spruce Street entrance photo.
+Lot 11 x 5 cells (88 x 40 m). Front (Spruce Street) = -Y. Estimated: heights, bays, wing depths. No 3D vegetation/ivy.

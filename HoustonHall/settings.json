@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_HoustonHall_11x5_LOD1_BaseColor.png": "NA_HoustonHall_11x5_BaseColor.png",
+    "NA_HoustonHall_11x5_LOD1_Normal.png": "NA_HoustonHall_11x5_Normal.png",
+    "NA_HoustonHall_11x5_LOD1_MaskMap.png": "NA_HoustonHall_11x5_MaskMap.png",
+    "NA_HoustonHall_11x5_LOD1_ControlMask.png": "NA_HoustonHall_11x5_ControlMask.png",
+    "NA_HoustonHall_11x5_LOD1_Emissive.png": "NA_HoustonHall_11x5_Emissive.png"
+  }
+}
