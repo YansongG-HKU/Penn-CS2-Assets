@@ -1,0 +1,3 @@
+NA_PennMuseum_21x15 - Penn Museum (University of Pennsylvania Museum of Archaeology and Anthropology).
+OSM relation 5231601: PCA 164.9 x 114.0 m ~10128 m2. Brick pavilion with white stone portal, wings, rear rotunda — simplified.
+Lot 21x15. Front=-Y. No statues/3D vegetation. Commons exterior photos.

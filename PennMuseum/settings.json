@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_PennMuseum_21x15_LOD1_BaseColor.png": "NA_PennMuseum_21x15_BaseColor.png",
+    "NA_PennMuseum_21x15_LOD1_Normal.png": "NA_PennMuseum_21x15_Normal.png",
+    "NA_PennMuseum_21x15_LOD1_MaskMap.png": "NA_PennMuseum_21x15_MaskMap.png",
+    "NA_PennMuseum_21x15_LOD1_ControlMask.png": "NA_PennMuseum_21x15_ControlMask.png",
+    "NA_PennMuseum_21x15_LOD1_Emissive.png": "NA_PennMuseum_21x15_Emissive.png"
+  }
+}

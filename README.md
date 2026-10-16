@@ -19,6 +19,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Steinberg-Dietrich Hall | [SteinbergDietrich](SteinbergDietrich) | NA_SteinbergDietrich_16x10 | 16x10 |
 | Wistar Institute | [WistarInstitute](WistarInstitute) | NA_WistarInstitute_17x8 | 17x8 |
 | Franklin Field | [FranklinField](FranklinField) | NA_FranklinField_28x19 | 28x19 |
+| Penn Museum | [PennMuseum](PennMuseum) | NA_PennMuseum_21x15 | 21x15 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.
