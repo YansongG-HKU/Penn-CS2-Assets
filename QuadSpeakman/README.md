@@ -7,8 +7,8 @@
 | Lot | 7x3 |
 | Model bounds (incl. lot surface) | 56.0 x 24.0 x 23.81 m |
 | Real reference | OSM way 320602397 51.2x17.5 m |
-| LOD0 tris (Base / Win / Gls) | 21046 / 320 / 0 |
-| LOD1 tris (Base / Win / Gls) | 15214 / 320 / 0 |
+| LOD0 tris (Base / Win / Gls) | 20806 / 316 / 0 |
+| LOD1 tris (Base / Win / Gls) | 15046 / 316 / 0 |
 | LOD2 tris | 40 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,10 +18,10 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_QuadSpeakman_7x3_Base | 21046 | 0 | 388 | 0 | 0 | 0 | 0 |
-| NA_QuadSpeakman_7x3_Win | 320 | 640 | 0 | 0 | 0 | 0 | 160 |
-| NA_QuadSpeakman_7x3_LOD1_Base | 15214 | 0 | 388 | 0 | 0 | 0 | 0 |
-| NA_QuadSpeakman_7x3_LOD1_Win | 320 | 640 | 0 | 0 | 0 | 0 | 160 |
+| NA_QuadSpeakman_7x3_Base | 20806 | 0 | 384 | 0 | 0 | 0 | 0 |
+| NA_QuadSpeakman_7x3_Win | 316 | 632 | 0 | 0 | 0 | 0 | 158 |
+| NA_QuadSpeakman_7x3_LOD1_Base | 15046 | 0 | 384 | 0 | 0 | 0 | 0 |
+| NA_QuadSpeakman_7x3_LOD1_Win | 316 | 632 | 0 | 0 | 0 | 0 | 158 |
 | NA_QuadSpeakman_7x3_LOD2_Base | 40 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 (Boundary / non-manifold edges come from intentionally open trim pieces and touching/overlapping detail blocks; Win/Gls panes are single-sided planes that sit on the Base mesh, so they count as 'floating' inside their own sub-mesh.)
