@@ -23,11 +23,13 @@ for (x,w,H,r) in ((-7.2,6.0,26.0,2.7),(7.2,6.0,26.0,2.7),(0,8.4,30.0,3.6)):
     onion(x,(y0+y1)/2,H+0.9,r)
     F=frame((x,y0,0),pi)
     for z in np.arange(4.3,H-3.5,3.4):
-        if x==0: window(F,-1.6,z,1.5,2.1,None,0.1,'Limestone'); window(F,1.6,z,1.5,2.1,None,0.1,'Limestone')
+        if x==0:
+            if z<7.5: continue
+            window(F,-1.6,z,1.5,2.1,None,0.1,'Limestone'); window(F,1.6,z,1.5,2.1,None,0.1,'Limestone')
         else: window(F,0,z,1.5,2.1,None,0.1,'Limestone')
+    pass
 # gateway arch
 Fg=frame((0,-10.8,0),pi); door(Fg,0,3.6,4.4,0.6,None,y=0.1)
-boxr(-2.6,2.6,-11.1,-10.8,5.0,5.6,'Limestone')
 paving(12,12)
 
 finalize(D)
