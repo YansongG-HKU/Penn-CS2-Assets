@@ -43,7 +43,7 @@ def mansard(x0,x1,y0,y1,zc,zt):
 def dormer(F,x,z0):
     boxr(x-1.2,x+1.2,-2.2,0.0,z0,z0+3.4,'Brick',F)
     prism([(x-1.45,z0+3.4),(x+1.45,z0+3.4),(x,z0+4.9)],-2.2,0.15,'Roof',F)
-    archwin(F,x,z0+0.4,1.3,2.6,'Limestone',k=8)
+    gothwin(F,x,z0+0.4,1.3,2.6,'Limestone',k=8)
 def block(x0,x1,y0,y1,zcorn=ZC,zridge=ZTOP,hip=True):
     # schist base + granite plinth
     boxr(x0-0.14,x1+0.14,y0-0.14,y1+0.14,0,ZBASE,'Rustic')
@@ -97,8 +97,8 @@ def bay(F,x,tall_base=False,skip=False):
         window(F,x,1.2,1.35,2.8,None,0.12,'LimeDark')
     else:
         window(F,x,1.35,1.2,2.4,None,0.12,'LimeDark')
-    archwin(F,x,5.0,1.45,6.0,'Limestone',k=8)
-    archwin(F,x,13.0,1.35,4.2,'Limestone',k=8)
+    gothwin(F,x,5.0,1.45,6.0,'Limestone',k=8)
+    gothwin(F,x,13.0,1.35,4.2,'Limestone',k=8)
     window(F,x,18.4,1.15,1.7,None,0,'LimeDark')
 # centre pavilion front: 5 bays + central door
 CX=[-7.2,-3.6,0.0,3.6,7.2]
@@ -107,7 +107,7 @@ for x in CX:
     bay(Ff,x,tall_base=True)
 # Gothic arched windows at second storey flanking entrance
 for x in (-5.4,5.4):
-    archwin(Ff,x,5.0,2.0,3.4,'Limestone',k=10)
+    gothwin(Ff,x,5.0,2.0,3.4,'Limestone',k=10)
 # centre entrance portico
 door(Ff,0,2.8,3.8,0.9,None,y=0.14)
 # portico piers + shallow canopy
@@ -116,7 +116,7 @@ for x in (-2.4,2.4):
 boxr(-3.2,3.2,0.2,1.2,4.5,4.85,'Limestone',Ff)
 boxr(-3.5,3.5,0.15,1.35,4.85,5.15,'LimeDark',Ff)
 # pointed niche above door
-archwin(Ff,0,5.2,2.2,3.6,'Limestone',k=10)
+gothwin(Ff,0,5.2,2.2,3.6,'Limestone',k=10)
 # centre back
 for x in [-7.2,-3.6,-0.0,3.6,7.2]:
     bay(Fb,x)
@@ -169,4 +169,19 @@ boxr(-2.5,2.5,-19.5,CP[2]-0.2,0.0,0.05,'Paving')
 # mansard dormers (photo: gabled dormers with pointed windows)
 for (F,xs,zc) in ((Ff,(-6,6),ZC),(Fb,(-6,0,6),ZC),(Fwf,(-3.5,3.5),ZC-0.6),(Fef,(-3.5,3.5),ZC-0.6),(Fwb,(-3.5,3.5),ZC-0.6),(Feb,(-3.5,3.5),ZC-0.6)):
     for x in xs: dormer(F,x,zc+0.78)
+# coloured stone banding (red-brown sandstone), flush, in gaps between window rows
+for B in BLOCKS:
+    x0,x1,y0,y1=B
+    for (za,zb) in ((11.55,11.8),):
+        boxr(x0-0.02,x1+0.02,y0-0.02,y1+0.02,za,zb,'Carve')
+# corner turrets with spires (outer pavilion corners + centre front)
+def turret(cx,cy,z0,s=1.1,h=4.2,sp=5.5):
+    boxr(cx-s,cx+s,cy-s,cy+s,z0,z0+h,'Brick'); boxr(cx-s-0.12,cx+s+0.12,cy-s-0.12,cy+s+0.12,z0+h,z0+h+0.3,'LimeDark')
+    pyramid(cx,cy,z0+h+0.3,s+0.1,sp,'Carve'); cyl((cx,cy,z0+h+0.3+sp-0.4),0.06,1.6,6,'Iron')
+for (cx,cy,zc) in ((WP[0],WP[2],ZC-0.6),(WP[0],WP[3],ZC-0.6),(EP[1],EP[2],ZC-0.6),(EP[1],EP[3],ZC-0.6),(CP[0],CP[2],ZC),(CP[1],CP[2],ZC)):
+    turret(cx,cy,zc-0.4)
+# central front spire tower over portico
+boxr(-2.2,2.2,CP[2]-0.3,CP[2]+3.2,ZC-0.4,ZC+6.0,'Brick'); prism([(-2.6,ZC+6.0),(2.6,ZC+6.0),(0,ZC+8.6)],CP[2]-0.5,CP[2]+3.4,'Roof')
+gothwin(Ff,0,ZC+0.9,1.4,3.6,'Limestone',k=6)
+pyramid(0,CP[2]+1.45,ZC+8.2,1.0,6.5,'Carve')
 finalize(D)
