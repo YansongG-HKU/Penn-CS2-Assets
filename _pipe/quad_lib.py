@@ -27,6 +27,7 @@ def jblock(x0,x1,y0,y1,nfl,roof=True,gab_x=True,chim=(),dorm_front=(),dorm_back=
     for f in range(nfl):
         z=Z0+f*FL+0.35
         for x in win_front:
+            if f==0 and abs(x-cx)<2.8: continue
             if f==0 and x in arch_front: archwin(Ff,-(x-cx),z-0.2,2.2,2.5,'Limestone',k=8)
             else: window(Ff,-(x-cx),z,1.9,1.8,None,0.1,'Limestone')
         for x in win_back: window(Fb,x-cx,z,1.7,1.8,None,0.1,'Limestone')

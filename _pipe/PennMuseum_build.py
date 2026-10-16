@@ -13,8 +13,10 @@ prism([(-14.5,16.0),(14.5,16.0),(0,24.0)],-48.2,-10,'Brick')
 prism([(-15,16.0),(15,16.0),(0,24.5)],-48.5,-45.5,'Roof')
 # white stone portal
 Ff=frame((0,-48,0),pi)
-boxr(-6,6,0,1.2,2.0,10.5,'Limestone',Ff)
-door(Ff,0,3.2,4.0,2.2,None,y=0.2)
+# white stone portal as open frame: piers + head, opening clear of door
+for q in (-1,1): boxr(q*2.4,q*6,0,1.2,2.0,10.5,'Limestone',Ff)
+boxr(-6,6,0,1.2,7.6,10.5,'Limestone',Ff)
+door(Ff,0,3.0,4.0,2.0,None,y=0.2)
 box((0,0.5,10.5),(4.5,0.8,3.5),'Limestone',Ff)  # relief panel
 # stairs
 for i in range(8): boxr(-10+0.4*i,10-0.4*i,-55+0.7*i,-48,0,0.22*(i+1),'Brick')
