@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_WistarInstitute_17x8_LOD1_BaseColor.png": "NA_WistarInstitute_17x8_BaseColor.png",
+    "NA_WistarInstitute_17x8_LOD1_Normal.png": "NA_WistarInstitute_17x8_Normal.png",
+    "NA_WistarInstitute_17x8_LOD1_MaskMap.png": "NA_WistarInstitute_17x8_MaskMap.png",
+    "NA_WistarInstitute_17x8_LOD1_ControlMask.png": "NA_WistarInstitute_17x8_ControlMask.png",
+    "NA_WistarInstitute_17x8_LOD1_Emissive.png": "NA_WistarInstitute_17x8_Emissive.png"
+  }
+}
