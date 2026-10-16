@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Lot | 16x10 |
-| Model bounds (incl. lot surface) | 128.0 x 80.6 x 22.05 m |
+| Model bounds (incl. lot surface) | 128.0 x 80.0 x 22.05 m |
 | Real reference | OSM way 51469702 127.4x78.5 m |
-| LOD0 tris (Base / Win / Gls) | 24048 / 326 / 0 |
-| LOD1 tris (Base / Win / Gls) | 14040 / 326 / 0 |
+| LOD0 tris (Base / Win / Gls) | 24036 / 326 / 0 |
+| LOD1 tris (Base / Win / Gls) | 14028 / 326 / 0 |
 | LOD2 tris | 72 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,9 +18,9 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_SteinbergDietrich_16x10_Base | 24048 | 0 | 331 | 0 | 0 | 0 | 0 |
+| NA_SteinbergDietrich_16x10_Base | 24036 | 0 | 331 | 0 | 0 | 0 | 0 |
 | NA_SteinbergDietrich_16x10_Win | 326 | 652 | 0 | 0 | 0 | 0 | 163 |
-| NA_SteinbergDietrich_16x10_LOD1_Base | 14040 | 0 | 331 | 0 | 0 | 0 | 0 |
+| NA_SteinbergDietrich_16x10_LOD1_Base | 14028 | 0 | 331 | 0 | 0 | 0 | 0 |
 | NA_SteinbergDietrich_16x10_LOD1_Win | 326 | 652 | 0 | 0 | 0 | 0 | 163 |
 | NA_SteinbergDietrich_16x10_LOD2_Base | 72 | 0 | 0 | 0 | 0 | 0 | 0 |
 
