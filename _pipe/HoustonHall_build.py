@@ -23,7 +23,21 @@ for (x0,x1) in ((-42,-26),(26,42)):
     # gable-end on rear too
     xc=(x0+x1)/2
 # central entrance bay with shaped gable
-walls(-4.5,4.5,-9.5,-7,12.8); prism([(-4.5,12.8),(4.5,12.8),(0,15.2)],-9.55,-7,'Rustic'); boxr(-0.4,0.4,-9.7,-9.3,14.9,15.6,'LimeDark')
+walls(-4.5,4.5,-9.5,-7,12.8)
+# curved / serpentine entrance gable (Flemish-style), closed prism only
+_pts=[(-4.5,12.8)]
+for i,a in enumerate(np.linspace(pi,0,17)):
+    t=i/16
+    xx=-4.5+9.0*t
+    # shoulders + rounded centre peak (not a triangle)
+    zz=12.8 + 1.1*math.sin(pi*t) + 2.6*(math.sin(pi*t)**2) + 0.35*math.sin(3*pi*t)**2
+    _pts.append((xx,zz))
+_pts.append((4.5,12.8))
+prism(_pts,-9.55,-7.0,'Rustic')
+# thin closed coping as a second prism slightly proud
+_pts2=[(x,z+0.18) for x,z in _pts]
+prism(_pts2,-9.65,-9.35,'LimeDark')
+boxr(-0.35,0.35,-9.75,-9.25,16.6,17.3,'LimeDark')
 # chimneys
 for x in (-20,20): boxr(x-0.9,x+0.9,1.0,2.8,14,19.5,'Rustic'); boxr(x-1.05,x+1.05,0.85,2.95,19.5,19.8,'LimeDark')
 # facades
