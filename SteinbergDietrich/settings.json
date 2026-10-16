@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_SteinbergDietrich_16x10_LOD1_BaseColor.png": "NA_SteinbergDietrich_16x10_BaseColor.png",
+    "NA_SteinbergDietrich_16x10_LOD1_Normal.png": "NA_SteinbergDietrich_16x10_Normal.png",
+    "NA_SteinbergDietrich_16x10_LOD1_MaskMap.png": "NA_SteinbergDietrich_16x10_MaskMap.png",
+    "NA_SteinbergDietrich_16x10_LOD1_ControlMask.png": "NA_SteinbergDietrich_16x10_ControlMask.png",
+    "NA_SteinbergDietrich_16x10_LOD1_Emissive.png": "NA_SteinbergDietrich_16x10_Emissive.png"
+  }
+}

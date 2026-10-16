@@ -16,6 +16,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Annenberg Center | [AnnenbergCenter](AnnenbergCenter) | NA_AnnenbergCenter_10x9 | 10x9 |
 | Hill College House | [HillCollegeHouse](HillCollegeHouse) | NA_HillCollegeHouse_10x6 | 10x6 |
 | Claudia Cohen Hall | [ClaudiaCohenHall](ClaudiaCohenHall) | NA_ClaudiaCohenHall_7x5 | 7x5 |
+| Steinberg-Dietrich Hall | [SteinbergDietrich](SteinbergDietrich) | NA_SteinbergDietrich_16x10 | 16x10 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.
