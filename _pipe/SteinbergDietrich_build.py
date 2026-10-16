@@ -17,14 +17,31 @@ boxr(-XW+1,XW-1,YF+13,YB-1,ZC,ZTOP,'Roof')
 for (x0,x1) in ((-XW,-XW+28),(-14,14),(XW-28,XW)):
     boxr(x0+0.5,x1-0.5,YF+0.5,YF+13.5,ZC,ZTOP-1,'Roof')
 Ff=frame((0,YF,0),pi); Fb=frame((0,YB,0),0)
-# ribbon + punched windows
-for xc in (-45,-30,0,30,45):
+# v2 (real photos Commons 'The Wharton School - UPenn 20240528'): dark brown brick, no white trim;
+# 1983 Steinberg entry = chamfered brick bay with tall mullioned glazing, stone name panel, wide stairs; vertical window bands.
+YP=YF-4.0
+boxr(-7,7,YP,YF+1,0,ZC,'Brick')
+for q in (-1,1): box((q*8.6,YF-1.6,0),(4.6,4.6,ZC),'Brick',rz=pi/4)
+boxr(-7.2,7.2,YP-0.1,YF,ZC-0.6,ZC,'LimeDark')
+Fp=frame((0,YP,0),pi)
+window(Fp,0,6.6,8.0,8.0,None,0.1,'Brick')
+box((0,0.12,4.6),(6.4,0.24,1.3),'Limestone',Fp)
+door(Fp,0,5.0,3.0,1.0,None,y=0.1)
+for i in range(5): boxr(-9-0.9*i,9+0.9*i,YP-1.0-0.9*i,YP,0,1.0-0.2*i,'Granite')
+# side bays: tall vertical glazed slots
+for q in (-1,1):
+    for z in (2.0,8.0): window(frame((q*11.6,YF-1.6,0),pi+q*pi/4),0,z,1.4,5.0,None,0.1,'Brick')
+# vertical window bands on wings (punched, brick sills)
+for xc in (-44,44):
     F=frame((xc,YF,0),pi)
     for z in (1.2,5.5,9.5,13.5):
-        for x in (-8,-4,0,4,8): window(F,x,z,2.2,2.6,None,0.1,'LimeDark')
+        for x in (-9,-6,-3,3,6,9): window(F,x,z,1.6,3.0,None,0.1,'Brick')
 for x in np.arange(-50,51,4.5):
-    for z in (1.2,5.5,9.5,13.5): window(Fb,x,z,2.0,2.6,None,0.1,'LimeDark')
-door(frame((0,YF,0),pi),0,3.0,3.2,0.8,None,y=0.15)
+    if not (16<abs(x)<28): continue
+    F=frame((x,YF+12,0),pi)
+    for z in (5.5,9.5,13.5): window(F,0,z,1.6,3.0,None,0.1,'Brick')
+for x in np.arange(-50,51,4.5):
+    for z in (1.2,5.5,9.5,13.5): window(Fb,x,z,1.6,3.0,None,0.1,'Brick')
 boxr(-LX,LX,-LY,LY,-0.05,0,'Paving')
 boxr(-55,55,-38,-33,0,0.06,'Granite'); boxr(-54.5,54.5,-37.5,-33.5,0,0.08,'Lawn')
 finalize(D)
