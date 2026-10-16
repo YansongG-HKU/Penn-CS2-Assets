@@ -1,0 +1,3 @@
+NA_QuadMcClelland_6x3 - McClelland House, The Quadrangle (Cope & Stewardson 1895-1912): Jacobean Revival red brick, limestone belts/quoins/coped gables, slate roof, gabled dormers, tall chimneys. 3 floors.
+Fully procedural. OSM way 320602420: PCA 45.6 x 18.8 m (~624 m2); ground-floor arcade lounge (c) OpenStreetMap contributors, ODbL. Building split from The Quadrangle (Fisher Hassenfeld/Ware/Riepe college houses).
+Ref photos: Wikimedia Commons (Quad_0.jpg, Quad_1.jpg in _audit/ref). No 3D vegetation.
