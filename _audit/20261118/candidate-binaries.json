@@ -1,0 +1,1344 @@
+{
+  "base_commit": "3a7097a0ef154f454e0ce67da0b26c37c26bfed4",
+  "publication_status": "NOT_UPLOADED: candidate binary files remain outside repository; LFS upload pending",
+  "files": [
+    {
+      "path": "AnnenbergCenter/NA_AnnenbergCenter_10x9.blend",
+      "source": "round3",
+      "bytes": 3362371,
+      "sha256": "fe71c925fadba5ee58c8ab4ae38333754b93381b6edf3c54c265c89b838fd945"
+    },
+    {
+      "path": "AnnenbergCenter/fbx7500/NA_AnnenbergCenter_10x9.fbx",
+      "source": "round3",
+      "bytes": 403708,
+      "sha256": "22520df142ed9bf7b876d210e0fb4badc4349dc5ad97772f7cb9f642fa6fd2b2"
+    },
+    {
+      "path": "AnnenbergCenter/fbx7500/NA_AnnenbergCenter_10x9_LOD1.fbx",
+      "source": "round3",
+      "bytes": 227516,
+      "sha256": "bbe2f1e65e540a03956489dde3850427da344894cf2a39c31aa0de233a827ed8"
+    },
+    {
+      "path": "AnnenbergCenter/fbx7500/NA_AnnenbergCenter_10x9_LOD2.fbx",
+      "source": "round3",
+      "bytes": 28268,
+      "sha256": "377032adb1c4751fe04708da04b61309a6eb761dfdfdaece46e112b42d929e97"
+    },
+    {
+      "path": "AnnenbergCenter/refined_exports/NA_AnnenbergCenter_10x9.fbx",
+      "source": "round3",
+      "bytes": 396396,
+      "sha256": "1909a4f6ee744d57ad34218a400a0eb07dbda9bb2d2b7409f0da9f6deb6a51cb"
+    },
+    {
+      "path": "AnnenbergCenter/refined_exports/NA_AnnenbergCenter_10x9_LOD1.fbx",
+      "source": "round3",
+      "bytes": 220188,
+      "sha256": "e3602bfc6654795380b4e675cef98baaf40f3b88d22d4c486c41f106960470b4"
+    },
+    {
+      "path": "AnnenbergCenter/refined_exports/NA_AnnenbergCenter_10x9_LOD2.fbx",
+      "source": "round3",
+      "bytes": 23340,
+      "sha256": "cd44423db3522ca3ff7152e8fedcf0223d305fdc0bcf67b8751f55542e0f2613"
+    },
+    {
+      "path": "ClaudiaCohenHall/NA_ClaudiaCohenHall_7x5.blend",
+      "source": "round3",
+      "bytes": 2026479,
+      "sha256": "7d00790201c7770dd0772f7f0187ecb92cd188f7c066fa8f929ca2e4df02b59c"
+    },
+    {
+      "path": "ClaudiaCohenHall/fbx7500/NA_ClaudiaCohenHall_7x5.fbx",
+      "source": "round3",
+      "bytes": 242908,
+      "sha256": "7ddb5a855ee5a4c732c67a388a256c55e71bb79e107638b7c1a3de55aa0c68da"
+    },
+    {
+      "path": "ClaudiaCohenHall/fbx7500/NA_ClaudiaCohenHall_7x5_LOD1.fbx",
+      "source": "round3",
+      "bytes": 151756,
+      "sha256": "2d6ca72bd0c459f0c3f094aff5f2a5deeece01fc20473266ec6463d4b4a11125"
+    },
+    {
+      "path": "ClaudiaCohenHall/fbx7500/NA_ClaudiaCohenHall_7x5_LOD2.fbx",
+      "source": "round3",
+      "bytes": 29276,
+      "sha256": "857ccd7f66e90c50c395323ce092cbc4687af753f9bb335988322227b4c75dfc"
+    },
+    {
+      "path": "ClaudiaCohenHall/refined_exports/NA_ClaudiaCohenHall_7x5.fbx",
+      "source": "round3",
+      "bytes": 235580,
+      "sha256": "e09a0be0396a39134ee6e3a36949f17f806dfb033e6403d0d2d354a2946ce08d"
+    },
+    {
+      "path": "ClaudiaCohenHall/refined_exports/NA_ClaudiaCohenHall_7x5_LOD1.fbx",
+      "source": "round3",
+      "bytes": 144444,
+      "sha256": "050f4cbf787de43fda483922c4d59f18a04c4b60ce71fd20040f00e40ed0e28e"
+    },
+    {
+      "path": "ClaudiaCohenHall/refined_exports/NA_ClaudiaCohenHall_7x5_LOD2.fbx",
+      "source": "round3",
+      "bytes": 24348,
+      "sha256": "0d447b5f1666a8b486860ab4eb9dcb998981f7753c6e8a20e1f358b229ebc14f"
+    },
+    {
+      "path": "CollegeHall/NA_CollegeHall_11x7.blend",
+      "source": "round3",
+      "bytes": 12683031,
+      "sha256": "a5b62c0889f58f6577edd3b9fbdf52a64499f2078fa15557ce0a63376e9e0dbd"
+    },
+    {
+      "path": "CollegeHall/fbx7500/NA_CollegeHall_11x7.fbx",
+      "source": "round3",
+      "bytes": 1723932,
+      "sha256": "987f08979b9557ff55755afcb6ba6f63a7525959482c54f9cf4223cdb1f4d465"
+    },
+    {
+      "path": "CollegeHall/fbx7500/NA_CollegeHall_11x7_LOD1.fbx",
+      "source": "round3",
+      "bytes": 1199500,
+      "sha256": "e8bd49e9dbef7dc76d13479634cc7f3179c0a497cbb64a777278786aca3c5efc"
+    },
+    {
+      "path": "CollegeHall/fbx7500/NA_CollegeHall_11x7_LOD2.fbx",
+      "source": "round3",
+      "bytes": 57100,
+      "sha256": "d74fd6a755161db26045cdd14b5dfed084f3091ae9edde936bf7248bc07198e0"
+    },
+    {
+      "path": "CollegeHall/refined_exports/NA_CollegeHall_11x7.fbx",
+      "source": "round3",
+      "bytes": 1716604,
+      "sha256": "c84df451491efda6741887c77122291b49815c966ceb9ff03521ec91c6c91855"
+    },
+    {
+      "path": "CollegeHall/refined_exports/NA_CollegeHall_11x7_LOD1.fbx",
+      "source": "round3",
+      "bytes": 1192188,
+      "sha256": "983b17b2016926e5410f3f34c03fd5ab3241fc40a77f0cc09ea29dc03505f654"
+    },
+    {
+      "path": "CollegeHall/refined_exports/NA_CollegeHall_11x7_LOD2.fbx",
+      "source": "round3",
+      "bytes": 52188,
+      "sha256": "0ba17734f0d973e02a7ec0d7096b3a704cacba2212abd2c0b499b72680580fbf"
+    },
+    {
+      "path": "FisherFineArts/NA_FisherFineArts_8x6.blend",
+      "source": "round3",
+      "bytes": 2288711,
+      "sha256": "e153f083f10e0267f900362ce9a889c03ff72577d6e3fe0e1f8ceaf1e7b1e4c2"
+    },
+    {
+      "path": "FisherFineArts/fbx7500/NA_FisherFineArts_8x6.fbx",
+      "source": "round3",
+      "bytes": 313740,
+      "sha256": "9dd4cc573b29f30590ad6284418ed2b036871e4b0f3e3e1eca9e1f35beba9cf5"
+    },
+    {
+      "path": "FisherFineArts/fbx7500/NA_FisherFineArts_8x6_LOD1.fbx",
+      "source": "round3",
+      "bytes": 238284,
+      "sha256": "03a5a0f93e8f3245cb1c971f15ac2c4eb819c1d0a7869316df39c5c8b0f38749"
+    },
+    {
+      "path": "FisherFineArts/fbx7500/NA_FisherFineArts_8x6_LOD2.fbx",
+      "source": "round3",
+      "bytes": 33820,
+      "sha256": "07952d54069ec3093a42e0dd891068c277e624288e26d7864e7d1e816dab43eb"
+    },
+    {
+      "path": "FisherFineArts/refined_exports/NA_FisherFineArts_8x6.fbx",
+      "source": "round3",
+      "bytes": 306428,
+      "sha256": "bf8c8459731bc87d0bca58655bc3d9523aae4cddf79723c8f0814ee113e4f420"
+    },
+    {
+      "path": "FisherFineArts/refined_exports/NA_FisherFineArts_8x6_LOD1.fbx",
+      "source": "round3",
+      "bytes": 230972,
+      "sha256": "3b713d70f6b7e5e6ef28cf0e177761aafcd4865c832dc67a70fc900e8ed98fd1"
+    },
+    {
+      "path": "FisherFineArts/refined_exports/NA_FisherFineArts_8x6_LOD2.fbx",
+      "source": "round3",
+      "bytes": 28908,
+      "sha256": "473486289fa5af7417633675691049781d16cff4d127cd9964f42476b174457f"
+    },
+    {
+      "path": "FranklinField/NA_FranklinField_28x19.blend",
+      "source": "round3",
+      "bytes": 2273167,
+      "sha256": "fa7e479d666cdbbcb8a037ae8668c2444f0fcd2382da6368fb7233acabb435d0"
+    },
+    {
+      "path": "FranklinField/fbx7500/NA_FranklinField_28x19.fbx",
+      "source": "round3",
+      "bytes": 276956,
+      "sha256": "ecab862e5063a07979f698875c62df703da00d7f541345e310bef636dbe21b16"
+    },
+    {
+      "path": "FranklinField/fbx7500/NA_FranklinField_28x19_LOD1.fbx",
+      "source": "round3",
+      "bytes": 194764,
+      "sha256": "e28b8706b5b0133f4027fff769ea7dc484a58d46d36599e41cf6a698754b52d4"
+    },
+    {
+      "path": "FranklinField/fbx7500/NA_FranklinField_28x19_LOD2.fbx",
+      "source": "round3",
+      "bytes": 28332,
+      "sha256": "e1c3bf2a98f63ba90c09b1212b23faabb447ee23f885d4940756f50e5f024890"
+    },
+    {
+      "path": "FranklinField/refined_exports/NA_FranklinField_28x19.fbx",
+      "source": "round3",
+      "bytes": 269644,
+      "sha256": "1653eb592c207fffb91707db955971658cdac9cfd5f6a2cc22e35c751ddd3d49"
+    },
+    {
+      "path": "FranklinField/refined_exports/NA_FranklinField_28x19_LOD1.fbx",
+      "source": "round3",
+      "bytes": 187452,
+      "sha256": "5577ed3c3ada64ec3f9d9ab4e18c286944a020a69dbc31afabfada31426db539"
+    },
+    {
+      "path": "FranklinField/refined_exports/NA_FranklinField_28x19_LOD2.fbx",
+      "source": "round3",
+      "bytes": 23420,
+      "sha256": "6c10ab08ce70521773fd14305d86d2bb968d56ac4e1846c6545361253560f1c4"
+    },
+    {
+      "path": "HillCollegeHouse/NA_HillCollegeHouse_10x6.blend",
+      "source": "round3",
+      "bytes": 4128359,
+      "sha256": "8fdbe6b70ad673e0322316e9e551f54016692a415d17743a0cb8563dc4ecd684"
+    },
+    {
+      "path": "HillCollegeHouse/fbx7500/NA_HillCollegeHouse_10x6.fbx",
+      "source": "round3",
+      "bytes": 508668,
+      "sha256": "e64c5601bdb5e5ae63fc4112ddd99fe6f991d70a61eacdf3df3d6bf5267fd18f"
+    },
+    {
+      "path": "HillCollegeHouse/fbx7500/NA_HillCollegeHouse_10x6_LOD1.fbx",
+      "source": "round3",
+      "bytes": 283228,
+      "sha256": "f4ddb512a91cff6a83ebc03d5d5d8c6bb2088cc0469f9f697377e98112f92149"
+    },
+    {
+      "path": "HillCollegeHouse/fbx7500/NA_HillCollegeHouse_10x6_LOD2.fbx",
+      "source": "round3",
+      "bytes": 27740,
+      "sha256": "8c2d35d7216c9997034dfa54791b897aa5612654b2bec369a7f29d7772a25e88"
+    },
+    {
+      "path": "HillCollegeHouse/refined_exports/NA_HillCollegeHouse_10x6.fbx",
+      "source": "round3",
+      "bytes": 501356,
+      "sha256": "7271368fade99ef239970724814fcc9850fcdf80548966e55dc772c9eec9e11d"
+    },
+    {
+      "path": "HillCollegeHouse/refined_exports/NA_HillCollegeHouse_10x6_LOD1.fbx",
+      "source": "round3",
+      "bytes": 275900,
+      "sha256": "4b0678e7ade43970c03074f82a3048336574c2f9f08b63d61b5c0f370e8420d4"
+    },
+    {
+      "path": "HillCollegeHouse/refined_exports/NA_HillCollegeHouse_10x6_LOD2.fbx",
+      "source": "round3",
+      "bytes": 22812,
+      "sha256": "0a78a37038305ec8f5d2681cef9af01e73df9d532bac012eb080590d08360ef2"
+    },
+    {
+      "path": "HoustonHall/NA_HoustonHall_11x5.blend",
+      "source": "round3",
+      "bytes": 2016203,
+      "sha256": "b1ff9230b4ea3f15b2d84407e0ef3606b9b8e68b6a9c9b16e078a401de7d1607"
+    },
+    {
+      "path": "HoustonHall/fbx7500/NA_HoustonHall_11x5.fbx",
+      "source": "round3",
+      "bytes": 230204,
+      "sha256": "d6402691f4b976afbeed7966524cedfaf99023c5cd0d001094ab5517c2cc2d89"
+    },
+    {
+      "path": "HoustonHall/fbx7500/NA_HoustonHall_11x5_LOD1.fbx",
+      "source": "round3",
+      "bytes": 147212,
+      "sha256": "9a01d8dd2f998dd1ee56a49f69b34a0a63ff315fb47d197bce519cf08a622a35"
+    },
+    {
+      "path": "HoustonHall/fbx7500/NA_HoustonHall_11x5_LOD2.fbx",
+      "source": "round3",
+      "bytes": 37948,
+      "sha256": "fcfb975bf64cc52692282d9cf7f7b381e89f45dbe3902bbb8b296fbda35227ef"
+    },
+    {
+      "path": "HoustonHall/refined_exports/NA_HoustonHall_11x5.fbx",
+      "source": "round3",
+      "bytes": 222876,
+      "sha256": "da03afc17347d3cce6c48db86680e2c7471299053566719b363716059b25fb1d"
+    },
+    {
+      "path": "HoustonHall/refined_exports/NA_HoustonHall_11x5_LOD1.fbx",
+      "source": "round3",
+      "bytes": 139884,
+      "sha256": "a0af9a75443b41903dd9cacee198d485e51a881a64b2b989ec26e635bc6e3762"
+    },
+    {
+      "path": "HoustonHall/refined_exports/NA_HoustonHall_11x5_LOD2.fbx",
+      "source": "round3",
+      "bytes": 33036,
+      "sha256": "0aa8b0510a4856d03db68034fc4ab7fd1647ff2a20ca9abdfcea38cbb2933eb2"
+    },
+    {
+      "path": "IrvineAuditorium/NA_IrvineAuditorium_7x7.blend",
+      "source": "round3",
+      "bytes": 2782243,
+      "sha256": "972e5ac5a376fe7c17cab9a57daab1d72ba0673851bab882091c5c5011f50408"
+    },
+    {
+      "path": "IrvineAuditorium/fbx7500/NA_IrvineAuditorium_7x7.fbx",
+      "source": "round3",
+      "bytes": 349308,
+      "sha256": "137a6968653e22724adb443640ee5110fdcb757aa6062b4c4141949e268a18f3"
+    },
+    {
+      "path": "IrvineAuditorium/fbx7500/NA_IrvineAuditorium_7x7_LOD1.fbx",
+      "source": "round3",
+      "bytes": 297820,
+      "sha256": "d4b38ad54f9dd535be7fe66b6d2a19b2d6b41a58e80cbecec8bcd3bccc4be35b"
+    },
+    {
+      "path": "IrvineAuditorium/fbx7500/NA_IrvineAuditorium_7x7_LOD2.fbx",
+      "source": "round3",
+      "bytes": 28620,
+      "sha256": "6c7b92cf5ad50d73c5016afaaf49c4cce0b7806382646b8994089b813901769c"
+    },
+    {
+      "path": "IrvineAuditorium/refined_exports/NA_IrvineAuditorium_7x7.fbx",
+      "source": "round3",
+      "bytes": 341980,
+      "sha256": "eda5b8ebfbc74348cd2af14d590baafc76bad2f48958fba1eba184fabb1b413b"
+    },
+    {
+      "path": "IrvineAuditorium/refined_exports/NA_IrvineAuditorium_7x7_LOD1.fbx",
+      "source": "round3",
+      "bytes": 290508,
+      "sha256": "1c501ebc1053603a3f283179a30620d0d959701b743756ef31471e55a9c4c33b"
+    },
+    {
+      "path": "IrvineAuditorium/refined_exports/NA_IrvineAuditorium_7x7_LOD2.fbx",
+      "source": "round3",
+      "bytes": 23708,
+      "sha256": "267c0104a14b13918174778bdcc09bcee50af739be966fb21b83183b7d2dc4ee"
+    },
+    {
+      "path": "PennMuseum/NA_PennMuseum_21x15.blend",
+      "source": "round3",
+      "bytes": 1203399,
+      "sha256": "2ee9b7ad6485065ecaff3bbfd455d0a2dd65056ad4ed712a7a424783f6722c96"
+    },
+    {
+      "path": "PennMuseum/fbx7500/NA_PennMuseum_21x15.fbx",
+      "source": "round3",
+      "bytes": 127084,
+      "sha256": "7be970c637bf73a58d5c569d1523c1b267692579941daf6d252b10ba87530ee8"
+    },
+    {
+      "path": "PennMuseum/fbx7500/NA_PennMuseum_21x15_LOD1.fbx",
+      "source": "round3",
+      "bytes": 105180,
+      "sha256": "659d5a67c6cb46d81b7f8cf9bdf7451edecf9d841072e0248d0f107ada641016"
+    },
+    {
+      "path": "PennMuseum/fbx7500/NA_PennMuseum_21x15_LOD2.fbx",
+      "source": "round3",
+      "bytes": 31132,
+      "sha256": "83023e58e25f6a971a7361f5628b4c9501ed7b76950532e21eb3056e2ccfd014"
+    },
+    {
+      "path": "PennMuseum/refined_exports/NA_PennMuseum_21x15.fbx",
+      "source": "round3",
+      "bytes": 119756,
+      "sha256": "5cd8d5c6ca9d8655229096d04ecf4fc41f9094ea605877f78f3786d3cdf0e7bb"
+    },
+    {
+      "path": "PennMuseum/refined_exports/NA_PennMuseum_21x15_LOD1.fbx",
+      "source": "round3",
+      "bytes": 97868,
+      "sha256": "813cc8cd3c051792246406e69e3f3b72c8a03bea29e091d325f3badf88ba084a"
+    },
+    {
+      "path": "PennMuseum/refined_exports/NA_PennMuseum_21x15_LOD2.fbx",
+      "source": "round3",
+      "bytes": 26204,
+      "sha256": "9ca326e0a429cbc1a6ef90890ecdf49b8c72ac2d86aff9215ed095fe06dd55fc"
+    },
+    {
+      "path": "QuadAshhurst/NA_QuadAshhurst_3x3.blend",
+      "source": "base",
+      "bytes": 1835427,
+      "sha256": "fcf15fa05733b2eb7748870ac73e440091f0c8770eb4c6a9011ca9f94d4ca43a"
+    },
+    {
+      "path": "QuadAshhurst/refined_exports/NA_QuadAshhurst_3x3.fbx",
+      "source": "base",
+      "bytes": 186892,
+      "sha256": "ac8a425a7352c87184231f50c8abad7a16c0ac648b49ee6147125d0aa1663b77"
+    },
+    {
+      "path": "QuadAshhurst/refined_exports/NA_QuadAshhurst_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 159356,
+      "sha256": "147ebe5d6ad7d001eda4adbf0814a2047c895071e5bdfb82ffbe4e74fc1d1243"
+    },
+    {
+      "path": "QuadAshhurst/refined_exports/NA_QuadAshhurst_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22092,
+      "sha256": "16a78c5599521f4b0b614a0732a148ef078391bcd7c23f037426ce52d86e4c17"
+    },
+    {
+      "path": "QuadBaird/NA_QuadBaird_3x3.blend",
+      "source": "base",
+      "bytes": 1737003,
+      "sha256": "1800eb066e23b2b455c5f0ecc57ec64484b0f5f48f64bccb453a8435f909c7e0"
+    },
+    {
+      "path": "QuadBaird/refined_exports/NA_QuadBaird_3x3.fbx",
+      "source": "base",
+      "bytes": 172444,
+      "sha256": "76013b9123b7e8b5fd71e21d73260f7fae62794630ab3e153e16954baac1c764"
+    },
+    {
+      "path": "QuadBaird/refined_exports/NA_QuadBaird_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 147772,
+      "sha256": "087f1d6e20192443a756c364fc69f5a4dbd27ce322d04d2f1a0a0600bec89114"
+    },
+    {
+      "path": "QuadBaird/refined_exports/NA_QuadBaird_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22012,
+      "sha256": "d314a9c25091328abf976d1a924fc85b361f813d2e9edaafd1ec853cfce38c78"
+    },
+    {
+      "path": "QuadBaldwinE/NA_QuadBaldwinE_3x3.blend",
+      "source": "base",
+      "bytes": 1579351,
+      "sha256": "b5b78d2ac2b5d8e6a26ef5971a056eb297c3edaea38ce133f9f50e6ce227c412"
+    },
+    {
+      "path": "QuadBaldwinE/refined_exports/NA_QuadBaldwinE_3x3.fbx",
+      "source": "base",
+      "bytes": 154076,
+      "sha256": "51112f0d8b86d2a7ed779081d16a4e1399c64d0786739e1141475cd185dcbaa5"
+    },
+    {
+      "path": "QuadBaldwinE/refined_exports/NA_QuadBaldwinE_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 133468,
+      "sha256": "329f06f662807c178240cf8890fa6859f4a5928801383333ad3e42c60ee8a6fa"
+    },
+    {
+      "path": "QuadBaldwinE/refined_exports/NA_QuadBaldwinE_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22092,
+      "sha256": "c2949182dc2f87f90dce0de1b6cf918f66db1d9dd29ce3140c740e09b254ed3d"
+    },
+    {
+      "path": "QuadBaldwinW/NA_QuadBaldwinW_3x3.blend",
+      "source": "base",
+      "bytes": 1845867,
+      "sha256": "ff12428578206fafe792db385f953b7dcc2132af4ea0e6e4e5034ad5cfd7b7d7"
+    },
+    {
+      "path": "QuadBaldwinW/refined_exports/NA_QuadBaldwinW_3x3.fbx",
+      "source": "base",
+      "bytes": 184236,
+      "sha256": "4684c50b6a051e6bec5cb8829708c577ebc695b38e655dd7ee98a8d33ce5c30e"
+    },
+    {
+      "path": "QuadBaldwinW/refined_exports/NA_QuadBaldwinW_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 155964,
+      "sha256": "5f35494a008bbc3b668a763d518079a04a9c1c5911e32b8708bf3e5453ce07e8"
+    },
+    {
+      "path": "QuadBaldwinW/refined_exports/NA_QuadBaldwinW_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22092,
+      "sha256": "6747f6b07f1ebbd19841d102b45937c680c2de6c57e22103c6c0097a79e9af33"
+    },
+    {
+      "path": "QuadBishopWhite/NA_QuadBishopWhite_4x3.blend",
+      "source": "base",
+      "bytes": 1957891,
+      "sha256": "43ecf8d92a3ff2ba5d0451699487486f87c3815c76a8543193a4a618bc993898"
+    },
+    {
+      "path": "QuadBishopWhite/refined_exports/NA_QuadBishopWhite_4x3.fbx",
+      "source": "base",
+      "bytes": 200412,
+      "sha256": "dff58693e4c54162561356eccca7d79f9dc9cc5ebda932623ea98e78b602809b"
+    },
+    {
+      "path": "QuadBishopWhite/refined_exports/NA_QuadBishopWhite_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 169692,
+      "sha256": "dd581059962d719bc65125df65b50550213931ae2b85203de9450a415f54febe"
+    },
+    {
+      "path": "QuadBishopWhite/refined_exports/NA_QuadBishopWhite_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22236,
+      "sha256": "0d6025c3a15bb7e7736ff96525ecc56035fdfc233f35332d64ffa00d86e76c63"
+    },
+    {
+      "path": "QuadBodine/NA_QuadBodine_3x3.blend",
+      "source": "base",
+      "bytes": 1957891,
+      "sha256": "f474e97f302f8fc3fce313680ad53ee7080e5e2ec022eb6958fb3604ac518937"
+    },
+    {
+      "path": "QuadBodine/refined_exports/NA_QuadBodine_3x3.fbx",
+      "source": "base",
+      "bytes": 199580,
+      "sha256": "ae9b7c5cdc0a832f902f2c5170c9a4c88c8fbff97c6044462c28bba75ff1c321"
+    },
+    {
+      "path": "QuadBodine/refined_exports/NA_QuadBodine_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 169020,
+      "sha256": "7338f442167d64e12f2095d413a7919c38744dda3161c5936a68abd4dbdc2925"
+    },
+    {
+      "path": "QuadBodine/refined_exports/NA_QuadBodine_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22044,
+      "sha256": "41971bea57a3b2719ce3c066bb6f08caa2c879826a32101653ed3c1f8db9a116"
+    },
+    {
+      "path": "QuadBrooks/NA_QuadBrooks_4x3.blend",
+      "source": "base",
+      "bytes": 1957891,
+      "sha256": "bfe352b2e7b840e6ce13ea0812b0a4907edab56400079b0ea4230c1d536f91ad"
+    },
+    {
+      "path": "QuadBrooks/refined_exports/NA_QuadBrooks_4x3.fbx",
+      "source": "base",
+      "bytes": 198524,
+      "sha256": "4db099b9aeaef9474dad546b599ba4bcf4a1eca21056eb9844017e69a77819fc"
+    },
+    {
+      "path": "QuadBrooks/refined_exports/NA_QuadBrooks_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 168364,
+      "sha256": "99d5cabc45948e9445de113ee8bd14e9364cae4a805c578265e0ba700a48c9ac"
+    },
+    {
+      "path": "QuadBrooks/refined_exports/NA_QuadBrooks_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22060,
+      "sha256": "1eec11c4162c3905ecbde35d9e17006481d1c181ec61a1c89c200ff11619bac4"
+    },
+    {
+      "path": "QuadButcher/NA_QuadButcher_5x3.blend",
+      "source": "base",
+      "bytes": 2354851,
+      "sha256": "b5b3bf2edc100a552a3ab8c67c92171dee586ba7170441f724f28814086ad6d6"
+    },
+    {
+      "path": "QuadButcher/refined_exports/NA_QuadButcher_5x3.fbx",
+      "source": "base",
+      "bytes": 248092,
+      "sha256": "dd8bc0f4ffa11997e047f5b2b127cc85d0b20082c3edb9b2227a46fdea95d54c"
+    },
+    {
+      "path": "QuadButcher/refined_exports/NA_QuadButcher_5x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 206684,
+      "sha256": "5b755cb270cfafde7078418ef63d646c0a03d895e6dfe5a75dcac67eb8aba2c5"
+    },
+    {
+      "path": "QuadButcher/refined_exports/NA_QuadButcher_5x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22140,
+      "sha256": "b2d4eb9f860825b0a984161eb84ad5113a83286ee12b9aa384d5f83912b87645"
+    },
+    {
+      "path": "QuadCarruth/NA_QuadCarruth_3x3.blend",
+      "source": "base",
+      "bytes": 1579351,
+      "sha256": "73322e7cd91f3d4e0948bd8b217c69ee6e63316e78286b7bf84f4ac975493a2a"
+    },
+    {
+      "path": "QuadCarruth/refined_exports/NA_QuadCarruth_3x3.fbx",
+      "source": "base",
+      "bytes": 154140,
+      "sha256": "b33309a38a74cf6e82755b6cafc45b1ad0c2d00cab5c0b136a8ee5a5a2f3664d"
+    },
+    {
+      "path": "QuadCarruth/refined_exports/NA_QuadCarruth_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 133484,
+      "sha256": "61a5f02bde93e4dafc9c39eb475d820760b0b29ed1d816815a1b5f864eeb7e14"
+    },
+    {
+      "path": "QuadCarruth/refined_exports/NA_QuadCarruth_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22044,
+      "sha256": "832070870ab3bac27cbb5ac91da1a7af18916bf7b384b20fcd4d7433afc88443"
+    },
+    {
+      "path": "QuadChestnut/NA_QuadChestnut_3x3.blend",
+      "source": "base",
+      "bytes": 1845867,
+      "sha256": "7c19d97f9fcaca8339fcabf7609cf39464b80ee84c1f3233f14fde9719437397"
+    },
+    {
+      "path": "QuadChestnut/refined_exports/NA_QuadChestnut_3x3.fbx",
+      "source": "base",
+      "bytes": 185404,
+      "sha256": "fe7901d35fc457c458c5b3160c46631e57ac2d40ad9fa197349fb208176df833"
+    },
+    {
+      "path": "QuadChestnut/refined_exports/NA_QuadChestnut_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 157788,
+      "sha256": "6eedef171586d76b37dc81ad1741c418eedd9445afe91554f058f3e1f03e648c"
+    },
+    {
+      "path": "QuadChestnut/refined_exports/NA_QuadChestnut_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22092,
+      "sha256": "d309351ef7134cbc476d644779b1d748a170fe8a98d22f27facb2518b090cd39"
+    },
+    {
+      "path": "QuadClassOf28/NA_QuadClassOf28_3x3.blend",
+      "source": "base",
+      "bytes": 1944291,
+      "sha256": "bf60152bc78cb67d54058f075d84d6f7dbec9452ebe408687e9a73d60eae5e78"
+    },
+    {
+      "path": "QuadClassOf28/refined_exports/NA_QuadClassOf28_3x3.fbx",
+      "source": "base",
+      "bytes": 196780,
+      "sha256": "6b1c6a659041fb5cb2a1cb6d4c3e7bfc61d23f184261fcf83209f993cfdd9271"
+    },
+    {
+      "path": "QuadClassOf28/refined_exports/NA_QuadClassOf28_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 167212,
+      "sha256": "f598e60fda862a515dd00f33c62615ca08826acbc087492b6fd21776c9c41df2"
+    },
+    {
+      "path": "QuadClassOf28/refined_exports/NA_QuadClassOf28_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22124,
+      "sha256": "c5e998fa9ab16a1b514de1c2a8ca719c82ce33556b19d595a0f22465fb5671bc"
+    },
+    {
+      "path": "QuadCleemann/NA_QuadCleemann_4x3.blend",
+      "source": "base",
+      "bytes": 1979471,
+      "sha256": "8492ba6d9178b57feb2b5e28a7782487fede9b8160fd5fd425f6b68d3e8cffd7"
+    },
+    {
+      "path": "QuadCleemann/refined_exports/NA_QuadCleemann_4x3.fbx",
+      "source": "base",
+      "bytes": 203516,
+      "sha256": "c799944c4e23452b158658e24d4eed8033b832d60c28d4ebcdf26a6ca30d55d6"
+    },
+    {
+      "path": "QuadCleemann/refined_exports/NA_QuadCleemann_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 172652,
+      "sha256": "4beea98d0e3563ab897b7410cf3d83ecb6f108a9efb7c9001f7e3139b4f14f98"
+    },
+    {
+      "path": "QuadCleemann/refined_exports/NA_QuadCleemann_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22172,
+      "sha256": "60592f13dbe4ec0a43650938211ebca2ffcedb56b4d66a0a52b74e2dca2031eb"
+    },
+    {
+      "path": "QuadCoxe/NA_QuadCoxe_4x3.blend",
+      "source": "base",
+      "bytes": 1944291,
+      "sha256": "01489143b115c30cc1f5d15576209ea7070e5963fe774a76e36b0daed522d999"
+    },
+    {
+      "path": "QuadCoxe/refined_exports/NA_QuadCoxe_4x3.fbx",
+      "source": "base",
+      "bytes": 198508,
+      "sha256": "37b7525fad7b7e33a8b19c16079c1128bb2643f6d15fd6cc7d80bbbb0cfdcd54"
+    },
+    {
+      "path": "QuadCoxe/refined_exports/NA_QuadCoxe_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 168364,
+      "sha256": "055ccb4e4b8c1cd3111539ef1fc05d756a779e5df3a9ce52a4cf40d7e644872e"
+    },
+    {
+      "path": "QuadCoxe/refined_exports/NA_QuadCoxe_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 21948,
+      "sha256": "31b921daaddc434af6afe8289c15d56f71505e4900c3d6f9ea5702b43fa691a3"
+    },
+    {
+      "path": "QuadCraig/NA_QuadCraig_3x3.blend",
+      "source": "base",
+      "bytes": 1944291,
+      "sha256": "c6d35f00cf94e5fc7356eeb4aed3e167b0ec0f724346e0416d413100981389b4"
+    },
+    {
+      "path": "QuadCraig/refined_exports/NA_QuadCraig_3x3.fbx",
+      "source": "base",
+      "bytes": 196268,
+      "sha256": "e59fb01cf0bc0f04d2fe087621fd88e5b3b1fb5f10c6f6580719dbd83c44c8cc"
+    },
+    {
+      "path": "QuadCraig/refined_exports/NA_QuadCraig_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 166524,
+      "sha256": "f77d57fca6fa836e3a744d5ff26786bfb23279079af7f746412fae70dbf93d78"
+    },
+    {
+      "path": "QuadCraig/refined_exports/NA_QuadCraig_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 21996,
+      "sha256": "83ee61d9a63a4bd41a1a8839eeaefa3bd4fe204f4c5320e34fb23bfad4c1e7b3"
+    },
+    {
+      "path": "QuadEFSmith/NA_QuadEFSmith_4x3.blend",
+      "source": "base",
+      "bytes": 1957891,
+      "sha256": "02b59ede6ef8b5f601d7b0e6107736e52b475a59284d823a3462ea65048991d5"
+    },
+    {
+      "path": "QuadEFSmith/refined_exports/NA_QuadEFSmith_4x3.fbx",
+      "source": "base",
+      "bytes": 200684,
+      "sha256": "788cbe33941f0dce710be7466c0379191612230c7c7395b80f97d129b1013167"
+    },
+    {
+      "path": "QuadEFSmith/refined_exports/NA_QuadEFSmith_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 169900,
+      "sha256": "68563e5a5531237343369d307324c8ff182cdddc9d88688a77d8f26107aaf096"
+    },
+    {
+      "path": "QuadEFSmith/refined_exports/NA_QuadEFSmith_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22092,
+      "sha256": "815c7339d98d7d4c9da01bdb4389cf7e4e807da4da193a3b55935a73c2a4a267"
+    },
+    {
+      "path": "QuadFitler/NA_QuadFitler_3x3.blend",
+      "source": "base",
+      "bytes": 1750615,
+      "sha256": "20ae835eb11ce1548229766ed5341f001c0714e64bbedb276d518b5974d05cee"
+    },
+    {
+      "path": "QuadFitler/refined_exports/NA_QuadFitler_3x3.fbx",
+      "source": "base",
+      "bytes": 196780,
+      "sha256": "1fd10b4d562f8a51e6c0aa87f286d662e4f06eacb2baf1e949d294fccbc70984"
+    },
+    {
+      "path": "QuadFitler/refined_exports/NA_QuadFitler_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 170860,
+      "sha256": "52663bd83bb18501c1873ad85b3a411618e7c137d4bf13f895a71afa121b60e0"
+    },
+    {
+      "path": "QuadFitler/refined_exports/NA_QuadFitler_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22028,
+      "sha256": "6e2e7b33828c18738ff7ccece37034632c621f68e50fb5921889f150952f2c82"
+    },
+    {
+      "path": "QuadFoerderer/NA_QuadFoerderer_4x3.blend",
+      "source": "base",
+      "bytes": 1957891,
+      "sha256": "ecb5f3f4bee258b638139cf62f0b38548c3d64df016337c55158edaf138722e5"
+    },
+    {
+      "path": "QuadFoerderer/refined_exports/NA_QuadFoerderer_4x3.fbx",
+      "source": "base",
+      "bytes": 200252,
+      "sha256": "76b5f8107e63ad1822ce1074d3ffa5269f1073e8082a727deaa653bfe489c01f"
+    },
+    {
+      "path": "QuadFoerderer/refined_exports/NA_QuadFoerderer_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 169580,
+      "sha256": "52114e007d9de0e3067b5d7742b0d5e83d6c56ecd81c5c383665180af6aa06c6"
+    },
+    {
+      "path": "QuadFoerderer/refined_exports/NA_QuadFoerderer_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22156,
+      "sha256": "a6752cc313288ae2b28638dbb0a3e1e3bc98defae39c2f2719fc6646f12d2436"
+    },
+    {
+      "path": "QuadFranklin/NA_QuadFranklin_4x3.blend",
+      "source": "base",
+      "bytes": 2053155,
+      "sha256": "aa4b1cb24e13527f301beb1f2e7f1868669fa288f917df977b349891bd23c53e"
+    },
+    {
+      "path": "QuadFranklin/refined_exports/NA_QuadFranklin_4x3.fbx",
+      "source": "base",
+      "bytes": 209788,
+      "sha256": "7f6d639624c0fe43cfc393cfdc485404a3568e7d201ca17072dfd62f88c50a79"
+    },
+    {
+      "path": "QuadFranklin/refined_exports/NA_QuadFranklin_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 177020,
+      "sha256": "1a1f9adf8b11eddb387ce959caa3bb920fb08916f7392ea6439ba42c71a3d573"
+    },
+    {
+      "path": "QuadFranklin/refined_exports/NA_QuadFranklin_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22140,
+      "sha256": "d317db1fbab2727d69bad906b50b90fa9a456ad50bc408cc44b3f14171efcdb0"
+    },
+    {
+      "path": "QuadHopkinson/NA_QuadHopkinson_3x3.blend",
+      "source": "base",
+      "bytes": 1737003,
+      "sha256": "c68ad8c069afcea4b770f22bda9148ed3cd0a150da9437f9cc8e26bef4d27b0f"
+    },
+    {
+      "path": "QuadHopkinson/refined_exports/NA_QuadHopkinson_3x3.fbx",
+      "source": "base",
+      "bytes": 173148,
+      "sha256": "200db263f42fa4d2eb7f5912154f0f78d77f253ef0ecbb571a0cf2af11e165f4"
+    },
+    {
+      "path": "QuadHopkinson/refined_exports/NA_QuadHopkinson_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 148876,
+      "sha256": "eb8b314bf80b2b1e87671846188060a66aca32a3ce09ec1d7e633e315efbbf54"
+    },
+    {
+      "path": "QuadHopkinson/refined_exports/NA_QuadHopkinson_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22188,
+      "sha256": "10586f5e044e9fc9a1929130661cc63a4a5be5b4d283d88ba2a595b1fc90f11a"
+    },
+    {
+      "path": "QuadLeidy/NA_QuadLeidy_4x3.blend",
+      "source": "base",
+      "bytes": 2066755,
+      "sha256": "0b47de260c4749ebf49989265a4eecdc28371cb1dcee3d661d610131a4b7924c"
+    },
+    {
+      "path": "QuadLeidy/refined_exports/NA_QuadLeidy_4x3.fbx",
+      "source": "base",
+      "bytes": 212108,
+      "sha256": "f77fb9b717094a3b2e8fe150350dd0c393ff23e919d61fa344c7611bbaffbdc3"
+    },
+    {
+      "path": "QuadLeidy/refined_exports/NA_QuadLeidy_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 178636,
+      "sha256": "af489d162914e4c2bec9979d985a809eef6fef79ba413cc0d434b25d8a4b64a7"
+    },
+    {
+      "path": "QuadLeidy/refined_exports/NA_QuadLeidy_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 21996,
+      "sha256": "eb22013c45794458f99a23df3c408abf33ec35bcadf8d390584cc40495fffcf0"
+    },
+    {
+      "path": "QuadLippincott/NA_QuadLippincott_3x3.blend",
+      "source": "base",
+      "bytes": 1845867,
+      "sha256": "7c1c7f46f1771bbc70b4eddab48ab7d1cae18aa8d7cea1008d264ee5ca5cad10"
+    },
+    {
+      "path": "QuadLippincott/refined_exports/NA_QuadLippincott_3x3.fbx",
+      "source": "base",
+      "bytes": 185388,
+      "sha256": "cf6bbd1a6436180cfe4811248c84d47df43c3ba085bb729bed8e3f273fd828dd"
+    },
+    {
+      "path": "QuadLippincott/refined_exports/NA_QuadLippincott_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 157948,
+      "sha256": "d8431f93e1232a435c11f5a260e255a9d4b54c3fdb5e79571a4ff4bfcf69189e"
+    },
+    {
+      "path": "QuadLippincott/refined_exports/NA_QuadLippincott_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22188,
+      "sha256": "7478b6f7f3c7f9db42583a7b2e7a8f54f9ea792e28c0e81223aad35d63f50e5d"
+    },
+    {
+      "path": "QuadMagee/NA_QuadMagee_4x3.blend",
+      "source": "base",
+      "bytes": 2197199,
+      "sha256": "9b4e498b755fe32bd974bad02dd1140c7d295ee0f4d0b1651f779cb087b48d54"
+    },
+    {
+      "path": "QuadMagee/refined_exports/NA_QuadMagee_4x3.fbx",
+      "source": "base",
+      "bytes": 227180,
+      "sha256": "3318b4611bc9f29a926e3367dc2fd151968153643baab640d38863b5b43e0f09"
+    },
+    {
+      "path": "QuadMagee/refined_exports/NA_QuadMagee_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 190892,
+      "sha256": "4c4a198af0012bdc1462978dcd12e6b717bd1dadc352a55b71fc1beb19f03d3b"
+    },
+    {
+      "path": "QuadMagee/refined_exports/NA_QuadMagee_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22044,
+      "sha256": "1de168e1e3b96540f7db3e9d2f176168bec1343f108dbc939d1cca48be0d3a56"
+    },
+    {
+      "path": "QuadMcClelland/NA_QuadMcClelland_6x3.blend",
+      "source": "base",
+      "bytes": 2384427,
+      "sha256": "ae54e06a2872d2db85b7eaf3c9c56e1dfae944592fecb4f45d935234b423907e"
+    },
+    {
+      "path": "QuadMcClelland/refined_exports/NA_QuadMcClelland_6x3.fbx",
+      "source": "base",
+      "bytes": 255932,
+      "sha256": "bd785c4bfe25dd40806bab68ca299bffafeb34e3808b5d38e48b582cfa70d65e"
+    },
+    {
+      "path": "QuadMcClelland/refined_exports/NA_QuadMcClelland_6x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 219996,
+      "sha256": "5239e44bb25917f2b403bf70be09e9b8f0321599ebd1c3076d356070aaa58fd9"
+    },
+    {
+      "path": "QuadMcClelland/refined_exports/NA_QuadMcClelland_6x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22252,
+      "sha256": "6e2969d763fa30e8b2c6d0b3b428f86aa8908ff67b63d1880da7e34cad9352e0"
+    },
+    {
+      "path": "QuadMcKean/NA_QuadMcKean_5x4.blend",
+      "source": "base",
+      "bytes": 2632655,
+      "sha256": "2dd39100c5166e9f20a60613622ba938f9446ade5dd1e19e9ea07abd0b73d80c"
+    },
+    {
+      "path": "QuadMcKean/refined_exports/NA_QuadMcKean_5x4.fbx",
+      "source": "base",
+      "bytes": 276732,
+      "sha256": "4e87867ae5f569bc163d19ef72bfd134ee7c5281346cedbd63b410f045e85374"
+    },
+    {
+      "path": "QuadMcKean/refined_exports/NA_QuadMcKean_5x4_LOD1.fbx",
+      "source": "base",
+      "bytes": 229452,
+      "sha256": "0b507be0c41418b1be48507f8cde4c638f6367a93fd123da0460b6f34752f486"
+    },
+    {
+      "path": "QuadMcKean/refined_exports/NA_QuadMcKean_5x4_LOD2.fbx",
+      "source": "base",
+      "bytes": 22108,
+      "sha256": "1e6710e366fba7eaf7836bb194078f689f1078d41ed275697ad7cbc2e08f42ad"
+    },
+    {
+      "path": "QuadMemorialTower/NA_QuadMemorialTower_3x3.blend",
+      "source": "round3",
+      "bytes": 1771691,
+      "sha256": "fdb6bfdf3d0b9ffe4c438a6d69b497164b34cf607a511dfb02b38640e06cbe19"
+    },
+    {
+      "path": "QuadMemorialTower/fbx7500/NA_QuadMemorialTower_3x3.fbx",
+      "source": "round3",
+      "bytes": 232764,
+      "sha256": "72232fedbfce6170420849d1062b4f37e911b9ede42bb8e4a41005ab244b190f"
+    },
+    {
+      "path": "QuadMemorialTower/fbx7500/NA_QuadMemorialTower_3x3_LOD1.fbx",
+      "source": "round3",
+      "bytes": 122364,
+      "sha256": "55b1204cca8aee6f552df2acd3ac68c8fb0c6d6671412c7c9095b6ae15e32d56"
+    },
+    {
+      "path": "QuadMemorialTower/fbx7500/NA_QuadMemorialTower_3x3_LOD2.fbx",
+      "source": "round3",
+      "bytes": 53724,
+      "sha256": "142b7384f4f4c0d0bd5b1fed1fa7505d131fa8d7f71569bbd007348def6fc768"
+    },
+    {
+      "path": "QuadMemorialTower/refined_exports/NA_QuadMemorialTower_3x3.fbx",
+      "source": "round3",
+      "bytes": 225436,
+      "sha256": "91ab89b8b600f7fc6c5c45e10acab84f02d8033f8f5766d0f9605ad7c97bcb6d"
+    },
+    {
+      "path": "QuadMemorialTower/refined_exports/NA_QuadMemorialTower_3x3_LOD1.fbx",
+      "source": "round3",
+      "bytes": 115036,
+      "sha256": "18ca3528698a6000a9bcd0068122a3d7c6db0025dca252c3c98e55dc4e0c25db"
+    },
+    {
+      "path": "QuadMemorialTower/refined_exports/NA_QuadMemorialTower_3x3_LOD2.fbx",
+      "source": "round3",
+      "bytes": 48812,
+      "sha256": "a5fa6aeff90b0b02e554da057d87c385b31da297adc7408960b32719cdebd19f"
+    },
+    {
+      "path": "QuadMorgan/NA_QuadMorgan_4x3.blend",
+      "source": "base",
+      "bytes": 1944291,
+      "sha256": "700b632411c97c97eb404eed409502e1b182cbaf6cb00e203645a05764f6ad56"
+    },
+    {
+      "path": "QuadMorgan/refined_exports/NA_QuadMorgan_4x3.fbx",
+      "source": "base",
+      "bytes": 199692,
+      "sha256": "f90fd04f2b329245c3fd89c3e69baadcd9e544911928c109fc3cef898f0e5fc4"
+    },
+    {
+      "path": "QuadMorgan/refined_exports/NA_QuadMorgan_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 169180,
+      "sha256": "af557e2e9e6c9eabb5e26d4ccfb6e352004415461866e6eabc807c9c602fdd1d"
+    },
+    {
+      "path": "QuadMorgan/refined_exports/NA_QuadMorgan_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22028,
+      "sha256": "21947fa411b9fae39427a45c82c1418e57070bb512bf5391715f6bc3f5952ace"
+    },
+    {
+      "path": "QuadMorris/NA_QuadMorris_4x4.blend",
+      "source": "base",
+      "bytes": 2414927,
+      "sha256": "a0c4b68e2c7bc8db39a45ada7300c44d73af0f0bd1db7087193cae2790e10336"
+    },
+    {
+      "path": "QuadMorris/refined_exports/NA_QuadMorris_4x4.fbx",
+      "source": "base",
+      "bytes": 253132,
+      "sha256": "1b6f67723e15ffebdace254a994da0644d30c6a40bdaa17a3c3737111f0414fb"
+    },
+    {
+      "path": "QuadMorris/refined_exports/NA_QuadMorris_4x4_LOD1.fbx",
+      "source": "base",
+      "bytes": 211644,
+      "sha256": "21d73ecb3264ef639022238ab37e89472607306919e158f74720dbc93eda77f5"
+    },
+    {
+      "path": "QuadMorris/refined_exports/NA_QuadMorris_4x4_LOD2.fbx",
+      "source": "base",
+      "bytes": 22092,
+      "sha256": "7ea6a25106ef8c6ebc4addd93eb71810cbb814b344b25b73c3d1dd6084781ae8"
+    },
+    {
+      "path": "QuadNewYorkAlumni/NA_QuadNewYorkAlumni_3x3.blend",
+      "source": "base",
+      "bytes": 1723403,
+      "sha256": "00199e887cc13e5d6bcf2564bc2fd8e2d8ad7c0eaedc85a94a838fa69b096edb"
+    },
+    {
+      "path": "QuadNewYorkAlumni/refined_exports/NA_QuadNewYorkAlumni_3x3.fbx",
+      "source": "base",
+      "bytes": 172108,
+      "sha256": "9a38021de4a935341ac753c552d178b0e2e899c816fc04da48e1600bad2e6f51"
+    },
+    {
+      "path": "QuadNewYorkAlumni/refined_exports/NA_QuadNewYorkAlumni_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 147964,
+      "sha256": "7bba2baf4449906b64e3b573b007a57f24dad459151b02630c1c248a72117b7b"
+    },
+    {
+      "path": "QuadNewYorkAlumni/refined_exports/NA_QuadNewYorkAlumni_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22236,
+      "sha256": "1807c00042c466360d25980a8d21202b8eaad8a3cf9a163670f6fb6722f4de4e"
+    },
+    {
+      "path": "QuadRodney/NA_QuadRodney_4x3.blend",
+      "source": "base",
+      "bytes": 2053155,
+      "sha256": "97fb9616e4d17d82ff32c5e2354747aa098748332e5ec802ae2547b8da3c3d05"
+    },
+    {
+      "path": "QuadRodney/refined_exports/NA_QuadRodney_4x3.fbx",
+      "source": "base",
+      "bytes": 210076,
+      "sha256": "8ee2e8811be5738d673ed9eb11a046c2b208b5c1a1deb34c1031e6c4364c11c7"
+    },
+    {
+      "path": "QuadRodney/refined_exports/NA_QuadRodney_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 177340,
+      "sha256": "dd0dda4428719a9406f5fe51118baaff44eff968a756d9881240a960010ca05a"
+    },
+    {
+      "path": "QuadRodney/refined_exports/NA_QuadRodney_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22076,
+      "sha256": "f0358bd732a18ae382f23bb6f58b5d85f6c6ccd7c39621b51f5890f9b40195da"
+    },
+    {
+      "path": "QuadSmith/NA_QuadSmith_3x3.blend",
+      "source": "base",
+      "bytes": 1737003,
+      "sha256": "593d26697e9b821dc4f78be8b83c365c24b692af0eedb7ab2f600404e4f9d705"
+    },
+    {
+      "path": "QuadSmith/refined_exports/NA_QuadSmith_3x3.fbx",
+      "source": "base",
+      "bytes": 172284,
+      "sha256": "fe23d238ca410fbd7cfcf8061159c593a93fe9b5bc4c1edebba494b673458ec3"
+    },
+    {
+      "path": "QuadSmith/refined_exports/NA_QuadSmith_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 147564,
+      "sha256": "cffb8f525ef80c5a044610a4179e052026af93e215546f6d9ed5bb5dc8dbc001"
+    },
+    {
+      "path": "QuadSmith/refined_exports/NA_QuadSmith_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 21964,
+      "sha256": "0d9df9d500429da86591cb60a1d5fc6e892a0b5df7cd0d917c0a3ad8622a35b5"
+    },
+    {
+      "path": "QuadSpeakman/NA_QuadSpeakman_7x3.blend",
+      "source": "base",
+      "bytes": 2997595,
+      "sha256": "e03dedeef6b5448e7e851411768b41f0f2bf9f435ff2d5350e82e5dea4b5f30e"
+    },
+    {
+      "path": "QuadSpeakman/refined_exports/NA_QuadSpeakman_7x3.fbx",
+      "source": "base",
+      "bytes": 318940,
+      "sha256": "47c7d14a90f564eb37f20e6016abc6c7ce8f7da54c3e4e5b873ae89764847fea"
+    },
+    {
+      "path": "QuadSpeakman/refined_exports/NA_QuadSpeakman_7x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 263500,
+      "sha256": "11b80616b61913d25e3a11ee5eda3db34e7cfb8a2a795ac295949a2d93c8479b"
+    },
+    {
+      "path": "QuadSpeakman/refined_exports/NA_QuadSpeakman_7x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22156,
+      "sha256": "6e2c61ac63d5d44fbfa33dd5320b57bfb031bbf5dad8be8a6b9d198373594fc3"
+    },
+    {
+      "path": "QuadWard/NA_QuadWard_4x4.blend",
+      "source": "base",
+      "bytes": 2301979,
+      "sha256": "86e5d87bedb46772c559bd61cc066bbef62b10e0ce5bedf66db87f2a1d0e2340"
+    },
+    {
+      "path": "QuadWard/refined_exports/NA_QuadWard_4x4.fbx",
+      "source": "base",
+      "bytes": 250956,
+      "sha256": "1b7a97da265b468a9d546a28943eb0c6b839ae438a90a2cda9802020eaba8707"
+    },
+    {
+      "path": "QuadWard/refined_exports/NA_QuadWard_4x4_LOD1.fbx",
+      "source": "base",
+      "bytes": 211836,
+      "sha256": "c8d205ec91f03558d798156f1bc97ce893f88e0b8228a47b7f54931ee06e694d"
+    },
+    {
+      "path": "QuadWard/refined_exports/NA_QuadWard_4x4_LOD2.fbx",
+      "source": "base",
+      "bytes": 28012,
+      "sha256": "5da8ba824644e3407f965e482b98b81cdd28b02627bc2456d8e971532ee52273"
+    },
+    {
+      "path": "QuadWarwick/NA_QuadWarwick_4x3.blend",
+      "source": "base",
+      "bytes": 2210807,
+      "sha256": "2768304dcecc30c7618a46b304249620dabe36ae61520e8bcfdd86ddd079ae3a"
+    },
+    {
+      "path": "QuadWarwick/refined_exports/NA_QuadWarwick_4x3.fbx",
+      "source": "base",
+      "bytes": 230332,
+      "sha256": "2612e13fb5b15c1b5cf36e88ff2e1ab73fc2852d5eb175f14b959d1ea64e5b03"
+    },
+    {
+      "path": "QuadWarwick/refined_exports/NA_QuadWarwick_4x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 193260,
+      "sha256": "0a55f75f4f6b8d9d2f20971656875eaef772cb25f0a2a46909b9953321041667"
+    },
+    {
+      "path": "QuadWarwick/refined_exports/NA_QuadWarwick_4x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22124,
+      "sha256": "e254f750f1a8a990442f31488e63f46ac8f76a3e781c0a16cee3c8e5a3f584aa"
+    },
+    {
+      "path": "QuadWilson/NA_QuadWilson_3x3.blend",
+      "source": "base",
+      "bytes": 1832267,
+      "sha256": "371e84bd18850826ca96f8c5c25743e6cca2c961e4337641849d13bba389ff3a"
+    },
+    {
+      "path": "QuadWilson/refined_exports/NA_QuadWilson_3x3.fbx",
+      "source": "base",
+      "bytes": 184508,
+      "sha256": "c24808ab1c2cb0602bd9612daba963a38258b90c3fd95e808cb37f622dda1ccf"
+    },
+    {
+      "path": "QuadWilson/refined_exports/NA_QuadWilson_3x3_LOD1.fbx",
+      "source": "base",
+      "bytes": 157164,
+      "sha256": "d1c18aa11249cec1c236f59ca219942f5c27060376fdb049566fa2747cf2788a"
+    },
+    {
+      "path": "QuadWilson/refined_exports/NA_QuadWilson_3x3_LOD2.fbx",
+      "source": "base",
+      "bytes": 22028,
+      "sha256": "eae46772a49922b56dbdd1c58aa3711895e9b6e3c10e45d4d376a768c8ed3a55"
+    },
+    {
+      "path": "SteinbergDietrich/NA_SteinbergDietrich_16x10.blend",
+      "source": "round3",
+      "bytes": 2894479,
+      "sha256": "4a896e6c88af862c40d281f7920ebd47130d607707c0b956eaa0265c0d13b9b4"
+    },
+    {
+      "path": "SteinbergDietrich/fbx7500/NA_SteinbergDietrich_16x10.fbx",
+      "source": "round3",
+      "bytes": 339804,
+      "sha256": "984d0b3e73f282075b02479b1f5130b3efb417e695a1f591230a14b0796133e0"
+    },
+    {
+      "path": "SteinbergDietrich/fbx7500/NA_SteinbergDietrich_16x10_LOD1.fbx",
+      "source": "round3",
+      "bytes": 185068,
+      "sha256": "a768db12c8564b85e782ddc028b56cf2bfba2bf6ebb9a4b9237c5cbfd1eb2e8e"
+    },
+    {
+      "path": "SteinbergDietrich/fbx7500/NA_SteinbergDietrich_16x10_LOD2.fbx",
+      "source": "round3",
+      "bytes": 27820,
+      "sha256": "11b3a6c97f6be0664b63c9e59ef65a79fc6202b11910d45418b360f3e71e06b6"
+    },
+    {
+      "path": "SteinbergDietrich/refined_exports/NA_SteinbergDietrich_16x10.fbx",
+      "source": "round3",
+      "bytes": 332476,
+      "sha256": "f1f523159b5f33d1382d7fa51fa2f822c62b9d10aba2c7fdc584430813c3b4a8"
+    },
+    {
+      "path": "SteinbergDietrich/refined_exports/NA_SteinbergDietrich_16x10_LOD1.fbx",
+      "source": "round3",
+      "bytes": 177740,
+      "sha256": "e4d45edd27dc92b424e89685fdaebdbfb737132d0304c215e51f21f2aad1b5bc"
+    },
+    {
+      "path": "SteinbergDietrich/refined_exports/NA_SteinbergDietrich_16x10_LOD2.fbx",
+      "source": "round3",
+      "bytes": 22892,
+      "sha256": "834469b870283911c07c726383240e3697a3821e13a2285ccd2cf9a4f5dae63e"
+    },
+    {
+      "path": "VanPeltLibrary/NA_VanPeltLibrary_18x6.blend",
+      "source": "round3",
+      "bytes": 10187295,
+      "sha256": "23edf19e63272adbb61df66f317714a483dfef2e7eae9250387752a08bd57a8b"
+    },
+    {
+      "path": "VanPeltLibrary/fbx7500/NA_VanPeltLibrary_18x6.fbx",
+      "source": "round3",
+      "bytes": 1233340,
+      "sha256": "7581293fe1894ba38fc3668dfcb6c6801e762d455da45487dbd223e0f0c6f5b0"
+    },
+    {
+      "path": "VanPeltLibrary/fbx7500/NA_VanPeltLibrary_18x6_LOD1.fbx",
+      "source": "round3",
+      "bytes": 649756,
+      "sha256": "981a6ba39f4f3e0dbe34fa546cef4c18319494b5e00c11ad76b437ba33bbd34e"
+    },
+    {
+      "path": "VanPeltLibrary/fbx7500/NA_VanPeltLibrary_18x6_LOD2.fbx",
+      "source": "round3",
+      "bytes": 27276,
+      "sha256": "96a71cc9f133c5f372eb2bfc1b19085d4b956e885c49b72fe221381e9cc0b77f"
+    },
+    {
+      "path": "VanPeltLibrary/refined_exports/NA_VanPeltLibrary_18x6.fbx",
+      "source": "round3",
+      "bytes": 1226012,
+      "sha256": "8fa5929c9571a24509e768c06b833f93ea0edd8f043ee6704bf990472a166fde"
+    },
+    {
+      "path": "VanPeltLibrary/refined_exports/NA_VanPeltLibrary_18x6_LOD1.fbx",
+      "source": "round3",
+      "bytes": 642428,
+      "sha256": "17593635cb7020977b53c95ebf877308f5a0c75450e6a2c1e036952db3fecce6"
+    },
+    {
+      "path": "VanPeltLibrary/refined_exports/NA_VanPeltLibrary_18x6_LOD2.fbx",
+      "source": "round3",
+      "bytes": 22364,
+      "sha256": "fb7c3b68c18e5c35390911c4c288abaca9980103aaeeea6bf6c63bdb56736a3f"
+    },
+    {
+      "path": "WistarInstitute/NA_WistarInstitute_17x8.blend",
+      "source": "round3",
+      "bytes": 4063963,
+      "sha256": "b5e0cd08d062c1621ff3e646bac9e994e0beb46962241c355061b060e84cdd54"
+    },
+    {
+      "path": "WistarInstitute/fbx7500/NA_WistarInstitute_17x8.fbx",
+      "source": "round3",
+      "bytes": 491884,
+      "sha256": "f449a9643f34b27671ec3a8b079102d585b1ef781463c0ff15a9fd4d59dedf95"
+    },
+    {
+      "path": "WistarInstitute/fbx7500/NA_WistarInstitute_17x8_LOD1.fbx",
+      "source": "round3",
+      "bytes": 267436,
+      "sha256": "8090c22a643c19e25a7851570e5bcb8a04ea5f575a003c4a8874e8981a7662b1"
+    },
+    {
+      "path": "WistarInstitute/fbx7500/NA_WistarInstitute_17x8_LOD2.fbx",
+      "source": "round3",
+      "bytes": 27020,
+      "sha256": "e3fba4ca6c13bbd992c060db5244f25c7400660d57687a2e40214c0ea2c4cefc"
+    },
+    {
+      "path": "WistarInstitute/refined_exports/NA_WistarInstitute_17x8.fbx",
+      "source": "round3",
+      "bytes": 484572,
+      "sha256": "32e0e1a700b77328f1ed51716ec21a4f9af2fd5157ec8a4661994a98c48e3d7e"
+    },
+    {
+      "path": "WistarInstitute/refined_exports/NA_WistarInstitute_17x8_LOD1.fbx",
+      "source": "round3",
+      "bytes": 260108,
+      "sha256": "87d825b3082c659dabd7b5e32accee3b83fe82e0b5f7b006c63faec230b003f4"
+    },
+    {
+      "path": "WistarInstitute/refined_exports/NA_WistarInstitute_17x8_LOD2.fbx",
+      "source": "round3",
+      "bytes": 22092,
+      "sha256": "c491700c173a8cbe4e71d9fb97a6209c1491f7bf1f5ba7c5910ccd28fcee8974"
+    }
+  ]
+}
