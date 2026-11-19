@@ -18,3 +18,43 @@
 | 37 | Penn Steinberg-Dietrich Hall | 72→62面遮底清理、五图相同和FBX | 2013高玻璃西入口与砖翼未复现，旧近中玻璃为空；PBR/游戏待验 | 未推送 |
 
 500 远景三角是项目参考而非游戏通用硬限制。FBX 回读不代替实景、材质、碰撞和游戏内切换验收。非测绘草模与局部清理版保持分开。
+
+## Quad：25/34 段离线记录（逐段核对，未放行）
+
+| 顺序（跨仓） | 分段 | 离线结果 | 未验与下一步 | 模型状态 |
+|---|---|---|---|---|
+| 38 | Penn Quad Memorial Tower | 37th/Spruce史料而非36th；1336→1328遮底、五图相同及FBX | 实拱、顶冠及邻段配准与游戏待核 | 未推送 |
+| 39 | Penn Quad Ashhurst | 40→38面、一处遮底，五图不变和FBX | 烟囱/老虎窗及邻段定位待核 | 未推送 |
+| 40 | Penn Quad Baird | 40→38面、一处遮底，五图不变和FBX | 近/中拓扑、烟囱/老虎窗及邻段定位待核 | 未推送 |
+| 41 | Penn Quad BaldwinE | 40→38面、一处遮底，五图不变和FBX | BaldwinE为分段而非独栋，屋面细节/邻段待核 | 未推送 |
+| 42 | Penn Quad BaldwinW | 40→38面一处遮底，五图不变、FBX | W为分段，旧屋面细件、场地和拼接待核 | 未推送 |
+| 43 | Penn Quad Bishop White | 40→38面一处遮底，五图不变、FBX | 近中拓扑、旧屋面细件及拼接待核 | 未推送 |
+| 44 | Penn Quad Bodine | 40→38面一处遮底，五图不变、FBX | 近中拓扑、旧屋面细件及拼接待核 | 未推送 |
+| 45 | Penn Quad Brooks | 40→38，一处完全被地块覆盖的朝下底面；五图不变、FBX | 段界和实际屋面/窗格、拼接与游戏待核 | 未推送 |
+| 46 | Penn Quad Butcher | 40→38，一处完全被地块覆盖的朝下底面；五图不变、FBX | 段界和实际屋面/窗格、拼接与游戏待核 | 未推送 |
+| 47 | Penn Quad Carruth | 40→38，一处完全被地块覆盖的朝下底面；五图不变、FBX | 段界和实际屋面/窗格、拼接与游戏待核 | 未推送 |
+| 48 | Penn Quad Chestnut | 40→38，一处完全被地块覆盖的朝下底面；五图不变、FBX | 段界和实际屋面/窗格、拼接与游戏待核 | 未推送 |
+| 49 | Penn Quad ClassOf28 | 40→38，一处完全被地块覆盖的朝下底面；五图不变、FBX | 段界和实际屋面/窗格、拼接与游戏待核 | 未推送 |
+| 50 | Penn Quad Cleemann | 40→38，一处完全被地块覆盖的朝下底面；五图不变、FBX | 段界和实际屋面/窗格、拼接与游戏待核 | 未推送 |
+| 51 | Penn Quad Coxe | 40→38，独立遮底核验及五图不变、FBX | 实景檐窗、段界、拼缝和游戏待核 | 未推送 |
+| 52 | Penn Quad Craig | 40→38，独立遮底核验及五图不变、FBX | 实景檐窗、段界、拼缝和游戏待核 | 未推送 |
+| 53 | Penn Quad EFSmith | 40→38，独立遮底核验及五图不变、FBX | 实景檐窗、段界、拼缝和游戏待核 | 未推送 |
+| 54 | Penn Quad Fitler | 40→38，独立遮底核验及五图不变、FBX | 实景檐窗、段界、拼缝和游戏待核 | 未推送 |
+| 55 | Penn Quad Foerderer | 40→38，独立遮底核验及五图不变、FBX | 实景檐窗、段界、拼缝和游戏待核 | 未推送 |
+| 56 | Penn Quad Franklin | 40→38，独立遮底核验及五图不变、FBX | 实景檐窗、段界、拼缝和游戏待核 | 未推送 |
+| 57 | Penn Quad Hopkinson | 40→38；确认地块全覆盖的底面、五个全幅同镜、FBX | 屋顶细节、实景比例、门窗、段界及游戏待核 | 未推送 |
+| 58 | Penn Quad Leidy | 40→38；确认地块全覆盖的底面、五个全幅同镜、FBX | 屋顶细节、实景比例、门窗、段界及游戏待核 | 未推送 |
+| 59 | Penn Quad Lippincott | 40→38；确认地块全覆盖的底面、五个全幅同镜、FBX | 屋顶细节、实景比例、门窗、段界及游戏待核 | 未推送 |
+| 60 | Penn Quad Magee | 40→38；确认地块全覆盖的底面、五个全幅同镜、FBX | 屋顶细节、实景比例、门窗、段界及游戏待核 | 未推送 |
+| 61 | Penn Quad McClelland | 40→38；确认地块全覆盖的底面、五个全幅同镜、FBX | 屋顶细节、实景比例、门窗、段界及游戏待核 | 未推送 |
+| 62 | Penn Quad McKean | 40→38；确认地块全覆盖的底面、五个全幅同镜、FBX | 屋顶细节、实景比例、门窗、段界及游戏待核 | 未推送 |
+
+### 校方名称与段界
+以 Penn Facilities 的 [Quadrangle 详情](https://facilities.upenn.edu/maps/locations/the-quadrangle)、[标注平面](https://www.facilities.upenn.edu/sites/default/files/pdfs/QuadrangleHouses.pdf) 和 Penn Archives 项目 [Residential Houses 标注地图](https://pennandslaveryproject.archives.upenn.edu/2025/07/11/quad-dorms/) 对照。图用于识别沿围合的相邻顺序，不作为墙轴、真实段界、场地标高、模型朝向或精确尺寸证据。图与列表的数字口径并不一致，不拿校方页面的 39 个住宅单位套项目资产数。
+
+现交付集合有 34 个 Quad 分段目录；BaldwinE/W 归到一个校方 Baldwin，34→33 是暂定名称对应，不表示 33 栋，也不证明 E/W 的物理分界。QuadSmith 暂对 Provost Smith，仍待核；Chesnut/Chestnut 与 Cleeman/Cleemann 作为资料差异注明，未改项目路径。另在标注图看见 Birthday、Class of ’87、Graduate、Mask and Wig、McIlhenny、Provosts’ Tower、Thomas Penn，当前未找到同名独立目录。它们可能被组合到相邻段、尚未覆盖或以别名存在；不能凭目录差异宣告缺了七栋。
+
+关键相邻核对：Brooks 夹 Leidy 与 Class of ’28；Class of ’28 与 Speakman 相接；Butcher 夹 Speakman 和 Chesnut，Chesnut 邻 Ward；Carruth 夹 Lippincott 与 New York Alumni；Cleemann 位于内院小联接段；Baird 与 Craig、Fitler 在斜边序列上。Memorial Tower 对应 37th/Spruce，勿与 36th 下层入口混用。
+
+
+仅复核局部覆盖底面不代表段间对接或模型适配游戏。需以校方标注图和同一地理坐标区分不同楼段，再做场地、接口和材质核验。
