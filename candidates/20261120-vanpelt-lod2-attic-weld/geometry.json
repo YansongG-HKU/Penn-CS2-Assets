@@ -1,0 +1,17 @@
+{
+  "old_sha256": "f7ae9508db53af547c17c2e20f43f521c62ed22b77e03f32ca16b64ca9f3fe7a",
+  "candidate_sha256": "6205164fd52bc8849c458ffcac5440455d8b32e975f39cc8feb2c686a3345437",
+  "old_triangles": 44,
+  "candidate_triangles": 52,
+  "cap_faces_removed": [
+    15,
+    37,
+    20,
+    42
+  ],
+  "annular_triangles": 10,
+  "wall_faces_split": 2,
+  "exposed_ring_area_m2": 368.0,
+  "closed_oriented_edges": 78,
+  "new_vertices": 2
+}
