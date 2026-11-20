@@ -1,0 +1,14 @@
+{
+  "front-LOD0-to-1": {
+    "relative_silhouette_delta_pct": 0.0
+  },
+  "front-LOD1-to-2": {
+    "relative_silhouette_delta_pct": 6.4364
+  },
+  "aerial-LOD0-to-1": {
+    "relative_silhouette_delta_pct": 0.0
+  },
+  "aerial-LOD1-to-2": {
+    "relative_silhouette_delta_pct": 1.6616
+  }
+}
