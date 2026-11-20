@@ -1,0 +1,320 @@
+{
+  "NA_AnnenbergCenter_10x9_LOD2.fbx": {
+    "sha256": "39cacdccbe99cba8937b6a18a367caed60815c54459e8cfe94a24e600f2b9780",
+    "faces": 88,
+    "verts": 56,
+    "pairs": []
+  },
+  "NA_ClaudiaCohenHall_7x5_LOD2.fbx": {
+    "sha256": "ac516f69295d3789dfcc67b25a4476c2a294e7882a13d11528cfe961233fc588",
+    "faces": 36,
+    "verts": 24,
+    "pairs": []
+  },
+  "NA_CollegeHall_11x7_LOD2.fbx": {
+    "sha256": "166c9a865b4924f33e847d123b10704cdf10e8dba7e74ebc9f06d2638a8d75f7",
+    "faces": 144,
+    "verts": 96,
+    "pairs": []
+  },
+  "NA_FisherFineArts_8x6_LOD2.fbx": {
+    "sha256": "093b4847af7ac7df3a81fc15d007d8d7e70bc8df8877474600acede8e716f349",
+    "faces": 336,
+    "verts": 184,
+    "pairs": []
+  },
+  "NA_FranklinField_28x19_LOD2.fbx": {
+    "sha256": "d2d33de2059fbf8948515614348436701be1b1b15ad23fd40e8d95aac8f4a86d",
+    "faces": 96,
+    "verts": 64,
+    "pairs": []
+  },
+  "NA_HillCollegeHouse_10x6_LOD2.fbx": {
+    "sha256": "a78a7ce74162bf5ddb07d05ae1724c13cfeb522fb21e9ad486b8065bd986b1b3",
+    "faces": 72,
+    "verts": 48,
+    "pairs": []
+  },
+  "NA_HoustonHall_11x5_LOD2.fbx": {
+    "sha256": "31171b661c703b0e32f5d225890875e0cbf95c8743c794def3606d9661082a23",
+    "faces": 60,
+    "verts": 40,
+    "pairs": []
+  },
+  "NA_IrvineAuditorium_7x7_LOD2.fbx": {
+    "sha256": "d936739218c7a3e133e63340d76b49ab6a64c2f7cecb711a9797f6d19161757e",
+    "faces": 108,
+    "verts": 64,
+    "pairs": []
+  },
+  "NA_PennMuseum_21x15_LOD2.fbx": {
+    "sha256": "70c2c6049e1022741a54ece0931ad7cfaa90284dc0f346252efd5b233b488c03",
+    "faces": 232,
+    "verts": 128,
+    "pairs": []
+  },
+  "NA_QuadAshhurst_3x3_LOD2.fbx": {
+    "sha256": "f69462575e11121358edc32119af30f046b9a02311cd8b1eb25b3e9d9dcf8a99",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadBaird_3x3_LOD2.fbx": {
+    "sha256": "e482478ee51349ff93ee4bea3b5fc67700ea92c4b3c133cf9fc95ebbf1a5a087",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadBaldwinE_3x3_LOD2.fbx": {
+    "sha256": "8e246a862fbdc11da2ce0e65e065fdfbef589aeb8457cbe286f33c3001fc1125",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadBaldwinW_3x3_LOD2.fbx": {
+    "sha256": "e6ef21a761ffee0324d8c6abbc92c29b737fd660c574a21f2fd4016bef36fd76",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadBishopWhite_4x3_LOD2.fbx": {
+    "sha256": "969043f87bcee53d61807025765477f4bb40ec15469d4dcb3a458eff18a2fdb7",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadBodine_3x3_LOD2.fbx": {
+    "sha256": "5c3f66d0ccf8aa06c4ba0dc70304b29a0626c5221fe077ab5f0431ed5aea7cfe",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadBrooks_4x3_LOD2.fbx": {
+    "sha256": "81b2484ebd9adebb97973e38021ae788b05962337502b104f71b63cf1dc870ee",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadButcher_5x3_LOD2.fbx": {
+    "sha256": "5f860310000ce3e693cf98621a11917150b2ea4c4d25d6cbcfd2fdba29143bee",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadCarruth_3x3_LOD2.fbx": {
+    "sha256": "5941cc42c028cc6e19deab67ed8dab125ce67675923ff848d7a90f4814a5dde9",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadChestnut_3x3_LOD2.fbx": {
+    "sha256": "c1a956a3e0f1c2d9ba209ae6907e20ac7b21f9e97ba8ffe1a92eb1ef5c2b7c9c",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadClassOf28_3x3_LOD2.fbx": {
+    "sha256": "36508119f3c82f39abe141060023b7b2a79348b8e98a75402acbfd539ecf6ece",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadCleemann_4x3_LOD2.fbx": {
+    "sha256": "820909090f8efa98371dd70f64ea8c99b7826ec0539a9d8e0c881dd41f147b5e",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadCoxe_4x3_LOD2.fbx": {
+    "sha256": "7192d27a9a82530ba0623f78801225ae4c2888c39e44d16cbf92ed9101ad79e4",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadCraig_3x3_LOD2.fbx": {
+    "sha256": "e0e72176871235fd6b00408a3e2a58d39b91ab7559c7a2b56cd5325e48b192fd",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadEFSmith_4x3_LOD2.fbx": {
+    "sha256": "82b0b6d22fd3a4550f5a3f0d3c55faa624dd5f569ba46afe6fdf752ce8bf59c9",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadFitler_3x3_LOD2.fbx": {
+    "sha256": "61fd6546ebb6a5b18dd9c1c61d83b8e9592da43b29f4038017dea72a70218ad2",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadFoerderer_4x3_LOD2.fbx": {
+    "sha256": "134bce17e686b41dbf03ee1beec2c37f25da4b96464191af338b2c28fa1c8c08",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadFranklin_4x3_LOD2.fbx": {
+    "sha256": "f2191933e6ca4640d984cea893b287fa9a2f634779f99f75ffa4688d8f25deaf",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadHopkinson_3x3_LOD2.fbx": {
+    "sha256": "548b30c1ac639533e16332e4f7908d469102a3f177c76b8a05a7f83795c71614",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadLeidy_4x3_LOD2.fbx": {
+    "sha256": "d71b215d9cedd8e3877776b20e0f5a4f2694685e6f6fcbf9821df48011a9726f",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadLippincott_3x3_LOD2.fbx": {
+    "sha256": "8d0c7c6444be3b098c3eb0bdb6c8c9242091fe12103bcb03a8b7c4313148f760",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadMagee_4x3_LOD2.fbx": {
+    "sha256": "9bda72adf5c302aa4f01bcd496ffd3b11c82e075715a9f1605fc44332ef357bb",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadMcClelland_6x3_LOD2.fbx": {
+    "sha256": "29de390dc07415f2cb0f4301e3adedeb9337951867be1b2d3c2f4d5540b555ef",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadMcKean_5x4_LOD2.fbx": {
+    "sha256": "7abcfcd3e310e73281877d00bc1600a3cb54e65d0408778fa4442f13639a9cab",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadMemorialTower_3x3_LOD2.fbx": {
+    "sha256": "69296703693dade481712b296df20aefb19c95737f57c5fd551455c9b4287bc9",
+    "faces": 160,
+    "verts": 100,
+    "pairs": []
+  },
+  "NA_QuadMorgan_4x3_LOD2.fbx": {
+    "sha256": "caf7d65f13d0d96b1c693ddb9b1f6bbf773eb047fe26278c91a8e62de8605fb3",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadMorris_4x4_LOD2.fbx": {
+    "sha256": "9370c11b2b24e294d98b2f6c7016b9038782b4be128ef21c8eb6537d75c0c52e",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadNewYorkAlumni_3x3_LOD2.fbx": {
+    "sha256": "99272da4a79451346a9327bf81d5be040af37b66c353298f7d79de8b45982cd3",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadRodney_4x3_LOD2.fbx": {
+    "sha256": "c63fcf3196f9470c973586237e250cccb6c5d7d5b8af21ed600cf711787611f2",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadSmith_3x3_LOD2.fbx": {
+    "sha256": "5e99fb95e8b54819dc6b48b48e9bcf9a0dae43f73d050b76344a7ff3d7ed0801",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadSpeakman_7x3_LOD2.fbx": {
+    "sha256": "bb888a3a4842c1a299e842a541abc499e1cc16b1e75130980efe175537a18280",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadWard_4x4_LOD2.fbx": {
+    "sha256": "9a374d5dd32c16878db4de5eb428c28c7849dd5ec8623d6a99094c99c4e9ea70",
+    "faces": 68,
+    "verts": 44,
+    "pairs": []
+  },
+  "NA_QuadWarwick_4x3_LOD2.fbx": {
+    "sha256": "5535be292fb7dbe41a6c9ce490cfe1fe27560142f2da306469e854dc1f8a809c",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_QuadWilson_3x3_LOD2.fbx": {
+    "sha256": "c94bfedee2769465de8c7abc60bd225b0b34e1941b5b4ee17b3307d84dcf92a0",
+    "faces": 40,
+    "verts": 28,
+    "pairs": []
+  },
+  "NA_SteinbergDietrich_16x10_LOD2.fbx": {
+    "sha256": "9b6b7e409732f275253a3baa6ba37665828aab7b1a6e179bd2ec5368cf3f78c8",
+    "faces": 72,
+    "verts": 48,
+    "pairs": []
+  },
+  "NA_VanPeltLibrary_18x6_LOD2.fbx": {
+    "sha256": "07cbdfa1ef67521cd9b4982cbb813a7f2c94fd5384b95b910ce4399073a321d4",
+    "faces": 48,
+    "verts": 32,
+    "pairs": [
+      {
+        "source_heights": [
+          4.800000190734863,
+          4.799999237060547
+        ],
+        "height_delta_m": 9.5367431640625e-07,
+        "caps": [
+          [
+            11,
+            35
+          ],
+          [
+            16,
+            40
+          ]
+        ],
+        "weld": {
+          "18": 11,
+          "16": 9,
+          "22": 15,
+          "20": 13
+        },
+        "XZ": [
+          [
+            -68.0,
+            -18.0
+          ],
+          [
+            -68.0,
+            16.0
+          ],
+          [
+            68.0,
+            -18.0
+          ],
+          [
+            68.0,
+            16.0
+          ]
+        ]
+      }
+    ]
+  },
+  "NA_WistarInstitute_17x8_LOD2.fbx": {
+    "sha256": "cf54205617d398522ebdc8067071452b588d65540b84f51a5e778ce34a407eb1",
+    "faces": 36,
+    "verts": 24,
+    "pairs": []
+  }
+}
