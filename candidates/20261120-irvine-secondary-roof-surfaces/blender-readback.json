@@ -1,0 +1,38 @@
+{
+  "east_flat_deck": {
+    "vertices": 8,
+    "faces": 8,
+    "boundary": 6,
+    "two_face_edges": 9
+  },
+  "east_outer_hip_sample": {
+    "vertices": 34,
+    "faces": 40,
+    "boundary": 26,
+    "two_face_edges": 47
+  },
+  "south_flat_deck": {
+    "vertices": 8,
+    "faces": 8,
+    "boundary": 6,
+    "two_face_edges": 9
+  },
+  "south_outer_hip_sample": {
+    "vertices": 29,
+    "faces": 35,
+    "boundary": 21,
+    "two_face_edges": 42
+  },
+  "west_flat_deck": {
+    "vertices": 8,
+    "faces": 8,
+    "boundary": 6,
+    "two_face_edges": 9
+  },
+  "west_outer_hip_sample": {
+    "vertices": 32,
+    "faces": 38,
+    "boundary": 24,
+    "two_face_edges": 45
+  }
+}
