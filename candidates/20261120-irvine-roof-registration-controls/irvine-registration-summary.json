@@ -1,0 +1,20 @@
+{
+  "historical_span_m": {
+    "slate_roof_rise": 10.520550060901343,
+    "from_rough_spire_cladding_break_to_finial_crossbar": 13.145752984165647
+  },
+  "raw_model_span_m": {
+    "slate_roof_rise": 11.5,
+    "from_slope_upper_join_to_top": 16.0
+  },
+  "historical_to_model_interval_ratios": [
+    0.9148304400783777,
+    0.8216095615103529
+  ],
+  "outline_orientation_EPSG26918_degrees_clockwise_from_E": 7.305759533584281,
+  "nearby_paving_site_min_max_navd88_m": [
+    14.104953307562864,
+    14.51338617093738
+  ],
+  "policy": "Use interval comparisons and planar shape to triage. Do not apply shift or rescale from non-homologous ortho and 1926 anchors; acquire roof heights in same vertical datum and register corresponding walls, roof breaks, and entry threshold."
+}

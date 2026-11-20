@@ -1,0 +1,64 @@
+{
+  "source": "Penn 180.I.A.17 sheet 9, 1682\u00d72000 JPG; work 2586, 1926-08-03 architectural section contract stamp",
+  "source_sha256": "587828e66d501ff128ccdfabc1a9338f045d3b46f913fa43e24e0dcef72df80e",
+  "print_scale": "1/8 in = 1 ft",
+  "nominal_dim_ft": 53.166666666666664,
+  "reference_px": {
+    "plan_nominal_x_span_px": [
+      139,
+      550
+    ],
+    "plan_nominal_y_span_px": [
+      145,
+      555
+    ]
+  },
+  "scale_px_per_ft": [
+    7.730407523510972,
+    7.711598746081505
+  ],
+  "m_per_sample_pixel": 0.03947673568818514,
+  "section_landmarks_px": {
+    "grade_right": [
+      1531,
+      1623
+    ],
+    "main_eave_left": [
+      615,
+      654
+    ],
+    "main_eave_right": [
+      1049,
+      651
+    ],
+    "slope_to_spire_cladding": [
+      836,
+      386
+    ],
+    "finial_crossbar": [
+      836,
+      53
+    ],
+    "top_line_approx": [
+      836,
+      41
+    ]
+  },
+  "approx_elevations_m_from_printed_grade": {
+    "main_eave_left": 38.252956881851404,
+    "main_eave_right": 38.37138708891595,
+    "slope_to_spire_cladding": 48.83272204628502,
+    "finial_crossbar": 61.97847503045067,
+    "top_line_approx": 62.45219585870889
+  },
+  "approx_section_eave_span_m": 17.13290328867235,
+  "pick_tolerance_px": 5,
+  "source_status": "Original historical design, one sheet. Not modern height, not lowest ground, not an elevation survey. Finial symbol identification uncertain.",
+  "model_current": {
+    "eave_z_m": 29,
+    "slope_to_spire_z_m": 40.5,
+    "finial_z_m": 56.5,
+    "far_model_max_main_roof_diameter_m": 35.2
+  },
+  "modern_ortho": "manual 18.32\u201318.68m apparent edge lengths, distinct feature and subject to perspective/raster building lean; width is nominal roof only, not full building."
+}
