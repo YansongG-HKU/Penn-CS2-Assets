@@ -1,0 +1,26 @@
+{
+  "method": "Only face pairs incident to edges with more than 2 faces. World-space coplanarity tolerance 1e-5 m, positive overlap >1e-6 square metres; near/mid canonical Base split FBX only. Opposed skin is an observation, not sufficient proof of intentional joining. No CS2 Editor test, no geometry change.",
+  "next": "Claudia near/mid each have 205 edges with opposing-face overlap and none with same-direction overlap in this scope. Retain pending verification of actual contact and visual import; separately delivered roof candidate is not the near/mid input here.",
+  "files": {
+    "NA_ClaudiaCohenHall_7x5.fbx": {
+      "source_sha256": "bc00c52f8f968cd65ef804c3bf844cba351d4f5c3f5a4fa5f920cb5746f788c8",
+      "edge_counts": {
+        "no_positive_coplanar_overlap_at_edge": 19,
+        "opposed_skin_overlap": 205
+      },
+      "affected_edges": 224,
+      "unique_same_direction_face_pairs": 0,
+      "examples_same_direction": []
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD1.fbx": {
+      "source_sha256": "fb7354bf19db4221c5ec124e4ae38792700341b5c78c25e1ba4df1ec2f3ae7a1",
+      "edge_counts": {
+        "no_positive_coplanar_overlap_at_edge": 19,
+        "opposed_skin_overlap": 205
+      },
+      "affected_edges": 224,
+      "unique_same_direction_face_pairs": 0,
+      "examples_same_direction": []
+    }
+  }
+}
