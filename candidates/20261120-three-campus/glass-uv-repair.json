@@ -1,0 +1,34 @@
+{
+  "CollegeHall/NA_CollegeHall_11x7_Gls.fbx": {
+    "previous_sha256": "6e75352924f27a61967bd0e40643dac1108ecace8f0d4bb52bd24f83bb292150",
+    "final_sha256": "2f5d3d79fbcf087182bf664f3be3f1930d3f30d883f6406330bd7b6f6a2c9874",
+    "isolated_charts": 16,
+    "corner_uv_triangles_repaired": 16,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "CollegeHall/NA_CollegeHall_11x7_LOD1_Gls.fbx": {
+    "previous_sha256": "03e94596c089fe89feb18b6bb1ea7b282f6ab63973fde76c1ead69c557cbf1e4",
+    "final_sha256": "7420784063ea8b03ec4c6656c40df1ecf623718520e16f970467a2f1623762b3",
+    "isolated_charts": 16,
+    "corner_uv_triangles_repaired": 16,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  }
+}
