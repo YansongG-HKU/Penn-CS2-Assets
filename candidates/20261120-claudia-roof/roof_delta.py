@@ -3,12 +3,15 @@ import argparse
 import hashlib
 import json
 from pathlib import Path
-import shutil
 
 import zstandard
 
 def sha(data):
     return hashlib.sha256(data).hexdigest()
+
+def checked(label, data, size, digest):
+    if (size is not None and len(data) != size) or sha(data) != digest:
+        raise ValueError(f"{label}: size or SHA-256 mismatch")
 
 def make_replay(source, output, patch):
     source=source.resolve(strict=True)
@@ -18,27 +21,30 @@ def make_replay(source, output, patch):
     entries=json.loads((patch/'manifest.json').read_text())['files']
     blobs={}
     for name,row in entries.items():
-        if Path(name).name != name:
+        if name in ('.', '..') or Path(name).name != name:
             raise ValueError(name)
         before=(source/name).read_bytes()
-        assert len(before)==row['before_bytes'] and sha(before)==row['before_sha256']
-        if not row.get('patch'):
+        checked(f"{name} baseline", before, row["before_bytes"], row["before_sha256"])
+        patch_name = row.get('patch')
+        if not patch_name:
+            checked(f"{name} unchanged output", before, row["after_bytes"], row["after_sha256"])
+            blobs[name] = before
             continue
-        compressed=(patch/row['patch']).read_bytes()
-        assert sha(compressed)==row['patch_sha256']
+        if not isinstance(patch_name, str) or patch_name in ('.', '..') or Path(patch_name).name != patch_name:
+            raise ValueError(f"{name}: invalid delta filename")
+        compressed=(patch/patch_name).read_bytes()
+        checked(f"{name} delta", compressed, None, row["patch_sha256"])
         dictionary=zstandard.ZstdCompressionDict(before,dict_type=zstandard.DICT_TYPE_RAWCONTENT)
         new=zstandard.ZstdDecompressor(dict_data=dictionary).decompress(compressed,max_output_size=row['after_bytes'])
-        assert len(new)==row['after_bytes'] and sha(new)==row['after_sha256']
+        checked(f"{name} replay output", new, row["after_bytes"], row["after_sha256"])
         blobs[name]=new
     output.mkdir(parents=True)
-    for name in entries:
-        if name in blobs:
-            (output/name).write_bytes(blobs[name])
-        else:
-            shutil.copyfile(source/name,output/name)
-    for name,row in entries.items():
-        assert sha((output/name).read_bytes())==row['after_sha256']
-    print(f'{len(entries)} assets files verified, {len(blobs)} replacements')
+    for name, data in blobs.items():
+        (output/name).write_bytes(data)
+    for name, row in entries.items():
+        checked(f"{name} written output", (output/name).read_bytes(), row["after_bytes"], row["after_sha256"])
+    replaced = sum(bool(row.get('patch')) for row in entries.values())
+    print(f'{len(entries)} asset files verified, {replaced} replacements')
 
 if __name__=='__main__':
     p=argparse.ArgumentParser(description=__doc__)
