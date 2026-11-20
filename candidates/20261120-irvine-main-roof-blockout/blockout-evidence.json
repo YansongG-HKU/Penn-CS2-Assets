@@ -1,0 +1,168 @@
+{
+  "status": "geometry_reference_only",
+  "fit_profiles": {
+    "east": {
+      "params": [
+        66.9496976486425,
+        -1.7580311076756918,
+        1.027442286472919,
+        7.216951528791712
+      ],
+      "profile": "Z=c+s*r+delta*max(0,r-break_r)",
+      "train": 435,
+      "holdout": 125,
+      "holdout_residual_quantiles_m": [
+        0.10474401397727462,
+        0.294335016784423,
+        0.5651073917821647
+      ],
+      "holdout_within_0p45m": 116,
+      "train_median_residual_m": 0.10106041803753385
+    },
+    "west": {
+      "params": [
+        66.97376999174585,
+        -1.7469516773023683,
+        0.9875702221208984,
+        7.251771716748308
+      ],
+      "profile": "Z=c+s*r+delta*max(0,r-break_r)",
+      "train": 364,
+      "holdout": 103,
+      "holdout_residual_quantiles_m": [
+        0.09520373043687869,
+        0.3462935797578865,
+        0.5957207052564955
+      ],
+      "holdout_within_0p45m": 96,
+      "train_median_residual_m": 0.11984877945814887
+    },
+    "north": {
+      "params": [
+        64.08951450545165,
+        -1.427223262434848,
+        0.7733168839492344,
+        6.802959126891635
+      ],
+      "profile": "Z=c+s*r+delta*max(0,r-break_r)",
+      "train": 368,
+      "holdout": 117,
+      "holdout_residual_quantiles_m": [
+        0.07425800038450348,
+        0.18788012362759335,
+        0.29799547212075944
+      ],
+      "holdout_within_0p45m": 114,
+      "train_median_residual_m": 0.0626984351948856
+    },
+    "south": {
+      "params": [
+        64.12391115496136,
+        -1.4363859819217968,
+        0.7824010014214832,
+        6.78106453484308
+      ],
+      "profile": "Z=c+s*r+delta*max(0,r-break_r)",
+      "train": 402,
+      "holdout": 146,
+      "holdout_residual_quantiles_m": [
+        0.059081794617920735,
+        0.17467489633638067,
+        0.2434958896024657
+      ],
+      "holdout_within_0p45m": 141,
+      "train_median_residual_m": 0.06330249645989738
+    }
+  },
+  "eave_estimates": {
+    "east": {
+      "outer_coord_m": 8.749521295647911,
+      "training_hits": 113,
+      "radial_quantiles_m": [
+        8.648305360074078,
+        8.749521295647911,
+        8.82055547889671
+      ],
+      "accepted_eave_height_m": 53.25999999999999
+    },
+    "west": {
+      "outer_coord_m": 8.808713463966509,
+      "training_hits": 93,
+      "radial_quantiles_m": [
+        8.737262297059594,
+        8.808713463966509,
+        8.843685400804528
+      ],
+      "accepted_eave_height_m": 53.245000000000005
+    },
+    "north": {
+      "outer_coord_m": 8.841196224652231,
+      "training_hits": 136,
+      "radial_quantiles_m": [
+        8.703557454790703,
+        8.841196224652231,
+        8.869451563816789
+      ],
+      "accepted_eave_height_m": 53.17500000000007
+    },
+    "south": {
+      "outer_coord_m": 8.839295907674058,
+      "training_hits": 125,
+      "radial_quantiles_m": [
+        8.688482848292347,
+        8.839295907674058,
+        8.887343014967838
+      ],
+      "accepted_eave_height_m": 53.190000000000055
+    }
+  },
+  "finished_mesh_scan_holdout": {
+    "east": {
+      "test_n": 87,
+      "held_median_m": 0.15384584987665306,
+      "held_p90_m": 0.6659704557188747,
+      "within_0p75m": 0.9080459770114943
+    },
+    "west": {
+      "test_n": 69,
+      "held_median_m": 0.09370522340248755,
+      "held_p90_m": 0.6184139741550071,
+      "within_0p75m": 0.9565217391304348
+    },
+    "north": {
+      "test_n": 88,
+      "held_median_m": 0.11405252922341447,
+      "held_p90_m": 0.4628042575654332,
+      "within_0p75m": 0.9545454545454546
+    },
+    "south": {
+      "test_n": 105,
+      "held_median_m": 0.10118981558688489,
+      "held_p90_m": 0.4810126495491945,
+      "within_0p75m": 0.9714285714285714
+    },
+    "off_axis_diagonal_diagnostic": {
+      "subset_n": 503,
+      "observed_n": 503,
+      "held_median_m": 0.2605046931477233,
+      "held_p90_m": 0.7047127224106561,
+      "within_0p75m": 0.9204771371769384,
+      "caution": "Includes genuine features missing from detached massing; not part of the four axis strip fit."
+    }
+  },
+  "near_grade_navd88_m": 14.4,
+  "model_utm_center": [
+    483514.97442593524,
+    4422324.179293535
+  ],
+  "model_axes_utm": [
+    0.9911905478735423,
+    -0.13244356460827808
+  ],
+  "roofs": "central only",
+  "output_points": 34,
+  "output_triangles": 64,
+  "closed_oriented_edges": 96,
+  "unmeasured_collar_radius_m": 1.5,
+  "note": "The bottom cap and collar are diagnostic closure only. Material, walls, protruding side structures and true spire not included. Historic center feature not rescaled."
+}
