@@ -1,0 +1,68 @@
+{
+  "before": {
+    "triangles": 96,
+    "edges_all_degree_two": 144,
+    "vertices": 56,
+    "decoded_textures": {
+      "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_IrvineAuditorium_7x7_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      8,
+      8,
+      16,
+      24
+    ],
+    "bounds": [
+      [
+        -28.0,
+        -28.0,
+        -0.05000211298465729
+      ],
+      [
+        28.0,
+        28.0,
+        56.5
+      ]
+    ]
+  },
+  "after": {
+    "triangles": 96,
+    "edges_all_degree_two": 144,
+    "vertices": 56,
+    "decoded_textures": {
+      "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_IrvineAuditorium_7x7_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      8,
+      8,
+      16,
+      24
+    ],
+    "bounds": [
+      [
+        -28.0,
+        -28.0,
+        -0.05000211298465729
+      ],
+      [
+        28.0,
+        28.0,
+        56.5
+      ]
+    ]
+  }
+}

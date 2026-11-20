@@ -1,0 +1,41 @@
+{
+  "manual_sources_check": "Penn southeast color view and full 2025 roof crop, no geometry scaling",
+  "same_face_far_slate_max_donor_dist_pixel": 9.433981132056603,
+  "mask_selection_texels": 795,
+  "texture_results": {
+    "BaseColor": {
+      "before_sha256": "80087b98a2df177148a210f72572b1dc7b1b4fe3fe7f9cb3acf3284d7be4c16d",
+      "after_sha256": "5a427c8163a43006c994632f1d43cc5e288b2769376ec7f481d9b3c25d378b38",
+      "after_rgba_sha256": "aebe9186a67f70ee5a3c3eb73329b6874dda8d9286ca369754906449196a4900",
+      "exact_pixels_changed": 795,
+      "original_and_candidate_pixel_mode": "RGB"
+    },
+    "MaskMap": {
+      "before_sha256": "c2bc132afc3a2e32cbfe5016ba8a6f7224f74ca61b84a9339b97296c852ea5ac",
+      "after_sha256": "6c460d9b138d97aa3f34c2ce369be9e895b3fc623a789e9d063de335d10936b6",
+      "after_rgba_sha256": "27920d0571e247dfdd8204426db985661ea672888ac4de0ba28617d25f53c49e",
+      "exact_pixels_changed": 608,
+      "original_and_candidate_pixel_mode": "RGBA"
+    },
+    "ControlMask": {
+      "before_sha256": "dfb97c67aef06989faee99cdfd32d9bad888e5e1e8e1df9ba513068dd8e48a9d",
+      "after_sha256": "adfa39bad1d3e8da0433c38bed671f6ef0de860c095390f2224b2d0b41a5d1c2",
+      "after_rgba_sha256": "196388d64fa96967944fe862113e5c0b5a1da849f9be00cc4bc2ee16a0910894",
+      "exact_pixels_changed": 586,
+      "original_and_candidate_pixel_mode": "RGBA"
+    },
+    "Normal": {
+      "before_sha256": "339b5e8cf4f953a465ab77bf362b403e8bb66c4daffafe9a1e7e3ef97fadfd8e",
+      "after_sha256": "b233564c04bbc11dab9951d605b1af4a424d5c0df74bdb6eac079f9659029968",
+      "after_rgba_sha256": "e460da6d9a207f956ed298db943738b119885ff6c0a387d32b6f498067129e81",
+      "exact_pixels_changed": 795,
+      "original_and_candidate_pixel_mode": "RGB"
+    },
+    "Emissive": {
+      "before_sha256": "a8e55ab17b3297d6a64ebec2e712ffa441762311415bf13cfaa1452b00ac01c1",
+      "after_sha256": "a8e55ab17b3297d6a64ebec2e712ffa441762311415bf13cfaa1452b00ac01c1",
+      "after_rgba_sha256": "bfee13fb98db99d02f9fd74b1667fe91d2224b204d199771264b5a7a94a27304",
+      "exact_pixels_changed": 0
+    }
+  }
+}

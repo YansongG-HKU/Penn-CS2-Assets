@@ -1,0 +1,53 @@
+{
+  "far_slate_faces": [
+    13,
+    14,
+    16,
+    19,
+    21,
+    30,
+    32,
+    35,
+    53,
+    54,
+    56,
+    59,
+    61,
+    78,
+    84,
+    87
+  ],
+  "grid_spacing_m": 0.05,
+  "metrics": {
+    "far_roof": {
+      "pixels": 347552,
+      "fraction_far_roof": 1.0,
+      "median_mid_minus_far_Y_m": 0.763657510961874
+    },
+    "geometrically_matched_mid_tilt": {
+      "pixels": 335767,
+      "fraction_far_roof": 0.9660914050271614,
+      "median_mid_minus_far_Y_m": 0.792710140656979
+    },
+    "far_bright": {
+      "pixels": 11335,
+      "fraction_far_roof": 0.03261382469385876,
+      "median_mid_minus_far_Y_m": 0.96768042052447
+    },
+    "far_bright_mid_dark": {
+      "pixels": 8928,
+      "fraction_far_roof": 0.02568824233495995,
+      "median_mid_minus_far_Y_m": 1.0457687208440714
+    },
+    "far_bright_mid_dark_ywithin_1m": {
+      "pixels": 3758,
+      "fraction_far_roof": 0.010812770463124942,
+      "median_mid_minus_far_Y_m": 0.8831346975315437
+    },
+    "far_bright_mid_dark_ywithin_2m": {
+      "pixels": 7374,
+      "fraction_far_roof": 0.02121696897154958,
+      "median_mid_minus_far_Y_m": 0.995343996166115
+    }
+  }
+}

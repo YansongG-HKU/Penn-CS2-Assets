@@ -1,0 +1,32 @@
+{
+  "front-base": {
+    "changed_gt2": 2871,
+    "max_channel_diff": 88,
+    "silhouette_different_px": 0
+  },
+  "front-lit": {
+    "changed_gt2": 2507,
+    "max_channel_diff": 42,
+    "silhouette_different_px": 0
+  },
+  "rear-base": {
+    "changed_gt2": 1912,
+    "max_channel_diff": 82,
+    "silhouette_different_px": 0
+  },
+  "rear-lit": {
+    "changed_gt2": 1706,
+    "max_channel_diff": 55,
+    "silhouette_different_px": 0
+  },
+  "aerial-base": {
+    "changed_gt2": 4756,
+    "max_channel_diff": 86,
+    "silhouette_different_px": 0
+  },
+  "aerial-lit": {
+    "changed_gt2": 4038,
+    "max_channel_diff": 52,
+    "silhouette_different_px": 0
+  }
+}
