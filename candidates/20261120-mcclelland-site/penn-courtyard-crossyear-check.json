@@ -1,0 +1,357 @@
+{
+  "service": "https://imagery.pasda.psu.edu/arcgis/rest/services/pasda/PhillyDEM/MapServer/identify",
+  "source_2022_vertical_datum_units": "https://www.pasda.psu.edu/download/phillyLiDAR/2022/Metadata_and_Reports/Lidar_Report/65221207_Philadelphia_Mapping_Report.pdf#page=5",
+  "source_2025_sampling": "penn-courtyard-dem-samples.json",
+  "method": "Select every second location within each sample group; REST 6 = documented 2022 project, 12 = 2025 map layer visual sample; compare to local 2025 nearest-neighbor raster; rounded service values not substituted for local samples.",
+  "limit": "Site-level courtyard separation only. 2025 vertical units/datum not explicitly tagged, cross-year matches support raw scale near ftUS but not an independent datum assignment; active 2025 construction can affect path and approach. No terrace/slab/threshold dimensions inferred.",
+  "groups": {
+    "upper_visible_paved_paths": {
+      "samples": [
+        {
+          "ortho_pixel_xy_zero_based": [
+            196,
+            583
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483083.70265520003,
+            4422277.0322712
+          ],
+          "sample_xy_epsg2272": [
+            2683881.61910278,
+            235146.274984453
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.9899978637695,
+          "service_2022_layer6_ftUS_NAVD88": 71.931999,
+          "service_2025_layer12_raw": 72.06,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2683881.61910278,235146.274984453",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2683811.61910278,235076.274984453,2683951.61910278,235216.274984453",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            282,
+            547
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483105.71631600003,
+            4422286.247292
+          ],
+          "sample_xy_epsg2272": [
+            2683952.89476285,
+            235178.75307919
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.7399978637695,
+          "service_2022_layer6_ftUS_NAVD88": 71.897003,
+          "service_2025_layer12_raw": 71.6,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2683952.89476285,235178.75307919",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2683882.89476285,235108.75307919,2684022.89476285,235248.75307919",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            329,
+            616
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483117.7470376,
+            4422268.585168799
+          ],
+          "sample_xy_epsg2272": [
+            2683994.16552263,
+            235122.040319093
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.5599975585938,
+          "service_2022_layer6_ftUS_NAVD88": 71.791,
+          "service_2025_layer12_raw": 71.68,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2683994.16552263,235122.040319093",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2683924.16552263,235052.040319093,2684064.16552263,235192.040319093",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        }
+      ],
+      "median_2022_ftUS_NAVD88": 71.897003,
+      "median_2025_tif_raw": 71.7399978637695,
+      "median_2025_service_raw": 71.68,
+      "median_paired_2025_tif_minus_2022": -0.15700513623049517
+    },
+    "lower_visible_x_path_traces_in_construction": {
+      "samples": [
+        {
+          "ortho_pixel_xy_zero_based": [
+            644,
+            552
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483198.37846960005,
+            4422284.967428
+          ],
+          "sample_xy_epsg2272": [
+            2684257.00709447,
+            235184.016455175
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.169994354248,
+          "service_2022_layer6_ftUS_NAVD88": 58.206001,
+          "service_2025_layer12_raw": 58.43,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684257.00709447,235184.016455175",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684187.00709447,235114.016455175,2684327.00709447,235254.016455175",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            686,
+            609
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483209.12932720006,
+            4422270.376978399
+          ],
+          "sample_xy_epsg2272": [
+            2684293.76556262,
+            235137.249746767
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.7000007629395,
+          "service_2022_layer6_ftUS_NAVD88": 58.887001,
+          "service_2025_layer12_raw": 58.75,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684293.76556262,235137.249746767",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684223.76556262,235067.249746767,2684363.76556262,235207.249746767",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            727,
+            659
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483219.62421200005,
+            4422257.5783383995
+          ],
+          "sample_xy_epsg2272": [
+            2684329.50133605,
+            235096.334997725
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.7000007629395,
+          "service_2022_layer6_ftUS_NAVD88": 58.638,
+          "service_2025_layer12_raw": 58.38,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684329.50133605,235096.334997725",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684259.50133605,235026.334997725,2684399.50133605,235166.334997725",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            728,
+            561
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483219.8801848001,
+            4422282.663672799
+          ],
+          "sample_xy_epsg2272": [
+            2684327.77951655,
+            235178.654512132
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.5,
+          "service_2022_layer6_ftUS_NAVD88": 58.464001,
+          "service_2025_layer12_raw": 58.52,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684327.77951655,235178.654512132",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684257.77951655,235108.654512132,2684397.77951655,235248.654512132",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            662,
+            627
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483202.98598000006,
+            4422265.769467999
+          ],
+          "sample_xy_epsg2272": [
+            2684274.08257086,
+            235121.507319458
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.8999977111816,
+          "service_2022_layer6_ftUS_NAVD88": 58.977001,
+          "service_2025_layer12_raw": 58.86,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684274.08257086,235121.507319458",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684204.08257086,235051.507319458,2684344.08257086,235191.507319458",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            608,
+            677
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483189.16344880004,
+            4422252.9708279995
+          ],
+          "sample_xy_epsg2272": [
+            2684230.04415148,
+            235078.109439318
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.299991607666,
+          "service_2022_layer6_ftUS_NAVD88": 58.264,
+          "service_2025_layer12_raw": 58.07,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684230.04415148,235078.109439318",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684160.04415148,235008.109439318,2684300.04415148,235148.109439318",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        }
+      ],
+      "median_2022_ftUS_NAVD88": 58.5510005,
+      "median_2025_tif_raw": 58.600000381469755,
+      "median_2025_service_raw": 58.475,
+      "median_paired_2025_tif_minus_2022": -7.519043002446324e-06
+    },
+    "lower_near_approach_in_construction": {
+      "samples": [
+        {
+          "ortho_pixel_xy_zero_based": [
+            595,
+            580
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483185.8358024,
+            4422277.800189599
+          ],
+          "sample_xy_epsg2272": [
+            2684216.59227745,
+            235159.223290065
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 59.0900001525879,
+          "service_2022_layer6_ftUS_NAVD88": 58.627998,
+          "service_2025_layer12_raw": 59.37,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684216.59227745,235159.223290065",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684146.59227745,235089.223290065,2684286.59227745,235229.223290065",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            596,
+            663
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483186.09177520004,
+            4422256.554447199
+          ],
+          "sample_xy_epsg2272": [
+            2684219.60147663,
+            235089.551977602
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.9399909973145,
+          "service_2022_layer6_ftUS_NAVD88": 58.759998,
+          "service_2025_layer12_raw": 58.95,
+          "request": {
+            "f": "json",
+            "geometryType": "esriGeometryPoint",
+            "geometry": "2684219.60147663,235089.551977602",
+            "sr": 2272,
+            "layers": "all:6,12",
+            "tolerance": 0,
+            "mapExtent": "2684149.60147663,235019.551977602,2684289.60147663,235159.551977602",
+            "imageDisplay": "500,500,96",
+            "returnGeometry": "false"
+          }
+        }
+      ],
+      "median_2022_ftUS_NAVD88": 58.693998,
+      "median_2025_tif_raw": 59.0149955749512,
+      "median_2025_service_raw": 59.16,
+      "median_paired_2025_tif_minus_2022": 0.32099757495119974
+    }
+  },
+  "median_gaps": {
+    "upper_minus_lower_2022_ftUS": 13.346002499999997,
+    "upper_minus_lower_2022_m": 4.067869697739395,
+    "upper_minus_lower_exact_subset_2025_local_raw": 13.139997482299748
+  }
+}

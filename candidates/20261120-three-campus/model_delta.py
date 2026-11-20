@@ -9,6 +9,11 @@ import zstandard
 def digest(data):
     return hashlib.sha256(data).hexdigest()
 
+def require_equal(label, actual, expected):
+    if actual != expected:
+        raise ValueError(f"{label}: expected {expected!r}, got {actual!r}")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('mode', choices=('build','apply'))
@@ -47,8 +52,10 @@ def main():
             original = (args.repository/path).read_bytes()
             candidate = (args.candidates/destination).read_bytes()
             before, after = digest(original), digest(candidate)
-            assert changes.pop('verified_baseline_sha256',before) == before
-            assert changes.pop('expected_candidate_sha256',after) == after
+            require_equal(f'{path}: baseline SHA-256', before,
+                          changes.pop('verified_baseline_sha256', before))
+            require_equal(f'{destination}: candidate SHA-256', after,
+                          changes.pop('expected_candidate_sha256', after))
             patch = zstandard.ZstdCompressor(level=10,dict_data=zstandard.ZstdCompressionDict(
                 original,dict_type=zstandard.DICT_TYPE_RAWCONTENT)).compress(candidate)
             patch_name = name + '.zst'
@@ -61,10 +68,12 @@ def main():
         args.candidates.mkdir(parents=True,exist_ok=False)
         for row in json.loads((args.delta/'manifest.json').read_text()):
             original,patch = (args.repository/row['base']).read_bytes(),(args.delta/row['patch']).read_bytes()
-            assert digest(original) == row['before_sha256'] and digest(patch) == row['patch_sha256']
+            require_equal(f"{row['base']}: baseline SHA-256", digest(original), row['before_sha256'])
+            require_equal(f"{row['patch']}: patch SHA-256", digest(patch), row['patch_sha256'])
             dictionary = zstandard.ZstdCompressionDict(original,dict_type=zstandard.DICT_TYPE_RAWCONTENT)
             new = zstandard.ZstdDecompressor(dict_data=dictionary).decompress(patch,max_output_size=row['bytes'])
-            assert len(new) == row['bytes'] and digest(new) == row['after_sha256']
+            require_equal(f"{row['candidate']}: output bytes", len(new), row['bytes'])
+            require_equal(f"{row['candidate']}: candidate SHA-256", digest(new), row['after_sha256'])
             file = args.candidates/row['candidate']
             file.parent.mkdir(parents=True,exist_ok=True)
             file.write_bytes(new)
