@@ -1,0 +1,38 @@
+{
+  "asset": "NA_ClaudiaCohenHall_7x5",
+  "project": "cross-LOD silhouette only",
+  "fbx_version": 7500,
+  "old_fbx_sha256": "934d3efbe4f8add3f71f7f953764c2a6bf67875521b88c488e2b83766d6a3064",
+  "new_fbx_sha256": "b8ca8a8fe209384f481933baaa2cce900426c107c768a2a5752a398f6d6c5034",
+  "near_fbx_sha256": "329ee19135f34ae9c801bbd4a7a1ff16d7b1495318b2f4a9c536f7677a461cb9",
+  "mid_fbx_sha256": "239d8a84adaabb61df0d7eaeb7652ba5f6f9a2be248d2cd86660d06e449088b5",
+  "old_triangles": 36,
+  "new_triangles": 48,
+  "old_roof_plate_triangles_removed": 4,
+  "new_roof_triangles": 12,
+  "soffit_triangles": 4,
+  "dominant_roof_geometry_from_equal_near_and_mid": true,
+  "preserved_triangles_with_uv_exact_to_1e4": 32,
+  "old_height_m": 16.500001321213272,
+  "new_height_m": 23.00000133631291,
+  "roof_cover_rays": 286,
+  "min_cover_hit_m": 16.61923,
+  "max_cover_hit_m": 23.0,
+  "shaders_and_texture_paths": [
+    "NA_ClaudiaCohenHall_7x5_LOD2_BaseColor.png",
+    "NA_ClaudiaCohenHall_7x5_LOD2_Emissive.png",
+    "NA_ClaudiaCohenHall_7x5_LOD2_Normal.png"
+  ],
+  "new_uv_region_pixel_bottom_left": [
+    464,
+    565,
+    656,
+    733
+  ],
+  "atlas_slate_donor_region": [
+    647,
+    634,
+    668,
+    655
+  ]
+}
