@@ -1,0 +1,30 @@
+{
+  "vertices": 510,
+  "triangles": 1020,
+  "opposed_two_face_edges": 1530,
+  "lower_cut_Navd88_is_synthetic": 42.95,
+  "local_model_z0_NAVD88": 17.1,
+  "upper_cap_hole_extents_xy_in_rotated_frame": [
+    -9.97784,
+    -9.13784,
+    12.37182,
+    13.21182
+  ],
+  "opening_creation_note": "Present in 2025 orthophoto. Size provisional and constrained to a gap in four training passes. Model through-cut is artificial, not surveyed aperture depth or interior.",
+  "crest_station_count_is_not_historical_ornament_count": 16,
+  "crest_spatial_fit": "All stations selected from 2022 training passes; test only where there are withheld points",
+  "upper_faces_annotated": {
+    "higher_crown_reference": 16,
+    "synthetic_cut_base": 354,
+    "crest_station_reference": 96,
+    "masonry_reference": 234,
+    "roof_surface_unknown_finish": 8,
+    "vertical_reference": 312
+  },
+  "roof_z_min_max": [
+    25.85,
+    33.245
+  ],
+  "envelope_union_area_m2": 126.25947369779996,
+  "reference_obj_sha256": "feddfe5dd00387dcd70d186356befcad840d1730658c1ac8ce831873b787c7b0"
+}

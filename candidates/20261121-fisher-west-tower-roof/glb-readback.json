@@ -1,0 +1,7 @@
+{
+  "format": "GLB",
+  "sha256": "e341d2cdc562865d322cd4b05244312f57c5cdde3081c13fde090174a12f59e9",
+  "triangles": 1020,
+  "position_welded_vertices": 510,
+  "same_triangles_as_obj_after_small_serialization_tolerance": true
+}
