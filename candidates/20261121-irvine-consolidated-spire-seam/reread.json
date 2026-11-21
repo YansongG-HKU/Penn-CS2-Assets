@@ -1,0 +1,57 @@
+{
+  "bounding_box_m": [
+    [
+      -28.0,
+      -28.0,
+      -0.050004564225673676
+    ],
+    [
+      28.0,
+      28.0,
+      56.5
+    ]
+  ],
+  "mesh_raw_108_to_96_reread": true,
+  "retained_polygons_exact": 40,
+  "closed_oriented_tri_edges": 144,
+  "seam_z_m": 40.5,
+  "missing_coplanar_polygons_after": 0,
+  "ordinal_silhouette_hit_samples_per_view": {
+    "0": 469,
+    "1": 469,
+    "2": 1023,
+    "3": 676,
+    "4": 798
+  },
+  "outside_ray_trials": 13515,
+  "max_first_surface_shift_m": 0.0,
+  "exposed_images_same": {
+    "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": "80087b98a2df177148a210f72572b1dc7b1b4fe3fe7f9cb3acf3284d7be4c16d",
+    "NA_IrvineAuditorium_7x7_LOD2_Emissive.png": "a8e55ab17b3297d6a64ebec2e712ffa441762311415bf13cfaa1452b00ac01c1",
+    "NA_IrvineAuditorium_7x7_LOD2_Normal.png": "339b5e8cf4f953a465ab77bf362b403e8bb66c4daffafe9a1e7e3ef97fadfd8e"
+  },
+  "interior_rays": {
+    "lower_inside": {
+      "sample_count": 169,
+      "old_hit_z_range": [
+        40.5,
+        40.5
+      ],
+      "new_hit_z_range": [
+        47.66035842895508,
+        56.5
+      ]
+    },
+    "upper_inside": {
+      "sample_count": 169,
+      "old_hit_z_range": [
+        40.5,
+        40.5
+      ],
+      "new_hit_z_range": [
+        29.0,
+        29.0
+      ]
+    }
+  }
+}
