@@ -1,0 +1,274 @@
+[
+  {
+    "uri": "https://www.pasda.psu.edu/download/phillyLiDAR/2025/LAS/26822E233112N.las",
+    "filesize": 878512829,
+    "sha256_sample_64KiB": "5526635f298141bbfd7b7039614ca7f16a36bf6dbd0602c939cb3bdd4376e448",
+    "las_version": [
+      1,
+      4
+    ],
+    "record_format": 6,
+    "record_length": 30,
+    "record_count": 29283704,
+    "scale": [
+      0.01,
+      0.01,
+      0.01
+    ],
+    "shift": [
+      -0.0,
+      -0.0,
+      -0.0
+    ],
+    "bounds_max_min_by_axis": [
+      2684879.99,
+      2682240.0,
+      235751.99,
+      233112.0,
+      468.25,
+      1.62
+    ],
+    "point_data_offset": 1709,
+    "vlrs": [
+      [
+        "LASF_Projection",
+        34735,
+        16
+      ],
+      [
+        "LASF_Projection",
+        2112,
+        1208
+      ]
+    ],
+    "wkt": "PROJCRS[\"NAD83(2011) / Pennsylvania South (ftUS)\",BASEGEOGCRS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",ELLIPSOID[\"GRS 1980\",6378137,298.2572221,LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]],ID[\"EPSG\",7019]],ID[\"EPSG\",1116]],ID[\"EPSG\",6318]],CONVERSION[\"SPCS83 Pennsylvania South zone (US Survey feet)\",METHOD[\"Lambert Conic Conformal (2SP)\",ID[\"EPSG\",9802]],PARAMETER[\"Latitude of false origin\",39.333333333,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Longitude of false origin\",-77.75,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Latitude of 1st standard parallel\",40.966666667,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Latitude of 2nd standard parallel\",39.933333333,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Easting at false origin\",1968500,LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]]],PARAMETER[\"Northing at false origin\",0,LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]]],ID[\"EPSG\",15354]],CS[Cartesian,2,ID[\"EPSG\",4497]],AXIS[\"Easting (X)\",east],AXIS[\"Northing (Y)\",north],LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]],ID[\"EPSG\",6565]]",
+    "global_encoding": 17,
+    "identified_epsg": 6565,
+    "axes": [
+      [
+        "Easting",
+        "US survey foot",
+        0.30480060960121924
+      ],
+      [
+        "Northing",
+        "US survey foot",
+        0.30480060960121924
+      ]
+    ],
+    "covers_two_diagonal_library_corners_pa6565": [
+      false,
+      false
+    ],
+    "first_sample_bounds": [
+      [
+        2682240.0,
+        235578.39,
+        85.91
+      ],
+      [
+        2682284.34,
+        235720.85,
+        148.6
+      ]
+    ]
+  },
+  {
+    "uri": "https://www.pasda.psu.edu/download/phillyLiDAR/2025/LAS/26822E235752N.las",
+    "filesize": 758334405,
+    "sha256_sample_64KiB": "98413c73831885f489cb12636c84818dffe3acf3001c29f2d337f01d055e07cf",
+    "las_version": [
+      1,
+      4
+    ],
+    "record_format": 6,
+    "record_length": 30,
+    "record_count": 25277801,
+    "scale": [
+      0.01,
+      0.01,
+      0.01
+    ],
+    "shift": [
+      -0.0,
+      -0.0,
+      -0.0
+    ],
+    "bounds_max_min_by_axis": [
+      2684879.99,
+      2682240.0,
+      238391.99,
+      235752.0,
+      610.77,
+      -89.41
+    ],
+    "point_data_offset": 375,
+    "vlrs": [],
+    "wkt": null,
+    "global_encoding": 1,
+    "covers_two_diagonal_library_corners_pa6565": [
+      true,
+      false
+    ],
+    "first_sample_bounds": [
+      [
+        2682240.0300000003,
+        235752.03,
+        93.34
+      ],
+      [
+        2682351.92,
+        235802.94,
+        161.09
+      ]
+    ]
+  },
+  {
+    "uri": "https://www.pasda.psu.edu/download/phillyLiDAR/2025/LAS/26848E233112N.las",
+    "filesize": 794020979,
+    "sha256_sample_64KiB": "b2303b56936f94490353b9f95584964a4e34e4e1cd83ef12ee81e7745d70ae0e",
+    "las_version": [
+      1,
+      4
+    ],
+    "record_format": 6,
+    "record_length": 30,
+    "record_count": 26467309,
+    "scale": [
+      0.01,
+      0.01,
+      0.01
+    ],
+    "shift": [
+      -0.0,
+      -0.0,
+      -0.0
+    ],
+    "bounds_max_min_by_axis": [
+      2687519.99,
+      2684880.0,
+      235751.99,
+      233112.0,
+      476.3,
+      -50.47
+    ],
+    "point_data_offset": 1709,
+    "vlrs": [
+      [
+        "LASF_Projection",
+        34735,
+        16
+      ],
+      [
+        "LASF_Projection",
+        2112,
+        1208
+      ]
+    ],
+    "wkt": "PROJCRS[\"NAD83(2011) / Pennsylvania South (ftUS)\",BASEGEOGCRS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",ELLIPSOID[\"GRS 1980\",6378137,298.2572221,LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]],ID[\"EPSG\",7019]],ID[\"EPSG\",1116]],ID[\"EPSG\",6318]],CONVERSION[\"SPCS83 Pennsylvania South zone (US Survey feet)\",METHOD[\"Lambert Conic Conformal (2SP)\",ID[\"EPSG\",9802]],PARAMETER[\"Latitude of false origin\",39.333333333,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Longitude of false origin\",-77.75,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Latitude of 1st standard parallel\",40.966666667,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Latitude of 2nd standard parallel\",39.933333333,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Easting at false origin\",1968500,LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]]],PARAMETER[\"Northing at false origin\",0,LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]]],ID[\"EPSG\",15354]],CS[Cartesian,2,ID[\"EPSG\",4497]],AXIS[\"Easting (X)\",east],AXIS[\"Northing (Y)\",north],LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]],ID[\"EPSG\",6565]]",
+    "global_encoding": 17,
+    "identified_epsg": 6565,
+    "axes": [
+      [
+        "Easting",
+        "US survey foot",
+        0.30480060960121924
+      ],
+      [
+        "Northing",
+        "US survey foot",
+        0.30480060960121924
+      ]
+    ],
+    "covers_two_diagonal_library_corners_pa6565": [
+      false,
+      false
+    ],
+    "first_sample_bounds": [
+      [
+        2684880.0300000003,
+        233316.4,
+        26.43
+      ],
+      [
+        2684935.59,
+        233352.52000000002,
+        41.69
+      ]
+    ]
+  },
+  {
+    "uri": "https://www.pasda.psu.edu/download/phillyLiDAR/2025/LAS/26848E235752N.las",
+    "filesize": 801179429,
+    "sha256_sample_64KiB": "4e33b23c5639417d8636c59d658f971e761574a688c5a4017aa1368aa1b1db02",
+    "las_version": [
+      1,
+      4
+    ],
+    "record_format": 6,
+    "record_length": 30,
+    "record_count": 26705924,
+    "scale": [
+      0.01,
+      0.01,
+      0.01
+    ],
+    "shift": [
+      -0.0,
+      -0.0,
+      -0.0
+    ],
+    "bounds_max_min_by_axis": [
+      2687519.99,
+      2684880.0,
+      238391.99,
+      235752.0,
+      489.44,
+      -83.10000000000001
+    ],
+    "point_data_offset": 1709,
+    "vlrs": [
+      [
+        "LASF_Projection",
+        34735,
+        16
+      ],
+      [
+        "LASF_Projection",
+        2112,
+        1208
+      ]
+    ],
+    "wkt": "PROJCRS[\"NAD83(2011) / Pennsylvania South (ftUS)\",BASEGEOGCRS[\"NAD83(2011)\",DATUM[\"NAD83 (National Spatial Reference System 2011)\",ELLIPSOID[\"GRS 1980\",6378137,298.2572221,LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]],ID[\"EPSG\",7019]],ID[\"EPSG\",1116]],ID[\"EPSG\",6318]],CONVERSION[\"SPCS83 Pennsylvania South zone (US Survey feet)\",METHOD[\"Lambert Conic Conformal (2SP)\",ID[\"EPSG\",9802]],PARAMETER[\"Latitude of false origin\",39.333333333,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Longitude of false origin\",-77.75,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Latitude of 1st standard parallel\",40.966666667,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Latitude of 2nd standard parallel\",39.933333333,ANGLEUNIT[\"degree\",0.0174532925199433,ID[\"EPSG\",9102]]],PARAMETER[\"Easting at false origin\",1968500,LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]]],PARAMETER[\"Northing at false origin\",0,LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]]],ID[\"EPSG\",15354]],CS[Cartesian,2,ID[\"EPSG\",4497]],AXIS[\"Easting (X)\",east],AXIS[\"Northing (Y)\",north],LENGTHUNIT[\"US survey foot\",0.304800609601219,ID[\"EPSG\",9003]],ID[\"EPSG\",6565]]",
+    "global_encoding": 17,
+    "identified_epsg": 6565,
+    "axes": [
+      [
+        "Easting",
+        "US survey foot",
+        0.30480060960121924
+      ],
+      [
+        "Northing",
+        "US survey foot",
+        0.30480060960121924
+      ]
+    ],
+    "covers_two_diagonal_library_corners_pa6565": [
+      false,
+      true
+    ],
+    "first_sample_bounds": [
+      [
+        2684880.08,
+        235999.58000000002,
+        63.46
+      ],
+      [
+        2684962.29,
+        236096.17,
+        145.32
+      ]
+    ]
+  }
+]
