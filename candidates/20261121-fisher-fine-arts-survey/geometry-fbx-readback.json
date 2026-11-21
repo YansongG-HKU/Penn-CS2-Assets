@@ -1,0 +1,11 @@
+{
+  "FBX_file": "Fisher-Fine-Arts-geometry-reference.fbx",
+  "FBX_sha256": "89da8b7849326708c7a057f4e0b1833122641095428950d5082f2aadbe146881",
+  "verts": 9510,
+  "triangles": 19016,
+  "oriented_edge_pairs": 28524,
+  "maximum_roundtrip_displacement_m": 6.877043295791605e-06,
+  "nonadjacent_triangle_pairs": 0,
+  "UV": "none - reference only",
+  "game_materials": false
+}
