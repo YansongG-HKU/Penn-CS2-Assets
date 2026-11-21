@@ -1,0 +1,111 @@
+{
+  "controls": {
+    "VanPeltLibrary": {
+      "models": {
+        "NA_VanPeltLibrary_18x6.fbx": {
+          "triangles": 97776,
+          "bound_images": {
+            "NA_VanPeltLibrary_18x6_BaseColor.png": [
+              4096,
+              4096
+            ],
+            "NA_VanPeltLibrary_18x6_Emissive.png": [
+              4096,
+              4096
+            ],
+            "NA_VanPeltLibrary_18x6_Normal.png": [
+              4096,
+              4096
+            ]
+          }
+        },
+        "NA_VanPeltLibrary_18x6_LOD1.fbx": {
+          "triangles": 45720,
+          "bound_images": {
+            "NA_VanPeltLibrary_18x6_BaseColor.png": [
+              4096,
+              4096
+            ],
+            "NA_VanPeltLibrary_18x6_Emissive.png": [
+              4096,
+              4096
+            ],
+            "NA_VanPeltLibrary_18x6_Normal.png": [
+              4096,
+              4096
+            ]
+          }
+        },
+        "NA_VanPeltLibrary_18x6_LOD1_Win.fbx": {
+          "triangles": 1444,
+          "bound_images": {}
+        },
+        "NA_VanPeltLibrary_18x6_LOD2.fbx": {
+          "triangles": 52,
+          "bound_images": {
+            "NA_VanPeltLibrary_18x6_LOD2_BaseColor.png": [
+              1024,
+              1024
+            ],
+            "NA_VanPeltLibrary_18x6_LOD2_Emissive.png": [
+              1024,
+              1024
+            ],
+            "NA_VanPeltLibrary_18x6_LOD2_Normal.png": [
+              1024,
+              1024
+            ]
+          }
+        },
+        "NA_VanPeltLibrary_18x6_Win.fbx": {
+          "triangles": 1444,
+          "bound_images": {}
+        }
+      },
+      "decoded_all_png": {
+        "NA_VanPeltLibrary_18x6_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_VanPeltLibrary_18x6_ControlMask.png": [
+          4096,
+          4096
+        ],
+        "NA_VanPeltLibrary_18x6_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_VanPeltLibrary_18x6_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_VanPeltLibrary_18x6_LOD2_ControlMask.png": [
+          1024,
+          1024
+        ],
+        "NA_VanPeltLibrary_18x6_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_VanPeltLibrary_18x6_LOD2_MaskMap.png": [
+          1024,
+          1024
+        ],
+        "NA_VanPeltLibrary_18x6_LOD2_Normal.png": [
+          1024,
+          1024
+        ],
+        "NA_VanPeltLibrary_18x6_MaskMap.png": [
+          4096,
+          4096
+        ],
+        "NA_VanPeltLibrary_18x6_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    }
+  },
+  "game_editor_ran": false,
+  "not_proof_of_visual_quality": true
+}

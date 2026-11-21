@@ -1,0 +1,48 @@
+{
+  "inputs_sha256": {
+    "NA_IrvineAuditorium_7x7.fbx": "305bb468c1af0088321fecb7943acdce7653c5333c0641410f1c712825b9b3fe",
+    "NA_IrvineAuditorium_7x7_BaseColor.png": "082d78f37eae0ac62e5dedf2b4d53a7e89bbd0345e3b824694e0e4b4c4e4edbc",
+    "NA_IrvineAuditorium_7x7_ControlMask.png": "092b1d82ce46a7a1d8d75943872112a2d332d970e3a66fbd86f290279e0e5be0",
+    "NA_IrvineAuditorium_7x7_Emissive.png": "c3d4c4e5ae9cd743836815198f592c7090562137bcf7cdc0d950034984f8fb01",
+    "NA_IrvineAuditorium_7x7_LOD1.fbx": "b301217a7703291b0b10a5c011fce85bce8e5d4f852b854985c1ce609b59495a",
+    "NA_IrvineAuditorium_7x7_LOD1_Win.fbx": "a79b404e909f2634fa4a85434d959dc75b7d8db4d0b33b8b0b4cd291125e9df6",
+    "NA_IrvineAuditorium_7x7_LOD2.fbx": "4df9024caaf0e1204a6c433e1b158c0424dfc72ab3667acd0a00905f36aadb1a",
+    "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": "80087b98a2df177148a210f72572b1dc7b1b4fe3fe7f9cb3acf3284d7be4c16d",
+    "NA_IrvineAuditorium_7x7_LOD2_ControlMask.png": "dfb97c67aef06989faee99cdfd32d9bad888e5e1e8e1df9ba513068dd8e48a9d",
+    "NA_IrvineAuditorium_7x7_LOD2_Emissive.png": "a8e55ab17b3297d6a64ebec2e712ffa441762311415bf13cfaa1452b00ac01c1",
+    "NA_IrvineAuditorium_7x7_LOD2_MaskMap.png": "c2bc132afc3a2e32cbfe5016ba8a6f7224f74ca61b84a9339b97296c852ea5ac",
+    "NA_IrvineAuditorium_7x7_LOD2_Normal.png": "339b5e8cf4f953a465ab77bf362b403e8bb66c4daffafe9a1e7e3ef97fadfd8e",
+    "NA_IrvineAuditorium_7x7_MaskMap.png": "01737ab45f94f1f9cc5a0f30f15eaeebf09d906b503bd30df1372dee471e0bdc",
+    "NA_IrvineAuditorium_7x7_Normal.png": "765edb0d5b3938b79fd4ddbf2d7b118024e5438530c7429d69d0e62e09ea0c03",
+    "NA_IrvineAuditorium_7x7_Win.fbx": "f2486d470897a97abf01a4fb5111dfea77f53da7e601bc6d688984d17afbb838",
+    "settings.json": "4150a3598ee4b1297b2aebec9d71b84efc125ae3df64667d11a999fa184d57d4"
+  },
+  "archive_sha256": "6a6347eb4808dba859fa11839756e8b7b28d747a9c055375374dd4de8eaa5466",
+  "target_texels": 795,
+  "maps": {
+    "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": {
+      "output_rgba_sha256": "aebe9186a67f70ee5a3c3eb73329b6874dda8d9286ca369754906449196a4900",
+      "output_png_sha256": "5a427c8163a43006c994632f1d43cc5e288b2769376ec7f481d9b3c25d378b38",
+      "patch": "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png.rgba",
+      "pixel_mode": "RGB"
+    },
+    "NA_IrvineAuditorium_7x7_LOD2_ControlMask.png": {
+      "output_rgba_sha256": "196388d64fa96967944fe862113e5c0b5a1da849f9be00cc4bc2ee16a0910894",
+      "output_png_sha256": "adfa39bad1d3e8da0433c38bed671f6ef0de860c095390f2224b2d0b41a5d1c2",
+      "patch": "NA_IrvineAuditorium_7x7_LOD2_ControlMask.png.rgba",
+      "pixel_mode": "RGBA"
+    },
+    "NA_IrvineAuditorium_7x7_LOD2_MaskMap.png": {
+      "output_rgba_sha256": "27920d0571e247dfdd8204426db985661ea672888ac4de0ba28617d25f53c49e",
+      "output_png_sha256": "6c460d9b138d97aa3f34c2ce369be9e895b3fc623a789e9d063de335d10936b6",
+      "patch": "NA_IrvineAuditorium_7x7_LOD2_MaskMap.png.rgba",
+      "pixel_mode": "RGBA"
+    },
+    "NA_IrvineAuditorium_7x7_LOD2_Normal.png": {
+      "output_rgba_sha256": "e460da6d9a207f956ed298db943738b119885ff6c0a387d32b6f498067129e81",
+      "output_png_sha256": "b233564c04bbc11dab9951d605b1af4a424d5c0df74bdb6eac079f9659029968",
+      "patch": "NA_IrvineAuditorium_7x7_LOD2_Normal.png.rgba",
+      "pixel_mode": "RGB"
+    }
+  }
+}

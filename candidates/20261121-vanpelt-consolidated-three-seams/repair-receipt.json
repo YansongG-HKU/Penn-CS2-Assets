@@ -1,0 +1,58 @@
+{
+  "source_sha256": "0a9c0209d9a2834ae9746e6e63c571e0863d5c68b3eff15dbb74922f2762789a",
+  "candidate_sha256": "688fcc193ed13f0616087aceb3f7eb83439ee648434cfd042bbd845e546385c1",
+  "export_version": 7400,
+  "old_triangles": 48,
+  "new_triangles": 52,
+  "new_vertices": 28,
+  "one_closed_connected_component": true,
+  "paired_edges_on_quads": 52,
+  "unmodified_face_corner_uv_and_normals": 18,
+  "seams": [
+    {
+      "plane_z_m": 0.0,
+      "outer_m2": 6912.0,
+      "original_opposite_coverage_m2": [
+        4624.0,
+        4624.0
+      ],
+      "visible_annulus_m2": 2288.0,
+      "after_opposite_coverage_m2": [
+        0,
+        0
+      ],
+      "old_quad_uv_mixed_term_norm": 3.030914879614681e-08,
+      "vertical_ring_mismatch_m": 0.0
+    },
+    {
+      "plane_z_m": 4.8,
+      "outer_m2": 4624.0,
+      "original_opposite_coverage_m2": [
+        4624.0,
+        4624.0
+      ],
+      "visible_annulus_m2": 0.0,
+      "after_opposite_coverage_m2": [
+        0,
+        0
+      ],
+      "old_quad_uv_mixed_term_norm": 0.0,
+      "vertical_ring_mismatch_m": 9.5367431640625e-07
+    },
+    {
+      "plane_z_m": 22.0,
+      "outer_m2": 4624.0,
+      "original_opposite_coverage_m2": [
+        4256.0,
+        4256.0
+      ],
+      "visible_annulus_m2": 368.0,
+      "after_opposite_coverage_m2": [
+        0,
+        0
+      ],
+      "old_quad_uv_mixed_term_norm": 4.190951585769653e-09,
+      "vertical_ring_mismatch_m": 0.0
+    }
+  ]
+}

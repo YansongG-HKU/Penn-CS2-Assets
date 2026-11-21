@@ -1,0 +1,18 @@
+{
+  "input_sha256": "07cbdfa1ef67521cd9b4982cbb813a7f2c94fd5384b95b910ce4399073a321d4",
+  "output_sha256": "f7ae9508db53af547c17c2e20f43f521c62ed22b77e03f32ca16b64ca9f3fe7a",
+  "removed_opposite_cap_faces": [
+    11,
+    16,
+    35,
+    40
+  ],
+  "old_triangles": 48,
+  "new_triangles": 44,
+  "welded_vertex_count": 4,
+  "max_vertical_snap_m": 9.5367431640625e-07,
+  "new_indexed_edge_incidence": {
+    "2": 66
+  },
+  "same_corner_normals_tangents_binormals_and_uv_by_construction": true
+}

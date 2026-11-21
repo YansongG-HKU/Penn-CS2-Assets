@@ -1,0 +1,17 @@
+{
+  "front": {
+    "changed_pixels": 87,
+    "max_channel_delta": 1,
+    "changed_binary_silhouette_pixels": 0
+  },
+  "rear": {
+    "changed_pixels": 2,
+    "max_channel_delta": 1,
+    "changed_binary_silhouette_pixels": 0
+  },
+  "aerial": {
+    "changed_pixels": 0,
+    "max_channel_delta": 0,
+    "changed_binary_silhouette_pixels": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "baseline": "c99184277978e7d3cc36bf46a546472ac4f771a7",
+  "asset": "ClaudiaCohenHall",
+  "before_bytes": 18501247,
+  "after_bytes": 18398310,
+  "previous_zip_bytes": 18319401,
+  "files": {
+    "NA_ClaudiaCohenHall_7x5.fbx": {
+      "before_bytes": 413564,
+      "after_bytes": 413564,
+      "before_sha256": "329ee19135f34ae9c801bbd4a7a1ff16d7b1495318b2f4a9c536f7677a461cb9",
+      "after_sha256": "329ee19135f34ae9c801bbd4a7a1ff16d7b1495318b2f4a9c536f7677a461cb9"
+    },
+    "NA_ClaudiaCohenHall_7x5_BaseColor.png": {
+      "before_bytes": 9787851,
+      "after_bytes": 9787851,
+      "before_sha256": "4e03e44302cc10b8df60f08229e76e322d4044cf78364e8492a560f14c6aa842",
+      "after_sha256": "4e03e44302cc10b8df60f08229e76e322d4044cf78364e8492a560f14c6aa842"
+    },
+    "NA_ClaudiaCohenHall_7x5_ControlMask.png": {
+      "before_bytes": 77383,
+      "after_bytes": 77383,
+      "before_sha256": "e25e35deeda76f3a10af2613187df9d405fab374177f6226ddca69bbfe37fb45",
+      "after_sha256": "e25e35deeda76f3a10af2613187df9d405fab374177f6226ddca69bbfe37fb45"
+    },
+    "NA_ClaudiaCohenHall_7x5_Emissive.png": {
+      "before_bytes": 75800,
+      "after_bytes": 75800,
+      "before_sha256": "2cf453ec517f482eadc6e3a8fcbeea49a9aee55203ec9094890550abb5b465be",
+      "after_sha256": "2cf453ec517f482eadc6e3a8fcbeea49a9aee55203ec9094890550abb5b465be"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD1.fbx": {
+      "before_bytes": 314204,
+      "after_bytes": 314204,
+      "before_sha256": "239d8a84adaabb61df0d7eaeb7652ba5f6f9a2be248d2cd86660d06e449088b5",
+      "after_sha256": "239d8a84adaabb61df0d7eaeb7652ba5f6f9a2be248d2cd86660d06e449088b5"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD1_Win.fbx": {
+      "before_bytes": 23132,
+      "after_bytes": 23132,
+      "before_sha256": "821f7cbd3ec73814625001ea7aa86a423746d4f4e9943b4c360a219398091a2c",
+      "after_sha256": "821f7cbd3ec73814625001ea7aa86a423746d4f4e9943b4c360a219398091a2c"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2.fbx": {
+      "before_bytes": 29180,
+      "after_bytes": 30556,
+      "before_sha256": "934d3efbe4f8add3f71f7f953764c2a6bf67875521b88c488e2b83766d6a3064",
+      "after_sha256": "b8ca8a8fe209384f481933baaa2cce900426c107c768a2a5752a398f6d6c5034",
+      "patch": "NA_ClaudiaCohenHall_7x5_LOD2.fbx.zst",
+      "patch_sha256": "a5d275e87c9a176e4366a26dc508f4c722765a745a612922fe1429425290d578"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2_BaseColor.png": {
+      "before_bytes": 1211545,
+      "after_bytes": 1200981,
+      "before_sha256": "c312301e505d9abae85bc0b53f81969b5d94317ad77eb62d9cd408514d1d66b3",
+      "after_sha256": "6f949de617bb8d7147ad88384b1cbbd335d9d9ddcb4d602efc697acb53e4fd0b",
+      "patch": "NA_ClaudiaCohenHall_7x5_LOD2_BaseColor.png.zst",
+      "patch_sha256": "0e93f10cff06bf3fe3c2379f571f7dedfe3d29d74602e74339021d8f289ab82d"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2_ControlMask.png": {
+      "before_bytes": 103114,
+      "after_bytes": 51104,
+      "before_sha256": "fb170ff0355e7250bdae90c5eca796a6a27b6b9f49e91addf8fc4e5b3e774941",
+      "after_sha256": "c5ae40696e10205593ec6e2f3b04afdd549fc10e88bf7a8a0e5c96e0691506d8",
+      "patch": "NA_ClaudiaCohenHall_7x5_LOD2_ControlMask.png.zst",
+      "patch_sha256": "fbbf4a6647e991590e51978ac6cfc97ebc44bb345d5768618bac15e6efe076da"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2_Emissive.png": {
+      "before_bytes": 30661,
+      "after_bytes": 11269,
+      "before_sha256": "bf4d78c42b20fba03c7845646ae44c42847e6ffdf6d95a0f0a35a0bd126c8888",
+      "after_sha256": "44fb082d68f8d97462aaabc52c295f8dbe6238129d05d1fac8363911790c1db5",
+      "patch": "NA_ClaudiaCohenHall_7x5_LOD2_Emissive.png.zst",
+      "patch_sha256": "47de32d8105f51a43e9afa10e27f8e58cb1708cfdc0991ba44e1328ea0ca6bc7"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2_MaskMap.png": {
+      "before_bytes": 112534,
+      "after_bytes": 106844,
+      "before_sha256": "8fa8f0a7d31cd9e6c3ff84656055a47cd0c3160fb6acdcdf4b0b0e644cceb0c5",
+      "after_sha256": "359c822349d849beca83195745b3eac61d32acdf3642504c57d34ac9a548e992",
+      "patch": "NA_ClaudiaCohenHall_7x5_LOD2_MaskMap.png.zst",
+      "patch_sha256": "1373a0b3d7936cfb22cb41202466753b8b67e6321bbf84be5a279645d9757e0e"
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2_Normal.png": {
+      "before_bytes": 713563,
+      "after_bytes": 696906,
+      "before_sha256": "dd10d86f9bd1791dcc9e262a347dd65234c52898057e773c6288fb827aad701b",
+      "after_sha256": "45eaed1e14a0c73e75b1386baafc1b10ef0b70f7e264b0fd827868dab4afd4b6",
+      "patch": "NA_ClaudiaCohenHall_7x5_LOD2_Normal.png.zst",
+      "patch_sha256": "2b55d8e23ccc537db6000ceb2e47908dff49149507be6e94da7fb2df04e20f22"
+    },
+    "NA_ClaudiaCohenHall_7x5_MaskMap.png": {
+      "before_bytes": 264386,
+      "after_bytes": 264386,
+      "before_sha256": "24a7282bbbfc4484dc075c88f0b89fbdcbb5dc7925dc7bcaea5100322dc8bf97",
+      "after_sha256": "24a7282bbbfc4484dc075c88f0b89fbdcbb5dc7925dc7bcaea5100322dc8bf97"
+    },
+    "NA_ClaudiaCohenHall_7x5_Normal.png": {
+      "before_bytes": 5320741,
+      "after_bytes": 5320741,
+      "before_sha256": "34c20d3952fc2cedd27f1bad22c0bb1a814a5964f4f39f3f669699db9a39d9f8",
+      "after_sha256": "34c20d3952fc2cedd27f1bad22c0bb1a814a5964f4f39f3f669699db9a39d9f8"
+    },
+    "NA_ClaudiaCohenHall_7x5_Win.fbx": {
+      "before_bytes": 23116,
+      "after_bytes": 23116,
+      "before_sha256": "1af4053693e41f44e57bfe1ad79f4ba1dc3255e6d46624aca4c5f7ac10e85285",
+      "after_sha256": "1af4053693e41f44e57bfe1ad79f4ba1dc3255e6d46624aca4c5f7ac10e85285"
+    },
+    "settings.json": {
+      "before_bytes": 473,
+      "after_bytes": 473,
+      "before_sha256": "9093931437a0720fd0999fb19295af5d7ef845d6cc4f4ab68e4c1e12d673313e",
+      "after_sha256": "9093931437a0720fd0999fb19295af5d7ef845d6cc4f4ab68e4c1e12d673313e"
+    }
+  },
+  "zip_bytes": 18216591,
+  "zip_sha256": "12b3b9fff3c545fb1bb607071db517018df5e4c47a56e371347163b3af92ddfe"
+}

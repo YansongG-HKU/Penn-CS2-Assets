@@ -1,0 +1,398 @@
+{
+  "status": "terrain control evidence only; not an asset repair, terrace grade, surveyed benchmark or as-built geometry",
+  "dem": {
+    "metadata": "https://www.pasda.psu.edu/uci/FullMetadataDisplay.aspx?file=Philadelphia_Lidar_2025.xml",
+    "dated": "April 2025 (during McClelland renovation)",
+    "tile_directory": "https://www.pasda.psu.edu/download/phillyLiDAR/2025/DEM/tiles/",
+    "horizontal_crs": "EPSG:2272 NAD83 / Pennsylvania South (ftUS)",
+    "geotiff_pixel_size": [
+      3,
+      -3
+    ],
+    "horizontal_pixel_unit": "US survey foot",
+    "vertical_unit": "not declared in GeoTIFF band",
+    "vertical_datum": "not declared by GeoTIFF; PASDA online item metadata provides horizontal info only; archive XML begins Pennsylvania DEP Mine Maps and is not valid evidence",
+    "nodata": -32767,
+    "samples_method": "gdaltransform EPSG:26918 to EPSG:2272; gdallocationinfo -geoloc -r nearest -valonly",
+    "sampled_tile_bounds_epsg2272": {
+      "26796E233112N": [
+        2679600,
+        233112,
+        2682240,
+        235752
+      ],
+      "26822E233112N": [
+        2682240,
+        233112,
+        2684880,
+        235752
+      ]
+    }
+  },
+  "ortho": {
+    "service": "https://imagery.pasda.psu.edu/arcgis/rest/services/pasda/PhiladelphiaImagery2025/MapServer",
+    "width": 1250,
+    "height": 1000,
+    "server_returned_extent": {
+      "xmin": 483033.40400000004,
+      "ymin": 4422170.4196,
+      "xmax": 483353.37000000005,
+      "ymax": 4422426.392399999,
+      "spatialReference": {
+        "wkid": 26918,
+        "latestWkid": 26918
+      }
+    },
+    "pixel_center_indexing": "zero-based top-left; add 0.5 to each index"
+  },
+  "site_plan": "https://www.facilities.upenn.edu/sites/default/files/pdfs/QuadrangleHouses.pdf",
+  "classes": {
+    "upper_visible_paved_paths": "west triangular courtyard; paved path pixels visibly intact in 2025 image, not field-confirmed",
+    "lower_visible_x_path_traces_in_construction": "east main quad; visible path traces within contact zone that shows spoil and active renovation; do not treat as finished grades",
+    "lower_near_approach_in_construction": "east of McClelland footprint; nearby path traces in active construction; not terrace elevation"
+  },
+  "groups": {
+    "upper_visible_paved_paths": {
+      "samples": [
+        {
+          "ortho_pixel_xy_zero_based": [
+            196,
+            583
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483083.70265520003,
+            4422277.0322712
+          ],
+          "sample_xy_epsg2272": [
+            2683881.61910278,
+            235146.274984453
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.9899978637695
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            203,
+            619
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483085.49446480005,
+            4422267.8172504
+          ],
+          "sample_xy_epsg2272": [
+            2683888.43817192,
+            235116.227732852
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.8099899291992
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            282,
+            547
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483105.71631600003,
+            4422286.247292
+          ],
+          "sample_xy_epsg2272": [
+            2683952.89476285,
+            235178.75307919
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.7399978637695
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            302,
+            573
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483110.835772,
+            4422279.591999199
+          ],
+          "sample_xy_epsg2272": [
+            2683970.3689195,
+            235157.442906295
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.8199996948242
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            329,
+            616
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483117.7470376,
+            4422268.585168799
+          ],
+          "sample_xy_epsg2272": [
+            2683994.16552263,
+            235122.040319093
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 71.5599975585938
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            355,
+            650
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483124.4023304,
+            4422259.8820936
+          ],
+          "sample_xy_epsg2272": [
+            2684016.88715487,
+            235094.169148054
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 70.6699981689453
+        }
+      ],
+      "min_raw": 70.6699981689453,
+      "median_raw": 71.77499389648435,
+      "max_raw": 71.9899978637695
+    },
+    "lower_visible_x_path_traces_in_construction": {
+      "samples": [
+        {
+          "ortho_pixel_xy_zero_based": [
+            644,
+            552
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483198.37846960005,
+            4422284.967428
+          ],
+          "sample_xy_epsg2272": [
+            2684257.00709447,
+            235184.016455175
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.169994354248
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            658,
+            574
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483201.96208880004,
+            4422279.336026399
+          ],
+          "sample_xy_epsg2272": [
+            2684269.33833172,
+            235165.908367525
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.419994354248
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            686,
+            609
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483209.12932720006,
+            4422270.376978399
+          ],
+          "sample_xy_epsg2272": [
+            2684293.76556262,
+            235137.249746767
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.7000007629395
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            705,
+            634
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483213.9928104,
+            4422263.977658399
+          ],
+          "sample_xy_epsg2272": [
+            2684310.37385669,
+            235116.753164964
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.7099952697754
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            727,
+            659
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483219.62421200005,
+            4422257.5783383995
+          ],
+          "sample_xy_epsg2272": [
+            2684329.50133605,
+            235096.334997725
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.7000007629395
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            741,
+            681
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483223.20783120004,
+            4422251.946936799
+          ],
+          "sample_xy_epsg2272": [
+            2684341.83257419,
+            235078.226909461
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.3099975585938
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            728,
+            561
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483219.8801848001,
+            4422282.663672799
+          ],
+          "sample_xy_epsg2272": [
+            2684327.77951655,
+            235178.654512132
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.5
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            706,
+            587
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483214.24878320005,
+            4422276.00838
+          ],
+          "sample_xy_epsg2272": [
+            2684309.9850879,
+            235156.246534556
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.7900009155273
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            662,
+            627
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483202.98598000006,
+            4422265.769467999
+          ],
+          "sample_xy_epsg2272": [
+            2684274.08257086,
+            235121.507319458
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.8999977111816
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            629,
+            657
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483194.53887760005,
+            4422258.090283999
+          ],
+          "sample_xy_epsg2272": [
+            2684247.15568242,
+            235095.452908379
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.5999984741211
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            608,
+            677
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483189.16344880004,
+            4422252.9708279995
+          ],
+          "sample_xy_epsg2272": [
+            2684230.04415148,
+            235078.109439318
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.299991607666
+        }
+      ],
+      "min_raw": 58.169994354248,
+      "median_raw": 58.5999984741211,
+      "max_raw": 58.8999977111816
+    },
+    "lower_near_approach_in_construction": {
+      "samples": [
+        {
+          "ortho_pixel_xy_zero_based": [
+            595,
+            580
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483185.8358024,
+            4422277.800189599
+          ],
+          "sample_xy_epsg2272": [
+            2684216.59227745,
+            235159.223290065
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 59.0900001525879
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            602,
+            620
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483187.62761200004,
+            4422267.561277599
+          ],
+          "sample_xy_epsg2272": [
+            2684223.51590388,
+            235125.817124908
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 59.1399993896484
+        },
+        {
+          "ortho_pixel_xy_zero_based": [
+            596,
+            663
+          ],
+          "ortho_pixel_center_epsg26918": [
+            483186.09177520004,
+            4422256.554447199
+          ],
+          "sample_xy_epsg2272": [
+            2684219.60147663,
+            235089.551977602
+          ],
+          "dem_tile": "26822E233112N",
+          "raw_elevation_value": 58.9399909973145
+        }
+      ],
+      "min_raw": 58.9399909973145,
+      "median_raw": 59.0900001525879,
+      "max_raw": 59.1399993896484
+    }
+  },
+  "median_upper_minus_lower_raw": 13.174995422363246
+}

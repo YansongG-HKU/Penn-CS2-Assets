@@ -1,0 +1,90 @@
+{
+  "NA_IrvineAuditorium_7x7_LOD2": {
+    "base-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 68500,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 48819,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 49016,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "lit-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 68459,
+      "q99": 1.0,
+      "max": 11,
+      "over12": 0
+    },
+    "lit-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 48746,
+      "q99": 1.0,
+      "max": 4,
+      "over12": 0
+    },
+    "lit-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 48973,
+      "q99": 1.0,
+      "max": 5,
+      "over12": 0
+    }
+  },
+  "NA_QuadAshhurst_3x3_LOD2": {
+    "base-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 73478,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 75641,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 76004,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "lit-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 73425,
+      "q99": 0.0,
+      "max": 3,
+      "over12": 0
+    },
+    "lit-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 75593,
+      "q99": 0.0,
+      "max": 2,
+      "over12": 0
+    },
+    "lit-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 75931,
+      "q99": 0.0,
+      "max": 1,
+      "over12": 0
+    }
+  }
+}

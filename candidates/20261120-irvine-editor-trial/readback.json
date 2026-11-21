@@ -1,0 +1,166 @@
+{
+  "separate_FBX": {
+    "NA_IrvineAuditorium_7x7.fbx": {
+      "triangles": 19196,
+      "bounds_m": [
+        [
+          -28.0,
+          -28.0,
+          -0.05000211298465729
+        ],
+        [
+          28.0,
+          28.0,
+          56.5
+        ]
+      ],
+      "images": {
+        "NA_IrvineAuditorium_7x7_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_IrvineAuditorium_7x7_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_IrvineAuditorium_7x7_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_IrvineAuditorium_7x7_LOD1.fbx": {
+      "triangles": 16088,
+      "bounds_m": [
+        [
+          -28.0,
+          -28.0,
+          -0.05000211298465729
+        ],
+        [
+          28.0,
+          28.0,
+          56.5
+        ]
+      ],
+      "images": {
+        "NA_IrvineAuditorium_7x7_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_IrvineAuditorium_7x7_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_IrvineAuditorium_7x7_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_IrvineAuditorium_7x7_LOD2.fbx": {
+      "triangles": 96,
+      "bounds_m": [
+        [
+          -28.0,
+          -28.0,
+          -0.05000211298465729
+        ],
+        [
+          28.0,
+          28.0,
+          56.5
+        ]
+      ],
+      "images": {
+        "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_IrvineAuditorium_7x7_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_IrvineAuditorium_7x7_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      }
+    },
+    "NA_IrvineAuditorium_7x7_Win.fbx": {
+      "triangles": 518,
+      "bounds_m": [
+        [
+          -25.160001754760742,
+          -25.160001754760742,
+          1.7999980449676514
+        ],
+        [
+          25.15999984741211,
+          25.15999984741211,
+          32.400001525878906
+        ]
+      ],
+      "images": {}
+    },
+    "NA_IrvineAuditorium_7x7_LOD1_Win.fbx": {
+      "triangles": 518,
+      "bounds_m": [
+        [
+          -25.160001754760742,
+          -25.160001754760742,
+          1.7999980449676514
+        ],
+        [
+          25.15999984741211,
+          25.15999984741211,
+          32.400001525878906
+        ]
+      ],
+      "images": {}
+    }
+  },
+  "all_PNGs_decoded": {
+    "NA_IrvineAuditorium_7x7_BaseColor.png": [
+      4096,
+      4096
+    ],
+    "NA_IrvineAuditorium_7x7_ControlMask.png": [
+      4096,
+      4096
+    ],
+    "NA_IrvineAuditorium_7x7_Emissive.png": [
+      4096,
+      4096
+    ],
+    "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": [
+      1024,
+      1024
+    ],
+    "NA_IrvineAuditorium_7x7_LOD2_ControlMask.png": [
+      1024,
+      1024
+    ],
+    "NA_IrvineAuditorium_7x7_LOD2_Emissive.png": [
+      1024,
+      1024
+    ],
+    "NA_IrvineAuditorium_7x7_LOD2_MaskMap.png": [
+      1024,
+      1024
+    ],
+    "NA_IrvineAuditorium_7x7_LOD2_Normal.png": [
+      1024,
+      1024
+    ],
+    "NA_IrvineAuditorium_7x7_MaskMap.png": [
+      4096,
+      4096
+    ],
+    "NA_IrvineAuditorium_7x7_Normal.png": [
+      4096,
+      4096
+    ]
+  },
+  "scope": "Offline package, base-color-only body renders, independent window import not combined shader or Editor test"
+}

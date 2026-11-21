@@ -1,0 +1,32 @@
+{
+  "before": [
+    48,
+    72,
+    32
+  ],
+  "after": [
+    44,
+    66,
+    28
+  ],
+  "max_world_position_m_delta": 9.5367431640625e-07,
+  "max_UV_delta": 0.0,
+  "max_Blend_corner_normal_delta": 6.17645060718895e-05,
+  "max_Blender_corner_normal_angle_degrees": 0.003538845522191923,
+  "before_after_closed_consistently_oriented_indexed_edges": true,
+  "decoded_image_sizes": {
+    "NA_VanPeltLibrary_18x6_LOD2_BaseColor.png": [
+      1024,
+      1024
+    ],
+    "NA_VanPeltLibrary_18x6_LOD2_Emissive.png": [
+      1024,
+      1024
+    ],
+    "NA_VanPeltLibrary_18x6_LOD2_Normal.png": [
+      1024,
+      1024
+    ]
+  },
+  "scope": "orthographic BaseColor-only Blender comparison; other PBR channels not shaded and no game import"
+}

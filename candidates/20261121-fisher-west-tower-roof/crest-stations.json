@@ -1,0 +1,181 @@
+{
+  "quality_note": "Training-gated observed stations of high crest returns, not an exact ornament count or complete preservation schedule. Held points not used to tune station positions.",
+  "stations": [
+    {
+      "side": "west",
+      "plan_station_m": 4.545263374515538,
+      "train_z_median": 45.789999999999964,
+      "train_count": 15,
+      "held_count": 9,
+      "hold_z_abs_m_p50_p90": [
+        0.03999999999996362,
+        0.10599999999994908
+      ]
+    },
+    {
+      "side": "west",
+      "plan_station_m": 6.445263374515539,
+      "train_z_median": 45.789999999999964,
+      "train_count": 15,
+      "held_count": 4,
+      "hold_z_abs_m_p50_p90": [
+        0.03499999999996817,
+        0.09199999999991634
+      ]
+    },
+    {
+      "side": "west",
+      "plan_station_m": 8.345263374515541,
+      "train_z_median": 45.789999999999964,
+      "train_count": 15,
+      "held_count": 9,
+      "hold_z_abs_m_p50_p90": [
+        0.03999999999996362,
+        0.08199999999992542
+      ]
+    },
+    {
+      "side": "west",
+      "plan_station_m": 10.145263374515544,
+      "train_z_median": 45.82999999999993,
+      "train_count": 15,
+      "held_count": 5,
+      "hold_z_abs_m_p50_p90": [
+        0.07000000000016371,
+        0.20599999999994908
+      ]
+    },
+    {
+      "side": "east",
+      "plan_station_m": 4.545263374515538,
+      "train_z_median": 45.76999999999998,
+      "train_count": 22,
+      "held_count": 9,
+      "hold_z_abs_m_p50_p90": [
+        0.07999999999992724,
+        0.1259999999999309
+      ]
+    },
+    {
+      "side": "east",
+      "plan_station_m": 6.645263374515539,
+      "train_z_median": 45.76999999999998,
+      "train_count": 14,
+      "held_count": 7,
+      "hold_z_abs_m_p50_p90": [
+        0.049999999999954525,
+        0.08399999999992361
+      ]
+    },
+    {
+      "side": "east",
+      "plan_station_m": 8.445263374515541,
+      "train_z_median": 45.77999999999997,
+      "train_count": 19,
+      "held_count": 9,
+      "hold_z_abs_m_p50_p90": [
+        0.029999999999972715,
+        0.07999999999992725
+      ]
+    },
+    {
+      "side": "east",
+      "plan_station_m": 10.245263374515542,
+      "train_z_median": 45.819999999999936,
+      "train_count": 19,
+      "held_count": 9,
+      "hold_z_abs_m_p50_p90": [
+        0.05999999999994543,
+        0.10999999999994547
+      ]
+    },
+    {
+      "side": "south",
+      "plan_station_m": -12.405086424596238,
+      "train_z_median": 45.77499999999998,
+      "train_count": 14,
+      "held_count": 7,
+      "hold_z_abs_m_p50_p90": [
+        0.07499999999993179,
+        0.11499999999989541
+      ]
+    },
+    {
+      "side": "south",
+      "plan_station_m": -10.405086424596245,
+      "train_z_median": 45.809999999999945,
+      "train_count": 18,
+      "held_count": 8,
+      "hold_z_abs_m_p50_p90": [
+        0.08500000000003638,
+        0.14600000000009455
+      ]
+    },
+    {
+      "side": "south",
+      "plan_station_m": -8.505086424596254,
+      "train_z_median": 45.809999999999945,
+      "train_count": 19,
+      "held_count": 6,
+      "hold_z_abs_m_p50_p90": [
+        0.06999999999993634,
+        0.09500000000014097
+      ]
+    },
+    {
+      "side": "south",
+      "plan_station_m": -6.905086424596258,
+      "train_z_median": 45.74000000000001,
+      "train_count": 17,
+      "held_count": 4,
+      "hold_z_abs_m_p50_p90": [
+        0.10500000000013188,
+        0.1169999999999618
+      ]
+    },
+    {
+      "side": "south",
+      "plan_station_m": -6.205086424596261,
+      "train_z_median": 45.75,
+      "train_count": 15,
+      "held_count": 4,
+      "hold_z_abs_m_p50_p90": [
+        0.07499999999993179,
+        0.10399999999990542
+      ]
+    },
+    {
+      "side": "north",
+      "plan_station_m": -14.005086424596232,
+      "train_z_median": 45.75,
+      "train_count": 18,
+      "held_count": 7,
+      "hold_z_abs_m_p50_p90": [
+        0.08999999999991815,
+        0.14999999999995456
+      ]
+    },
+    {
+      "side": "north",
+      "plan_station_m": -12.50508642459624,
+      "train_z_median": 45.83499999999992,
+      "train_count": 18,
+      "held_count": 10,
+      "hold_z_abs_m_p50_p90": [
+        0.05999999999994543,
+        0.13899999999989626
+      ]
+    },
+    {
+      "side": "north",
+      "plan_station_m": -6.705086424596259,
+      "train_z_median": 45.819999999999936,
+      "train_count": 23,
+      "held_count": 9,
+      "hold_z_abs_m_p50_p90": [
+        0.03999999999996362,
+        0.14599999999991273
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2309 @@
+{
+  "archive_filename": "Penn_无损整合候选_46模型_未游戏验收.zip",
+  "archive_sha256": "82c3dc8211489c19ee33b0bade3b8a334165cab5146dd60997c70ced70081b42",
+  "all_fbx_scanned": 637,
+  "standard_split_fbx_scanned": 322,
+  "indexed_duplicate_excess": 0,
+  "standard_split_nonempty_entries": 232,
+  "standard_split_empty_glass_omitted_from_import_list_only": 90,
+  "scope": "This identifies only exact same-index and exactly empty geometry. Keep original files. Geometric overlap, accurate shape and CS2 Editor remain independent gates.",
+  "by_asset": {
+    "AnnenbergCenter": {
+      "keep": [
+        {
+          "path": "AnnenbergCenter/fbx/split/NA_AnnenbergCenter_10x9.fbx",
+          "triangles": 28248,
+          "sha256": "c0aa8ef8a364b203df8b8bea9801b80bfa0927e8c2da94ba7b0e3e4fdf6bc885",
+          "bytes": 378460
+        },
+        {
+          "path": "AnnenbergCenter/fbx/split/NA_AnnenbergCenter_10x9_LOD1.fbx",
+          "triangles": 12948,
+          "sha256": "b7aa733acc986e4e0624e7a1eebed50e7266458db612fd29bdd66a3171d1fab3",
+          "bytes": 202092
+        },
+        {
+          "path": "AnnenbergCenter/fbx/split/NA_AnnenbergCenter_10x9_LOD1_Win.fbx",
+          "triangles": 418,
+          "sha256": "817e53dcc595d9b66c1217f39ad9f14771b479f1c29d1979f5a54790f17b8288",
+          "bytes": 25308
+        },
+        {
+          "path": "AnnenbergCenter/fbx/split/NA_AnnenbergCenter_10x9_LOD2.fbx",
+          "triangles": 88,
+          "sha256": "925cb05d0821ce8cea887a66a07ceb1869d2e1284fe2e5d82389ee45c36de31e",
+          "bytes": 23548
+        },
+        {
+          "path": "AnnenbergCenter/fbx/split/NA_AnnenbergCenter_10x9_Win.fbx",
+          "triangles": 418,
+          "sha256": "3ac7558148c26197b20391f21e9213a16be28b337a30cf42fabdeb5f9f83b172",
+          "bytes": 25308
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "AnnenbergCenter/fbx/split/NA_AnnenbergCenter_10x9_Gls.fbx",
+          "triangles": 0,
+          "sha256": "4069d611e06c3815e90ac69d06706de1c3f7e9caa37b103c2337bb4b53bf7d87",
+          "bytes": 21148,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "AnnenbergCenter/fbx/split/NA_AnnenbergCenter_10x9_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "db2238fa4ce0e03dee43e4dcc883cf580bdb4c4997a4e5c8d509b052bd700d14",
+          "bytes": 21148,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "ClaudiaCohenHall": {
+      "keep": [
+        {
+          "path": "ClaudiaCohenHall/fbx/split/NA_ClaudiaCohenHall_7x5.fbx",
+          "triangles": 14522,
+          "sha256": "257223d391046f1faab2d9c79e311e4b6710bf3019fbab74b79f5433a06654b1",
+          "bytes": 221820
+        },
+        {
+          "path": "ClaudiaCohenHall/fbx/split/NA_ClaudiaCohenHall_7x5_LOD1.fbx",
+          "triangles": 6674,
+          "sha256": "e4b177eaef986ae9925daad384f492b5e6f6e36ec22a20b9416d465fe1089765",
+          "bytes": 130588
+        },
+        {
+          "path": "ClaudiaCohenHall/fbx/split/NA_ClaudiaCohenHall_7x5_LOD1_Win.fbx",
+          "triangles": 216,
+          "sha256": "56b6f9a5ac0c8a340685b1e2347f343f166c62750e141947204bbd105426f9cd",
+          "bytes": 21004
+        },
+        {
+          "path": "ClaudiaCohenHall/fbx/split/NA_ClaudiaCohenHall_7x5_LOD2.fbx",
+          "triangles": 134,
+          "sha256": "ad5d5eac9eba5e85a92ec6390d70a731065b0d0afb288aaee5d2a49ee216ffb7",
+          "bytes": 24556
+        },
+        {
+          "path": "ClaudiaCohenHall/fbx/split/NA_ClaudiaCohenHall_7x5_Win.fbx",
+          "triangles": 216,
+          "sha256": "64a628de7f709f23f4bda6763e1009df0c84987b39b0f1daa6e2bd6de59c8eb0",
+          "bytes": 20988
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "ClaudiaCohenHall/fbx/split/NA_ClaudiaCohenHall_7x5_Gls.fbx",
+          "triangles": 0,
+          "sha256": "353f0082a46e2a43c5f12c6e609866aedda95163a18303b764637d99813816a6",
+          "bytes": 21148,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "ClaudiaCohenHall/fbx/split/NA_ClaudiaCohenHall_7x5_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "1a63b1df6ff839322445bc606db26af9353bc442923a01e637f9b73da8435b44",
+          "bytes": 21164,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "CollegeHall": {
+      "keep": [
+        {
+          "path": "CollegeHall/fbx/split/NA_CollegeHall_11x7.fbx",
+          "triangles": 113156,
+          "sha256": "3314745ce161ca9c59043960773763f36a48bbfb016bc7007a8ea8f0a32b5e88",
+          "bytes": 1648396
+        },
+        {
+          "path": "CollegeHall/fbx/split/NA_CollegeHall_11x7_Gls.fbx",
+          "triangles": 112,
+          "sha256": "f18a202e8fe3b9f9465b930688a90355216eb9b56341b3e88c8709785b1f6ebc",
+          "bytes": 23468
+        },
+        {
+          "path": "CollegeHall/fbx/split/NA_CollegeHall_11x7_LOD1.fbx",
+          "triangles": 75672,
+          "sha256": "0b8a91e799e2ef03fb172949555f9bfaff587c20506dc670c34cd875d02219ec",
+          "bytes": 1123580
+        },
+        {
+          "path": "CollegeHall/fbx/split/NA_CollegeHall_11x7_LOD1_Gls.fbx",
+          "triangles": 112,
+          "sha256": "731f84e10745001663ad17044aff7346eb67419f187b95d9cb04678d9093dc54",
+          "bytes": 23468
+        },
+        {
+          "path": "CollegeHall/fbx/split/NA_CollegeHall_11x7_LOD1_Win.fbx",
+          "triangles": 3147,
+          "sha256": "edc14c407de3cbd13241eb390a9ef9ff41e98cc6b67f25d693e29411b99a157e",
+          "bytes": 74028
+        },
+        {
+          "path": "CollegeHall/fbx/split/NA_CollegeHall_11x7_LOD2.fbx",
+          "triangles": 1600,
+          "sha256": "191414a555fc05df74be29a66c605fa408aeee658c9e56fb76a61b11e4203193",
+          "bytes": 52444
+        },
+        {
+          "path": "CollegeHall/fbx/split/NA_CollegeHall_11x7_Win.fbx",
+          "triangles": 3147,
+          "sha256": "167ef470a6f3afb099ed0fe7ad3b94e56d39cfbdb7f6033514deb7fec7537a5e",
+          "bytes": 74028
+        }
+      ],
+      "skip_only_for_import": []
+    },
+    "FisherFineArts": {
+      "keep": [
+        {
+          "path": "FisherFineArts/fbx/split/NA_FisherFineArts_8x6.fbx",
+          "triangles": 15816,
+          "sha256": "96ab3c725b3843835aa0a37985cd54560876ef8d66d1cc17752256b7b1a70faa",
+          "bytes": 288316
+        },
+        {
+          "path": "FisherFineArts/fbx/split/NA_FisherFineArts_8x6_LOD1.fbx",
+          "triangles": 9976,
+          "sha256": "0b6e706d6e06ab355f8593fbed36e8508b3e10508c527ac6cd01c9f3b31c01aa",
+          "bytes": 212780
+        },
+        {
+          "path": "FisherFineArts/fbx/split/NA_FisherFineArts_8x6_LOD1_Win.fbx",
+          "triangles": 398,
+          "sha256": "39d18d24fc7c07d6048c8e900f3ce0281036a62e446e38bd32bd10692f82d014",
+          "bytes": 25388
+        },
+        {
+          "path": "FisherFineArts/fbx/split/NA_FisherFineArts_8x6_LOD2.fbx",
+          "triangles": 336,
+          "sha256": "b79831fff39e9db0354dd6d7bd6e2a79a5394b0361556ce8072349712c9b1523",
+          "bytes": 29116
+        },
+        {
+          "path": "FisherFineArts/fbx/split/NA_FisherFineArts_8x6_Win.fbx",
+          "triangles": 398,
+          "sha256": "ac6e7bda56c76a5bdafe06a7caaa0c214dbe7369a4e85d4f2aff2d67ff65ff3c",
+          "bytes": 25372
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "FisherFineArts/fbx/split/NA_FisherFineArts_8x6_Gls.fbx",
+          "triangles": 0,
+          "sha256": "e83e52fadd77cf9d01cc80a185f3ea91847ad92f0e0f0da9045cf74731bfb3cf",
+          "bytes": 21084,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "FisherFineArts/fbx/split/NA_FisherFineArts_8x6_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "afbf34fddfdc97dd00dc59dcda216d26b217332ae1ef34fe90d6c836fef34133",
+          "bytes": 21100,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "FranklinField": {
+      "keep": [
+        {
+          "path": "FranklinField/fbx/split/NA_FranklinField_28x19.fbx",
+          "triangles": 16120,
+          "sha256": "771183967289b6460629dbce6e322e3a8ad80cd68580bdcc03fb6591f0de6eeb",
+          "bytes": 251452
+        },
+        {
+          "path": "FranklinField/fbx/split/NA_FranklinField_28x19_LOD1.fbx",
+          "triangles": 8944,
+          "sha256": "71e6637ea07863f03950c33522909de3c5e02c517a0fb5f48221551a6bbea26d",
+          "bytes": 169164
+        },
+        {
+          "path": "FranklinField/fbx/split/NA_FranklinField_28x19_LOD1_Win.fbx",
+          "triangles": 506,
+          "sha256": "ce6006f912f51f2f610aa6a1e13605464a1b10a46a6d1c59844faa7cf75b4c45",
+          "bytes": 25452
+        },
+        {
+          "path": "FranklinField/fbx/split/NA_FranklinField_28x19_LOD2.fbx",
+          "triangles": 96,
+          "sha256": "506424e90ce5b000a4aa5659743c4b15f3d98244a29652108648cd5d5b0a36fe",
+          "bytes": 23596
+        },
+        {
+          "path": "FranklinField/fbx/split/NA_FranklinField_28x19_Win.fbx",
+          "triangles": 506,
+          "sha256": "3c938e3f19aa0d39246c9a9b24898209bbeace6cb55d22631b1b2a680e314406",
+          "bytes": 25452
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "FranklinField/fbx/split/NA_FranklinField_28x19_Gls.fbx",
+          "triangles": 0,
+          "sha256": "bf3947f14722c72c4fc84cd525bce6355be1238e9adc79b73802a6852bd2ca6e",
+          "bytes": 21100,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "FranklinField/fbx/split/NA_FranklinField_28x19_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "3f8060d57235a3a2ebeeb15d2ab3e6764a4825a9a3a26d7cfa651371144aea83",
+          "bytes": 21116,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "HillCollegeHouse": {
+      "keep": [
+        {
+          "path": "HillCollegeHouse/fbx/split/NA_HillCollegeHouse_10x6.fbx",
+          "triangles": 36146,
+          "sha256": "2c37362fd0b488143918852c4c152d97244422f507a24ffde4df7b52ccbdef20",
+          "bytes": 479484
+        },
+        {
+          "path": "HillCollegeHouse/fbx/split/NA_HillCollegeHouse_10x6_LOD1.fbx",
+          "triangles": 16538,
+          "sha256": "ed9b6a2343eb5f62bb5778559c905625e998e70c53a80374b91b7188bfb97257",
+          "bytes": 253820
+        },
+        {
+          "path": "HillCollegeHouse/fbx/split/NA_HillCollegeHouse_10x6_LOD1_Win.fbx",
+          "triangles": 540,
+          "sha256": "8eb73ee8b0a31c68f5381f5f74369587402df8b3bf5a51ec46ca029f6248d5d0",
+          "bytes": 29308
+        },
+        {
+          "path": "HillCollegeHouse/fbx/split/NA_HillCollegeHouse_10x6_LOD2.fbx",
+          "triangles": 72,
+          "sha256": "cd78fe2a33a97a7f5bf37dcc3054d1a809cc9623126dbab9ad0b9296e6695fa2",
+          "bytes": 23004
+        },
+        {
+          "path": "HillCollegeHouse/fbx/split/NA_HillCollegeHouse_10x6_Win.fbx",
+          "triangles": 540,
+          "sha256": "a9bf79642c5f2d8d393e87f3c73178492432fa6146f9d9a559e40954f5e919e8",
+          "bytes": 29308
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "HillCollegeHouse/fbx/split/NA_HillCollegeHouse_10x6_Gls.fbx",
+          "triangles": 0,
+          "sha256": "7819bac8f114c869467d9d9847383d4d1bf3541b0460d73e765c761952ed8033",
+          "bytes": 21180,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "HillCollegeHouse/fbx/split/NA_HillCollegeHouse_10x6_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "3b38387a0f1ea0083ed51fbb24e77ab9b5c1c3d2b46a0b3c4360c94d69dbaa44",
+          "bytes": 21196,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "HoustonHall": {
+      "keep": [
+        {
+          "path": "HoustonHall/fbx/split/NA_HoustonHall_11x5.fbx",
+          "triangles": 13908,
+          "sha256": "010b2fac5bda334840fd77189f8fd28cbe45e3b06320a8050840b145bf453ae3",
+          "bytes": 209228
+        },
+        {
+          "path": "HoustonHall/fbx/split/NA_HoustonHall_11x5_LOD1.fbx",
+          "triangles": 6804,
+          "sha256": "e90f378e5136f23de0b872ded133bcb4b019f2fa9f56ae816dd336572c0d866d",
+          "bytes": 126156
+        },
+        {
+          "path": "HoustonHall/fbx/split/NA_HoustonHall_11x5_LOD1_Win.fbx",
+          "triangles": 204,
+          "sha256": "81da522ce168ae0e15a1a69adb91b1d096f2aa110e4273d5bdbca852423b9593",
+          "bytes": 20940
+        },
+        {
+          "path": "HoustonHall/fbx/split/NA_HoustonHall_11x5_LOD2.fbx",
+          "triangles": 552,
+          "sha256": "df5a09ae1b8123635ab0a86b98b654618d6b487dd4d1f084c481dbbf1edc187c",
+          "bytes": 33260
+        },
+        {
+          "path": "HoustonHall/fbx/split/NA_HoustonHall_11x5_Win.fbx",
+          "triangles": 204,
+          "sha256": "fa3dce42f44d11cb36818c3f02bde29818d677b70d40bdf25165199ecca99f09",
+          "bytes": 20924
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "HoustonHall/fbx/split/NA_HoustonHall_11x5_Gls.fbx",
+          "triangles": 0,
+          "sha256": "5d6587b1869c4fc1d9bbc8aa1ae2490188acbec075323980163c3015e7f2ca59",
+          "bytes": 21004,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "HoustonHall/fbx/split/NA_HoustonHall_11x5_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "0dfb8ca1f7d587135472dc71c48425b86d9dac44e6e7394523f7ed517db0aaa0",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "IrvineAuditorium": {
+      "keep": [
+        {
+          "path": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7.fbx",
+          "triangles": 19196,
+          "sha256": "d6d492f4b490b1e0f39c777c111f2d699b16933ff658f06110ac177ffd5a8df6",
+          "bytes": 322988
+        },
+        {
+          "path": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7_LOD1.fbx",
+          "triangles": 14828,
+          "sha256": "3adec5cdb1ee2c9c72824cde459ddf07e512b4fc22ccfa12259d6945bbfb0492",
+          "bytes": 271436
+        },
+        {
+          "path": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7_LOD1_Win.fbx",
+          "triangles": 518,
+          "sha256": "24336c6102edf39acdccec71730158a0bdb468d3fa8fd43fd9c8dd858cd984c5",
+          "bytes": 26284
+        },
+        {
+          "path": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7_LOD2.fbx",
+          "triangles": 108,
+          "sha256": "89aaa473cf65f76bb3a2a96b3b11b34312535f6766a5e84bdc1ddf82fce71dac",
+          "bytes": 23916
+        },
+        {
+          "path": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7_Win.fbx",
+          "triangles": 518,
+          "sha256": "c8ab4466f39bb237b3f2df8ddecca3afd899941149ed16889c80c14cd44c2bc3",
+          "bytes": 26268
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7_Gls.fbx",
+          "triangles": 0,
+          "sha256": "cf7dbae7cb95f1c334e947545faeae9b78f71ab8f2c604ca77af60ca599bf948",
+          "bytes": 21148,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "8030bcb3dd935148d8754376a333750e555f50cb57c66d36473bd7dde9c566b5",
+          "bytes": 21164,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "PennMuseum": {
+      "keep": [
+        {
+          "path": "PennMuseum/fbx/split/NA_PennMuseum_21x15.fbx",
+          "triangles": 5408,
+          "sha256": "0eebc7278454dc5b5adebcc4dac670d7f38a046e8ca8c4f279989c4b2425ffb6",
+          "bytes": 107996
+        },
+        {
+          "path": "PennMuseum/fbx/split/NA_PennMuseum_21x15_LOD1.fbx",
+          "triangles": 3608,
+          "sha256": "1072c40b5a9de70f31d9954baad9a90cbf29463b2ae6722920e790d87e603d0e",
+          "bytes": 86060
+        },
+        {
+          "path": "PennMuseum/fbx/split/NA_PennMuseum_21x15_LOD1_Win.fbx",
+          "triangles": 176,
+          "sha256": "065433db45eff907a6f9689e438a3588434700e226c848418ac37ea1807e7fa6",
+          "bytes": 19084
+        },
+        {
+          "path": "PennMuseum/fbx/split/NA_PennMuseum_21x15_LOD2.fbx",
+          "triangles": 232,
+          "sha256": "787dcae9a3377cc861c29b7128a43dff9cd36f37712bf871b8b4f5d0fd849997",
+          "bytes": 26412
+        },
+        {
+          "path": "PennMuseum/fbx/split/NA_PennMuseum_21x15_Win.fbx",
+          "triangles": 176,
+          "sha256": "7a72c5c2b66e9a4579b9ba9f6305fa978f4e8b0fa87325daa01bfab57f1127e4",
+          "bytes": 19068
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "PennMuseum/fbx/split/NA_PennMuseum_21x15_Gls.fbx",
+          "triangles": 0,
+          "sha256": "464e64d4fcf10a86799e0115bfc11e803ba9cd4dca618bf59392542764b4879c",
+          "bytes": 20988,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "PennMuseum/fbx/split/NA_PennMuseum_21x15_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "8aafc6287971e28d16fa219ab048b04ca1c0d06471e25ba0cdc5aec37f3a688d",
+          "bytes": 21004,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadAshhurst": {
+      "keep": [
+        {
+          "path": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3.fbx",
+          "triangles": 10590,
+          "sha256": "77b8c9b19538ca6fbed1a0254d198fe4cac1847874660d2bfe9dedc286f628e3",
+          "bytes": 174908
+        },
+        {
+          "path": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3_LOD1.fbx",
+          "triangles": 7854,
+          "sha256": "351aaf4e3b4ef712333d8e320ac60615745ade8be1f0bf8aeb50207e1e860b74",
+          "bytes": 147324
+        },
+        {
+          "path": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3_LOD1_Win.fbx",
+          "triangles": 148,
+          "sha256": "6ebad895a50bbde0ffc66b64c09f564f84bea3fd9257a89ea03da07900f29710",
+          "bytes": 19292
+        },
+        {
+          "path": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "c3a8e5ea4372c54f7050e1ac2d4ece3e84b6108648e1b5d2eec0e700e86e5243",
+          "bytes": 22396
+        },
+        {
+          "path": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3_Win.fbx",
+          "triangles": 148,
+          "sha256": "c2e65cfd00013063aad182acc7bf214ea9486da1760d1c8f1a5d433a2e7f87bf",
+          "bytes": 19276
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "0512b63db3353622b1abb42847255057f2010f4df18f00dbec5119e0a4a60a92",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "cac8aaf8d53ba4fd3e5dfcbd818e55609b138742f59838569a7454eb53d00bd9",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadBaird": {
+      "keep": [
+        {
+          "path": "QuadBaird/fbx/split/NA_QuadBaird_3x3.fbx",
+          "triangles": 9726,
+          "sha256": "d10b404333046debaed769e53f49b2f33f6fa9b6d0d825562510556018439a86",
+          "bytes": 160892
+        },
+        {
+          "path": "QuadBaird/fbx/split/NA_QuadBaird_3x3_LOD1.fbx",
+          "triangles": 7242,
+          "sha256": "71a3b5d08933ec006d8a3f73ef7368a109411fa95aeec94479d0315c02a3dafe",
+          "bytes": 136172
+        },
+        {
+          "path": "QuadBaird/fbx/split/NA_QuadBaird_3x3_LOD1_Win.fbx",
+          "triangles": 134,
+          "sha256": "1c436153691e4e45747d3844c3aed0683604b7edc0ca806ce2c9753110ffe28c",
+          "bytes": 18892
+        },
+        {
+          "path": "QuadBaird/fbx/split/NA_QuadBaird_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "fe85cb5510ab601df33088c538606c7903ea819c0489c99e86dddb82ce71e07d",
+          "bytes": 22316
+        },
+        {
+          "path": "QuadBaird/fbx/split/NA_QuadBaird_3x3_Win.fbx",
+          "triangles": 134,
+          "sha256": "508fd3da9eff96e459b16437219d4754ec3e4c9184c3e722675768f2c8c0ca67",
+          "bytes": 18892
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadBaird/fbx/split/NA_QuadBaird_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "fe2a0503a82ed2d3aebba330b6f60c7b0cf5fbd4aa41d98c2bb0a3e42e95cb70",
+          "bytes": 20908,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadBaird/fbx/split/NA_QuadBaird_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "adfd7d62689f4b6d353e275348f58a1d0914b284919c1898f151f2e803852f5c",
+          "bytes": 20924,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadBaldwinE": {
+      "keep": [
+        {
+          "path": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3.fbx",
+          "triangles": 8350,
+          "sha256": "916d0744247db934594f70a651fcddd753ee6edd91c17473714b05f77e9f57b2",
+          "bytes": 142988
+        },
+        {
+          "path": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3_LOD1.fbx",
+          "triangles": 6262,
+          "sha256": "8ca6eb0922bd2c869f870f7d2a35da482510a1650aca6a8b3625b5e07d833055",
+          "bytes": 122348
+        },
+        {
+          "path": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3_LOD1_Win.fbx",
+          "triangles": 112,
+          "sha256": "90524c6c2a72ffcde2e439714df086878a72ec97d8a990d32785211803974a63",
+          "bytes": 18364
+        },
+        {
+          "path": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "347b9eaf29ea2dbe3962c6e0a81184952512935940a32414daf86aede9e8e94e",
+          "bytes": 22396
+        },
+        {
+          "path": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3_Win.fbx",
+          "triangles": 112,
+          "sha256": "df88bcbab540bee8ca7de4f696ada66cd2409654bb29b3568e5616f20f7e7df9",
+          "bytes": 18364
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "de334462923ee6617dc25cf350b2a4e4facf98fb54cd1c34210250ad22104a08",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "886ef70e86132af8542eda08f7451614c192dd98aead7473db9e5aa951a00a98",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadBaldwinW": {
+      "keep": [
+        {
+          "path": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3.fbx",
+          "triangles": 10686,
+          "sha256": "9039cecb49ac42b7fc29241a2e6afcec4343d6efd5323bed9bb5456f391429e0",
+          "bytes": 172268
+        },
+        {
+          "path": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3_LOD1.fbx",
+          "triangles": 7914,
+          "sha256": "799bb51b615a75215a620438018126cfc0e6ff7e58ed2073d34b9c35c7360e1f",
+          "bytes": 143948
+        },
+        {
+          "path": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3_LOD1_Win.fbx",
+          "triangles": 150,
+          "sha256": "886af6a78bb5ffbfc251db142f355f21e9012807d275a3a55b05c10c9c28afff",
+          "bytes": 19276
+        },
+        {
+          "path": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "63124ee7bdc1cc941618725877fc7539ddc1c834156ba87d136d2271e74f7883",
+          "bytes": 22396
+        },
+        {
+          "path": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3_Win.fbx",
+          "triangles": 150,
+          "sha256": "ec095c7308833c3f74c13abc0adeb2206ba6f4187d5c07e7ba57f3798459a924",
+          "bytes": 19260
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "fea25a8f345c283bc716c13515325653c1059ea2d11dd68db37185a2d0137bab",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "a269366114c108ee7c9f53ecdda1b3afff084d8eea1f0c5034364466d9fdafbe",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadBishopWhite": {
+      "keep": [
+        {
+          "path": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3.fbx",
+          "triangles": 11670,
+          "sha256": "702ecb276e5121c1bd87746a119a8439af377a069076690df47fafeac561bfc4",
+          "bytes": 187900
+        },
+        {
+          "path": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3_LOD1.fbx",
+          "triangles": 8610,
+          "sha256": "474b4f9ef8e41f586778d5779c73246bf6a3500275842dbb0e4ec4528de25b31",
+          "bytes": 157132
+        },
+        {
+          "path": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3_LOD1_Win.fbx",
+          "triangles": 166,
+          "sha256": "2cc214b3c87a33f3681c8cc1f1e5161cef23623837960f9df0a020b9a7420f9e",
+          "bytes": 19788
+        },
+        {
+          "path": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "5803602a3164ece14a52c3dab467d89f600d7688ecda0a7d63ea90d82b49c82a",
+          "bytes": 22540
+        },
+        {
+          "path": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3_Win.fbx",
+          "triangles": 166,
+          "sha256": "7bc291d8c9d523d2ca84f35589722a6602822688080dcba6067e1aa83f2eb30e",
+          "bytes": 19772
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "e2a1cc8b38fc74f05db388d38458db883560f73b82162b0c1ca61288c3ff9db3",
+          "bytes": 21116,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "c3bfd3621ab117503f329976ae7396007d748d0579dd42cbe325c9495ca0a5da",
+          "bytes": 21132,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadBodine": {
+      "keep": [
+        {
+          "path": "QuadBodine/fbx/split/NA_QuadBodine_3x3.fbx",
+          "triangles": 11670,
+          "sha256": "0a0dae78b0bc77e1465e6cbd9d54627ddc189e44fb47e12013c797fc30a383df",
+          "bytes": 187196
+        },
+        {
+          "path": "QuadBodine/fbx/split/NA_QuadBodine_3x3_LOD1.fbx",
+          "triangles": 8610,
+          "sha256": "1478ec51f0d9869fc0e56967feadd325d30f5c444cbe5ac529103fbd3ff07d55",
+          "bytes": 156572
+        },
+        {
+          "path": "QuadBodine/fbx/split/NA_QuadBodine_3x3_LOD1_Win.fbx",
+          "triangles": 166,
+          "sha256": "97f051b0b75b2c3b3bea15be55df0e0f6d243d813fca93bcd5469a1d78685bba",
+          "bytes": 19724
+        },
+        {
+          "path": "QuadBodine/fbx/split/NA_QuadBodine_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "6806ea8174a706af199e264ac10b54b89768c727e53820462a6141100a06e425",
+          "bytes": 22348
+        },
+        {
+          "path": "QuadBodine/fbx/split/NA_QuadBodine_3x3_Win.fbx",
+          "triangles": 166,
+          "sha256": "54b26d199855179d4a653dc4f7b3f7b9eeb8056b0d1b86c69771a991a32a65c5",
+          "bytes": 19724
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadBodine/fbx/split/NA_QuadBodine_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "6921775673eebdf873b6f15097cd3699f26a718f4418583145efe0fdae369e95",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadBodine/fbx/split/NA_QuadBodine_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "afd5e5b3f14bcd2ec778f82969572b472e831ed9b2fe79c7b4d2e5a676df454b",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadBrooks": {
+      "keep": [
+        {
+          "path": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3.fbx",
+          "triangles": 11670,
+          "sha256": "15b530c3a3414975437819935f201039a029690934be28059ff18f6bd4623164",
+          "bytes": 186108
+        },
+        {
+          "path": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3_LOD1.fbx",
+          "triangles": 8610,
+          "sha256": "653234a82a3e37166cc7758a8c0b49e52e0e30029627410cf9cea69233c6e0bc",
+          "bytes": 155900
+        },
+        {
+          "path": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3_LOD1_Win.fbx",
+          "triangles": 166,
+          "sha256": "cdae8de5881117b4530d9901f5b9c45fea49b313e83fc6d4ff83050d4a9d8422",
+          "bytes": 19756
+        },
+        {
+          "path": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "90b84b4c8ec2418a5f021174c18e3f67ae35f39abcee83603e51dceeecde72db",
+          "bytes": 22364
+        },
+        {
+          "path": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3_Win.fbx",
+          "triangles": 166,
+          "sha256": "30dab494fc863924def1502bed19bfa4ab3a4ddef4e3443afc612de21adfb9f4",
+          "bytes": 19740
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "ce3a3c9933055370d5cf3a6b77cf977b501130cf4e76a6ca17c32439f5963eb5",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "35a2e4ca82ec09203b93194043a31101349f4efed786e9835e79e4b13b3758df",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadButcher": {
+      "keep": [
+        {
+          "path": "QuadButcher/fbx/split/NA_QuadButcher_5x3.fbx",
+          "triangles": 15142,
+          "sha256": "1f757fa30d1cc0038ef2a4f0aa42ee0dd264d0a00efb0d90be2f151cfa4eebdb",
+          "bytes": 234396
+        },
+        {
+          "path": "QuadButcher/fbx/split/NA_QuadButcher_5x3_LOD1.fbx",
+          "triangles": 11074,
+          "sha256": "cc4de990c089d6936514b4a734d1ccadd766d77c595cc57c47c18a166ca048f1",
+          "bytes": 192924
+        },
+        {
+          "path": "QuadButcher/fbx/split/NA_QuadButcher_5x3_LOD1_Win.fbx",
+          "triangles": 222,
+          "sha256": "872e7e8035a278535f9b18641f1b6ecb6551597b34713eb45ab5fb1a89d86384",
+          "bytes": 21052
+        },
+        {
+          "path": "QuadButcher/fbx/split/NA_QuadButcher_5x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "604df2d1c38333485f223f3988307b441ddbb6e3ae137dceebe7b69a560f69e1",
+          "bytes": 22444
+        },
+        {
+          "path": "QuadButcher/fbx/split/NA_QuadButcher_5x3_Win.fbx",
+          "triangles": 222,
+          "sha256": "f1a06868930b80a40b2aa43e2e6296b55b66dad3d3400aefcd4c7aa3e7e32856",
+          "bytes": 21052
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadButcher/fbx/split/NA_QuadButcher_5x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "77283286e481c1a3caae9ead00a802505f7475766b4704e59f4762b2fe036492",
+          "bytes": 20972,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadButcher/fbx/split/NA_QuadButcher_5x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "4c16fb8d0e1895f8ff5a324c6010de4c7e1e16eedd703bd68627de5468e8022f",
+          "bytes": 20988,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadCarruth": {
+      "keep": [
+        {
+          "path": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3.fbx",
+          "triangles": 8350,
+          "sha256": "393903321ffcb2542c655a5f3b851e5e094fafc861b73321fb4f2b91a31b1d06",
+          "bytes": 143036
+        },
+        {
+          "path": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3_LOD1.fbx",
+          "triangles": 6262,
+          "sha256": "7da1ba413b4e2d287aca64c5770812612db0f4308af198d606e66a2794e1028c",
+          "bytes": 122332
+        },
+        {
+          "path": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3_LOD1_Win.fbx",
+          "triangles": 112,
+          "sha256": "e25612c8ab7b80bc67259d58c78c2424f9ab6fab6e3e3f11a3b510495c5a27f5",
+          "bytes": 18396
+        },
+        {
+          "path": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "8be3999bbe643d1f2b8ecb5b943388b8ddc8bddffa6fb3d1ddf43baa3ee52402",
+          "bytes": 22348
+        },
+        {
+          "path": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3_Win.fbx",
+          "triangles": 112,
+          "sha256": "909b3477e6e25b6f71bd1ed6788050e9df2c0f951a7695e0ae3e1b864916866c",
+          "bytes": 18396
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "cada201b72236cd72aee10adf63968921991956fc36311a34f6e644b25fc4818",
+          "bytes": 20972,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "bf183f2aafdae0d39bb1cb452ccb7ef20ee6c7f92b7c44d86738f104fd865c09",
+          "bytes": 20988,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadChestnut": {
+      "keep": [
+        {
+          "path": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3.fbx",
+          "triangles": 10686,
+          "sha256": "4904b3ba191b6ddcdf099966053d0e43e9210314b42ffac1bb5ac0aaa2759155",
+          "bytes": 173452
+        },
+        {
+          "path": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3_LOD1.fbx",
+          "triangles": 7914,
+          "sha256": "71a90b9c01edb4b9d1452ecee1837e6c460f976fbb3d80e0bf02f981fbc13694",
+          "bytes": 145804
+        },
+        {
+          "path": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3_LOD1_Win.fbx",
+          "triangles": 150,
+          "sha256": "d129f423e5716fa00e015855f90e26233d2da338b057261625cbd44fe14bd4ac",
+          "bytes": 19244
+        },
+        {
+          "path": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "c01743762ba37567c74e01c56077ff231a6b67efe9aad49fe41e2e3e2506d12f",
+          "bytes": 22412
+        },
+        {
+          "path": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3_Win.fbx",
+          "triangles": 150,
+          "sha256": "11d089d6ad83e888aa3db5338b03ca5b4fe2a898bd54ac1ecda6158a055425c7",
+          "bytes": 19244
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "3af4619bf29ede20aa30e78474523a9d35ef5607cc7e7cc7fe1a8c8330e4585f",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "9cc27a391993a40b80e743d27f32416feedc4d930a1da55563b185870823f609",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadClassOf28": {
+      "keep": [
+        {
+          "path": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3.fbx",
+          "triangles": 11550,
+          "sha256": "5cf8fce0ef031a99a1a8ccd9abdda74e40abd59cde52f267a35cdb06ff2e6e57",
+          "bytes": 184444
+        },
+        {
+          "path": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3_LOD1.fbx",
+          "triangles": 8526,
+          "sha256": "38f17661c73a91b5917c0a00f51ac2b5f5a33e4ea63023b342b853316efc0757",
+          "bytes": 154828
+        },
+        {
+          "path": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3_LOD1_Win.fbx",
+          "triangles": 164,
+          "sha256": "8f1cbe8eb2f2a4fe14953c947f71154bbd44c22dd18e1907efb46da3f1a10dde",
+          "bytes": 19628
+        },
+        {
+          "path": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "7fa4529be06212b41622f68b562b9d68cfcd2a378f22545f77ab24f8945d88b2",
+          "bytes": 22428
+        },
+        {
+          "path": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3_Win.fbx",
+          "triangles": 164,
+          "sha256": "4dbc731a11db1d498a482c4984716e0d022ea4a43a062d9439acc280448d3fef",
+          "bytes": 19628
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "da17c5e4d72a50067e0a641880a1692017802c30c01598791e7344ba87195c7f",
+          "bytes": 21052,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "127236eeb7c25826e3e21e87126206144550ea27df39492d183b4df1deedf376",
+          "bytes": 21052,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadCleemann": {
+      "keep": [
+        {
+          "path": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3.fbx",
+          "triangles": 11846,
+          "sha256": "6d43577d0c61be2e50bca29974851cc1c81bdbd8f75cf08575861718a3763c4c",
+          "bytes": 191068
+        },
+        {
+          "path": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3_LOD1.fbx",
+          "triangles": 8750,
+          "sha256": "0fa49389039a7e25f3ee6286cbeddf1d85954cd484aa8b806d3c216c4992085c",
+          "bytes": 160156
+        },
+        {
+          "path": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3_LOD1_Win.fbx",
+          "triangles": 168,
+          "sha256": "686a38300d463e9d03f4e47b06e0bc0d3f7f950a81e1150d2f573040efc61d29",
+          "bytes": 19772
+        },
+        {
+          "path": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "8dc5a9d47db249609995bd60a3d6af73cfc9eed67cdcbdf4daa863fc5030f276",
+          "bytes": 22476
+        },
+        {
+          "path": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3_Win.fbx",
+          "triangles": 168,
+          "sha256": "9b0998aaedbb9a145d4508b3a94b69cb98c2412ee11827203607569579aae27e",
+          "bytes": 19756
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "17ae979c95fe71a38db52b11ec3bff183648a7e62c878ded4ed46b659940d0a4",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "90147e6726448d78556a6c69ae516d572bb96662bed3886f5bf9608a3cfb3e8a",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadCoxe": {
+      "keep": [
+        {
+          "path": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3.fbx",
+          "triangles": 11550,
+          "sha256": "ba02601d70dc45baffa17fda61c805190ea5e8b82398eae66a2326a02b0f25c9",
+          "bytes": 186220
+        },
+        {
+          "path": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3_LOD1.fbx",
+          "triangles": 8526,
+          "sha256": "c0b2dea7d716741d62c90fac63895b9f20233d7a57466ac85666009911a5d198",
+          "bytes": 156028
+        },
+        {
+          "path": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3_LOD1_Win.fbx",
+          "triangles": 164,
+          "sha256": "a9f95c3bc5153f9b449f135ceda1a1a1821248abd00a910f8231c5073c42283b",
+          "bytes": 19644
+        },
+        {
+          "path": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "dab2d33671ac5c2e64ee9f552e0061b004ed39f4819b7134088aec6dcb1b6fed",
+          "bytes": 22252
+        },
+        {
+          "path": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3_Win.fbx",
+          "triangles": 164,
+          "sha256": "4269295024562c1fb5b1ce6cf8598b0e2bacf65b54263bb153bd8714c0408d21",
+          "bytes": 19644
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "ed89e27d13b814c9d7e6225b6219eea23a70522e9b589d45541a1e4faa400f5d",
+          "bytes": 20876,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "16f49abf1a4f103a88aa24e61edadcbf4fa871acb487b77e017745a13713ba6e",
+          "bytes": 20876,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadCraig": {
+      "keep": [
+        {
+          "path": "QuadCraig/fbx/split/NA_QuadCraig_3x3.fbx",
+          "triangles": 11550,
+          "sha256": "366224ee3e57ad807a1afba66714503c5cc3e9c199b050df3ad2e19b4083c911",
+          "bytes": 183964
+        },
+        {
+          "path": "QuadCraig/fbx/split/NA_QuadCraig_3x3_LOD1.fbx",
+          "triangles": 8526,
+          "sha256": "e50eaf774d8a0bf00720e463944f14f6387715055b287f8806cbc8b155eb2d68",
+          "bytes": 154156
+        },
+        {
+          "path": "QuadCraig/fbx/split/NA_QuadCraig_3x3_LOD1_Win.fbx",
+          "triangles": 164,
+          "sha256": "f7b435be0be9e1b4ae67651a2126d023a22e8081a9979ad25407c8407b669f84",
+          "bytes": 19676
+        },
+        {
+          "path": "QuadCraig/fbx/split/NA_QuadCraig_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "e3a84aca79f7c032d8cfb198eadb4ea0dcc5306e775490afaa7490e234f10d3a",
+          "bytes": 22300
+        },
+        {
+          "path": "QuadCraig/fbx/split/NA_QuadCraig_3x3_Win.fbx",
+          "triangles": 164,
+          "sha256": "05e531e36dd3d621da9f1cd0da6f1151cf879112bad676802d3b924071f8c301",
+          "bytes": 19660
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadCraig/fbx/split/NA_QuadCraig_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "131911cbd8ee610b4dbdaafb6fbd779d36bf1fd356f3e1e0d4ba1ebd945721dc",
+          "bytes": 20908,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadCraig/fbx/split/NA_QuadCraig_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "778491a6c0e3bb375c31bafc2e01019c82a928498dc09ebd66f5419f9fc662ea",
+          "bytes": 20924,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadEFSmith": {
+      "keep": [
+        {
+          "path": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3.fbx",
+          "triangles": 11670,
+          "sha256": "968f634594b3da5fed7e02a4e22292d56827a86b0c6af3cb375f41e72b6dda64",
+          "bytes": 188284
+        },
+        {
+          "path": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3_LOD1.fbx",
+          "triangles": 8610,
+          "sha256": "149afcc767f8e522c69ebaf0c01b7911891c511c11f656fbe56a2a45830d3347",
+          "bytes": 157452
+        },
+        {
+          "path": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3_LOD1_Win.fbx",
+          "triangles": 166,
+          "sha256": "98f417768c476dbef4963b37af09adcf44fd1c3eefbd18aaab7ce42c049ee568",
+          "bytes": 19724
+        },
+        {
+          "path": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "12212a8ae3d6bfe8120cfdef58d5e491940dc6c9dd76cb2dc40abd354d14e1ce",
+          "bytes": 22396
+        },
+        {
+          "path": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3_Win.fbx",
+          "triangles": 166,
+          "sha256": "e00345f5ca7354123e22dbcb76558f167fc2c10d5f1f532f9480f77a8b061c88",
+          "bytes": 19708
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "729d0d7ddf9f787419c0d373ff4a638cb761fb5e1d5e991de2da006a3781833e",
+          "bytes": 20972,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "8987c7d12347c8d280007bcd1b8161a5a3f973e89325500fd45344ee957adb78",
+          "bytes": 20988,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadFitler": {
+      "keep": [
+        {
+          "path": "QuadFitler/fbx/split/NA_QuadFitler_3x3.fbx",
+          "triangles": 9846,
+          "sha256": "d10c479d1daa71706d04cf0c60c4c7968995069d8a9525f89e4b823b9c309bdc",
+          "bytes": 185132
+        },
+        {
+          "path": "QuadFitler/fbx/split/NA_QuadFitler_3x3_LOD1.fbx",
+          "triangles": 7326,
+          "sha256": "6888376c8d80e3d0f4cbdb29f69cbd901d5f3a8b1d738cc80bc536d6e5fc25be",
+          "bytes": 159164
+        },
+        {
+          "path": "QuadFitler/fbx/split/NA_QuadFitler_3x3_LOD1_Win.fbx",
+          "triangles": 136,
+          "sha256": "486583467dfd524c4a20c186f96f92ea59b71e19134ac9b7e0d2612a06955ee8",
+          "bytes": 18972
+        },
+        {
+          "path": "QuadFitler/fbx/split/NA_QuadFitler_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "039037f4525df0f453e6348e864760de2e5dcbe1fc7017a11659c8a6cfc176b9",
+          "bytes": 22332
+        },
+        {
+          "path": "QuadFitler/fbx/split/NA_QuadFitler_3x3_Win.fbx",
+          "triangles": 136,
+          "sha256": "feb201191bf9129694cc4701295bda507be46ae73d190186eb124aba4f92526a",
+          "bytes": 18972
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadFitler/fbx/split/NA_QuadFitler_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "7eab734a99f2af7107d39f8d0f28f6e4c6385b408236674f1062e631d48223d7",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadFitler/fbx/split/NA_QuadFitler_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "f81a07479bc52724c21fc62a08040799cca21d04b0930d560d4683417f56d271",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadFoerderer": {
+      "keep": [
+        {
+          "path": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3.fbx",
+          "triangles": 11670,
+          "sha256": "8a633f8377be57de89cbc144423ff6b75e1d31ee5b916b2491eb513d33c67664",
+          "bytes": 187852
+        },
+        {
+          "path": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3_LOD1.fbx",
+          "triangles": 8610,
+          "sha256": "8704a2a251fdf031240162dc4ffa582dbfd523bb280621129312f44f18ef00ab",
+          "bytes": 157132
+        },
+        {
+          "path": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3_LOD1_Win.fbx",
+          "triangles": 166,
+          "sha256": "a3f2a4841490e8bd92acd35f8045d66aa551aeafff7be114e5125a38af648d1b",
+          "bytes": 19692
+        },
+        {
+          "path": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "05674562aff9a5764dd63ed2fcb0d105143a55559ca77f91c04ac67d391e18dd",
+          "bytes": 22460
+        },
+        {
+          "path": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3_Win.fbx",
+          "triangles": 166,
+          "sha256": "b98c6c9b5dd4f6118196ee254a4a0ff28720a9b658f2f82beb166cf13bd715f8",
+          "bytes": 19692
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "36800aa51a776d3f05c81fd87aa41074df8c2d77ae746cfa61a91b09e0575c36",
+          "bytes": 21052,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "c026e75fbf160727ff8a3d9caf255378e7c7980871eadb21e3ff164e9b02888d",
+          "bytes": 21052,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadFranklin": {
+      "keep": [
+        {
+          "path": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3.fbx",
+          "triangles": 12510,
+          "sha256": "3e412bf2ffcfb526a5693407a3e9d71a60892cd4559fd711eef93fa837fd1fcd",
+          "bytes": 197100
+        },
+        {
+          "path": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3_LOD1.fbx",
+          "triangles": 9198,
+          "sha256": "41d23729d44a21e3512b172c6dfbbb443c7e94d77370bd25d073425f994ab890",
+          "bytes": 164284
+        },
+        {
+          "path": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3_LOD1_Win.fbx",
+          "triangles": 180,
+          "sha256": "2bc10d120fbbe5a6d0e0f66547a286f1ed5e419e5301d12f3bd323237e37195f",
+          "bytes": 20012
+        },
+        {
+          "path": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "25c5c30026a3a9b9086dde9e2708cf882c767935dec98a208ed6ff1866fb7da6",
+          "bytes": 22444
+        },
+        {
+          "path": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3_Win.fbx",
+          "triangles": 180,
+          "sha256": "01ab5207d3915c3988a2daa59938d270e7e8adb7e5631906bc2e8fd85a2fc60d",
+          "bytes": 19996
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "f49b37022759381d3dcd843e4724632bf390e8b7986ac27f3f9249d30ad0f993",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "2497a1f11784327de43ef4ca576e351bebdf105cfa723fa2e467b40d578378ee",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadHopkinson": {
+      "keep": [
+        {
+          "path": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3.fbx",
+          "triangles": 9726,
+          "sha256": "107997dc6f138269da6297662fa50fc600f4985fe431035187a2c6f87819f4e4",
+          "bytes": 161532
+        },
+        {
+          "path": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3_LOD1.fbx",
+          "triangles": 7242,
+          "sha256": "d8c43f4af74a7c455c59086a7f19b986207f317621cf7f0ab1e0b511e2aa878c",
+          "bytes": 137212
+        },
+        {
+          "path": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3_LOD1_Win.fbx",
+          "triangles": 134,
+          "sha256": "e193ed6bb34af513081fcd577280a4168094a1b7782e857ecd2a9949374353b3",
+          "bytes": 18892
+        },
+        {
+          "path": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "80e94856408bca5f387e6f8c8b1c50fc8ee08042a7ff42a27421129fb7b9650e",
+          "bytes": 22508
+        },
+        {
+          "path": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3_Win.fbx",
+          "triangles": 134,
+          "sha256": "774a7d5d83e6073f8119c4c6d9e4824f1a083b89bbbdae561ab1e6c668f2fa52",
+          "bytes": 18892
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "c92e99bc2eefa57ac414d4b5632379bd7c055f885dc10524ba6e64ee0b1016a5",
+          "bytes": 21052,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "c183b09014fdc9b85268c7313171b50ae33f7d7292ccc84b2ad026ca7b07ca8a",
+          "bytes": 21052,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadLeidy": {
+      "keep": [
+        {
+          "path": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3.fbx",
+          "triangles": 12630,
+          "sha256": "d38bf331a2838bb048e3f6fcf4381f3ec65b8c1f56409c6c77260568300a41df",
+          "bytes": 199468
+        },
+        {
+          "path": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3_LOD1.fbx",
+          "triangles": 9282,
+          "sha256": "405d1181f2a6e8266be399d97aba3d783981151ea03cb88d834cd7bd44a927f0",
+          "bytes": 165964
+        },
+        {
+          "path": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3_LOD1_Win.fbx",
+          "triangles": 182,
+          "sha256": "3faddaefd4b200a725e0aab2535aa76b1a45cb0eb2b89d94ab68891c7275f277",
+          "bytes": 19996
+        },
+        {
+          "path": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "d32b9d47ee1fedd69d921b4f14b121b2bc27e29058836f73d00fa012a852f734",
+          "bytes": 22300
+        },
+        {
+          "path": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3_Win.fbx",
+          "triangles": 182,
+          "sha256": "0ea0ded256d08d5dbfb55fb1b57180a72890b9121c934362a47d29f2d9930c9e",
+          "bytes": 19980
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "5381a47b918ea3712d4c5f8b6a201dac8386f9d53928754ce32b464aaaad2c74",
+          "bytes": 20908,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "b9c9da3cf2f697267560fd04d233d0ace235f8ba8ef7077041ab8bd471db001a",
+          "bytes": 20924,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadLippincott": {
+      "keep": [
+        {
+          "path": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3.fbx",
+          "triangles": 10686,
+          "sha256": "7c35d9c06f970434a8d83fa2ab982afc2eecd5d1084e8c9ee8c52087d387dc48",
+          "bytes": 173388
+        },
+        {
+          "path": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3_LOD1.fbx",
+          "triangles": 7914,
+          "sha256": "2d6f62e316e0465470d6f25cd25662e1c591b5fba5f09b88d13ff973845d3134",
+          "bytes": 145900
+        },
+        {
+          "path": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3_LOD1_Win.fbx",
+          "triangles": 150,
+          "sha256": "9e342b5f421b087863ce71a71fe5044933c690b61691e232a0fb7f5f202a264d",
+          "bytes": 19292
+        },
+        {
+          "path": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "be8b805ddf195717927ec33b28313797f01310ac904b76fa49a4e59d9455f82f",
+          "bytes": 22492
+        },
+        {
+          "path": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3_Win.fbx",
+          "triangles": 150,
+          "sha256": "96179f0c3531923a905dfe04b7dafd33fd7a648d1666a7e7c0747e41f1fb67b3",
+          "bytes": 19276
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "07d91c378d8e810b9ef3cd86017b6871ad0bbd2dd6cc9d5d0586e8593e731af0",
+          "bytes": 21084,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "d066b08a8a22c9026c7fee4e5d5ed94ff8890cee382fdcc083f96cfc8d6241ea",
+          "bytes": 21100,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadMagee": {
+      "keep": [
+        {
+          "path": "QuadMagee/fbx/split/NA_QuadMagee_4x3.fbx",
+          "triangles": 13766,
+          "sha256": "953431b971ecd33bedc0316e256e515a1e0414578a0c6f3c9da33316f9170bfc",
+          "bytes": 214044
+        },
+        {
+          "path": "QuadMagee/fbx/split/NA_QuadMagee_4x3_LOD1.fbx",
+          "triangles": 10094,
+          "sha256": "7b1a844826c0d9b1d6938fe72c8f7496be85091b1daa95e6f550b6e081140071",
+          "bytes": 177708
+        },
+        {
+          "path": "QuadMagee/fbx/split/NA_QuadMagee_4x3_LOD1_Win.fbx",
+          "triangles": 200,
+          "sha256": "721e07d99982413e3931332cba3a89911465a3fb2e13293114bc5f2a836638cb",
+          "bytes": 20508
+        },
+        {
+          "path": "QuadMagee/fbx/split/NA_QuadMagee_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "32f10d865101909c767e437acff0f0bfd33c42504947ae17e325476911835b7c",
+          "bytes": 22348
+        },
+        {
+          "path": "QuadMagee/fbx/split/NA_QuadMagee_4x3_Win.fbx",
+          "triangles": 200,
+          "sha256": "b24903973013372d88171777d2f0919881f9ebfc3c8dd02ff4342add0f058b62",
+          "bytes": 20508
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadMagee/fbx/split/NA_QuadMagee_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "93105262ad1869604d5c7adc62c294816c8a6c091b74e10aee58fe3ed3a27903",
+          "bytes": 20908,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadMagee/fbx/split/NA_QuadMagee_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "fc2ad93f5b152837b0e28705c6c82a7cc4745c6634092cfccd078439b83ce902",
+          "bytes": 20924,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadMcClelland": {
+      "keep": [
+        {
+          "path": "QuadMcClelland/fbx/split/NA_QuadMcClelland_6x3.fbx",
+          "triangles": 15194,
+          "sha256": "701d67df6c34fe4bc39efd33876729aa0dac94948a7dfca99dbeafa7b3fad5ad",
+          "bytes": 240252
+        },
+        {
+          "path": "QuadMcClelland/fbx/split/NA_QuadMcClelland_6x3_LOD1.fbx",
+          "triangles": 11486,
+          "sha256": "5c473fe56bedb483e16225cec72a913ae09999718743034401a2552b0a745a95",
+          "bytes": 204252
+        },
+        {
+          "path": "QuadMcClelland/fbx/split/NA_QuadMcClelland_6x3_LOD1_Win.fbx",
+          "triangles": 310,
+          "sha256": "8a6e5ae599337a2b9a2873f2ccab3d0fad0a1eb26a001e598070ae600c75a142",
+          "bytes": 23004
+        },
+        {
+          "path": "QuadMcClelland/fbx/split/NA_QuadMcClelland_6x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "cb77a12cd66b5577114374b28e248200ed04a8439de54b91c7837aa97214071b",
+          "bytes": 22556
+        },
+        {
+          "path": "QuadMcClelland/fbx/split/NA_QuadMcClelland_6x3_Win.fbx",
+          "triangles": 310,
+          "sha256": "1552fc97dbf116eb5bc825d0d90364a8a7a066980c62291c3034eee5a96fb084",
+          "bytes": 22988
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadMcClelland/fbx/split/NA_QuadMcClelland_6x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "c047e1329d8ba8de5e661f65fbe02c80f7373d5a330a897d33deadb0d97bc23f",
+          "bytes": 21084,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadMcClelland/fbx/split/NA_QuadMcClelland_6x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "59674866e7869e36d873482e9febec1cb3be62e922ff302fc2023fda832f75a7",
+          "bytes": 21100,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadMcKean": {
+      "keep": [
+        {
+          "path": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4.fbx",
+          "triangles": 17606,
+          "sha256": "e7f69eb74760ab13039e4e769ac33f85f76343a033b21a93aaf47484c84672d8",
+          "bytes": 262188
+        },
+        {
+          "path": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4_LOD1.fbx",
+          "triangles": 12782,
+          "sha256": "559d200ed81c8f8818fab3523da2d0dd37d86ffa2af1a8064be3124adbde2d9b",
+          "bytes": 214844
+        },
+        {
+          "path": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4_LOD1_Win.fbx",
+          "triangles": 264,
+          "sha256": "eff98167dbf405c5718852480f610d57c5d5934fe368ce3ba6eef6882a6f9083",
+          "bytes": 21948
+        },
+        {
+          "path": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "abf24644296e38caad253aaecc1665838f25ef6bd42f38ef1bc22a2f700c2af5",
+          "bytes": 22412
+        },
+        {
+          "path": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4_Win.fbx",
+          "triangles": 264,
+          "sha256": "17cf68bb9f3f0ca429e39412ee798cdd0f6a9dd593c576d5b6f3f1939f77c636",
+          "bytes": 21932
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4_Gls.fbx",
+          "triangles": 0,
+          "sha256": "1670078270d171308878a89096ddbf3f16245e6f1d4bcd8c563ccf2b66436881",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "8fdf941f99fcc977b01645fd44c0e2d08ecc43720d3527b8043b9ba32c7684f8",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadMemorialTower": {
+      "keep": [
+        {
+          "path": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3.fbx",
+          "triangles": 11824,
+          "sha256": "bd965ea77a55e7ff43d3d305acb7f8e922e42dcd39916ada6aabe30f665b8cf6",
+          "bytes": 214476
+        },
+        {
+          "path": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3_LOD1.fbx",
+          "triangles": 4672,
+          "sha256": "c2222223c12535ee6c661ccef7b1b5e67d8c47659c11f0dedbbc611183149d31",
+          "bytes": 103980
+        },
+        {
+          "path": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3_LOD1_Win.fbx",
+          "triangles": 108,
+          "sha256": "07840363011e40662d25e965add760edd9fbad05b07a179c5aad728c8707c664",
+          "bytes": 18172
+        },
+        {
+          "path": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3_LOD2.fbx",
+          "triangles": 1336,
+          "sha256": "bf804cc38a13b4a7a3d13c87d8640a55ed328ebe404acb8e9cd54489dfac8312",
+          "bytes": 49052
+        },
+        {
+          "path": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3_Win.fbx",
+          "triangles": 108,
+          "sha256": "ff1364f35f459b4281464ebe5bf688d76dea912651a29d6539087fb00eb57135",
+          "bytes": 18156
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "cb76b603c7c407d32e98b943c6dc881e7451d8bfd49216acebaba033e3671acd",
+          "bytes": 21196,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "2a03eb35f2d5c8969f66a029ff38f80786e17639d1595a303dab673db68d8cfb",
+          "bytes": 21196,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadMorgan": {
+      "keep": [
+        {
+          "path": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3.fbx",
+          "triangles": 11550,
+          "sha256": "ce8dcd27377e5ef38290e387f661ae48bc969862d2ce76452e7f51866f5dadf1",
+          "bytes": 187404
+        },
+        {
+          "path": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3_LOD1.fbx",
+          "triangles": 8526,
+          "sha256": "f99fb5bb17819c81652114ec640cc6873b717a37837e03af38c93a3b90f9d33f",
+          "bytes": 156860
+        },
+        {
+          "path": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3_LOD1_Win.fbx",
+          "triangles": 164,
+          "sha256": "b30f98b8c9d480e95702075da2c8781808128bfea91d1e112356e6ec150afecb",
+          "bytes": 19628
+        },
+        {
+          "path": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "af8a0b602ff2ef1110bef503c4ba678069d9ed4144da1f129893fc7a15248c9d",
+          "bytes": 22332
+        },
+        {
+          "path": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3_Win.fbx",
+          "triangles": 164,
+          "sha256": "19b8849f2faa879a1a96e7f60dbab3de407d2b2edc518c792686e2da334c5a0f",
+          "bytes": 19612
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "273a4abf3b947e55faf0059a1c9142c3f91f9bd43cfab5ba1e4dedcfbc10fe68",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "c80d3d8206b9a89e0524d8092092f4eadabbc1389d1e3f7d4c09b16f9c637595",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadMorris": {
+      "keep": [
+        {
+          "path": "QuadMorris/fbx/split/NA_QuadMorris_4x4.fbx",
+          "triangles": 15686,
+          "sha256": "009a5b1a80c28309113062466e401f6fdd7a5be10deed71474861f8aa34898ea",
+          "bytes": 239180
+        },
+        {
+          "path": "QuadMorris/fbx/split/NA_QuadMorris_4x4_LOD1.fbx",
+          "triangles": 11438,
+          "sha256": "133a60f60e533f909cc364018d992e555b86b40e0296d73c50c364ee6fdeaa15",
+          "bytes": 197628
+        },
+        {
+          "path": "QuadMorris/fbx/split/NA_QuadMorris_4x4_LOD1_Win.fbx",
+          "triangles": 232,
+          "sha256": "963015681bc4c567898dc18743a74ac25933441ef083e511de9e65b662ff6297",
+          "bytes": 21324
+        },
+        {
+          "path": "QuadMorris/fbx/split/NA_QuadMorris_4x4_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "6b8dd8ae24bd7b813bc135688cc1d20b62b2d06bb63b5b5c4ef26bdd04657a64",
+          "bytes": 22396
+        },
+        {
+          "path": "QuadMorris/fbx/split/NA_QuadMorris_4x4_Win.fbx",
+          "triangles": 232,
+          "sha256": "3a84b9113f22a36c2dd3354f9077be8d0bdcc39dafb4eb2ac54c8a985bcab412",
+          "bytes": 21324
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadMorris/fbx/split/NA_QuadMorris_4x4_Gls.fbx",
+          "triangles": 0,
+          "sha256": "a755ddf890b2bedd1527b76fa411aabc23a26936c2f401b16c74ab847784493f",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadMorris/fbx/split/NA_QuadMorris_4x4_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "445f9d1c25e6f6a2014c8689ae0491eafb699b3b56590b97b16ee07f77310dc5",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadNewYorkAlumni": {
+      "keep": [
+        {
+          "path": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3.fbx",
+          "triangles": 9606,
+          "sha256": "c59ef0664611aa2cffadc5051cd2dc4e6edd9232a9b2a54fca3c0124cc2effa8",
+          "bytes": 160524
+        },
+        {
+          "path": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3_LOD1.fbx",
+          "triangles": 7158,
+          "sha256": "24b8b7a54e86bf76b37f79f70d1ec10b7a2a8c2657620efa1d8e5ce83009c8da",
+          "bytes": 136332
+        },
+        {
+          "path": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3_LOD1_Win.fbx",
+          "triangles": 132,
+          "sha256": "af747d8283dd38bec25b0eeceaed8ac119e2286278295587945cf69d96c3072d",
+          "bytes": 18812
+        },
+        {
+          "path": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "7c1c84f5e4eed74d99ccf463a8ab9285e7cc10a83b5ed9feb46247ec3e1f1b6a",
+          "bytes": 22540
+        },
+        {
+          "path": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3_Win.fbx",
+          "triangles": 132,
+          "sha256": "44fc9f1fe43948c2e7aa621ade05e5001d30f4fb5157f5cad32642a7eed2abd2",
+          "bytes": 18796
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "34ca8d4e1c8da7fba808ac13e08030686735ce01aa70b05b4b89979a73f5daef",
+          "bytes": 21196,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "49d42725753a39b6072f7651ce7093c6b37e2259b934a8480a71d8daeba8438d",
+          "bytes": 21196,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadRodney": {
+      "keep": [
+        {
+          "path": "QuadRodney/fbx/split/NA_QuadRodney_4x3.fbx",
+          "triangles": 12510,
+          "sha256": "4013e8af712111615493a1102a56a22c76b244ed1aa33bde4c32ae8303747513",
+          "bytes": 197404
+        },
+        {
+          "path": "QuadRodney/fbx/split/NA_QuadRodney_4x3_LOD1.fbx",
+          "triangles": 9198,
+          "sha256": "bc4a60e82253eb54e1dff81befcfe6a92f3e61ac01b897030c8b36d62941cd57",
+          "bytes": 164620
+        },
+        {
+          "path": "QuadRodney/fbx/split/NA_QuadRodney_4x3_LOD1_Win.fbx",
+          "triangles": 180,
+          "sha256": "ccea1f06aff31476914947ac5abdf3647af3b90d6742f22ebdf08c861c7417c1",
+          "bytes": 20028
+        },
+        {
+          "path": "QuadRodney/fbx/split/NA_QuadRodney_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "0fc8b48e5806323249a32883328dcc9e60e81196ea69d26a94f7663579ae8451",
+          "bytes": 22380
+        },
+        {
+          "path": "QuadRodney/fbx/split/NA_QuadRodney_4x3_Win.fbx",
+          "triangles": 180,
+          "sha256": "cce1d3af1f089ae4caf22ffbd495e7386c6df04996aa6adf0b0cc1af1dc09a02",
+          "bytes": 20012
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadRodney/fbx/split/NA_QuadRodney_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "25fb6ee2e3d43bbedeb6deec80a705e26427de5a35d452fd25cd52ca6bc54d4f",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadRodney/fbx/split/NA_QuadRodney_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "921626eceafbd407547420dc6432f18b5a0c0ca64ad166c36c2b98fc49302f2d",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadSmith": {
+      "keep": [
+        {
+          "path": "QuadSmith/fbx/split/NA_QuadSmith_3x3.fbx",
+          "triangles": 9726,
+          "sha256": "8b79cd530cbcc62ebd9b91f330d0239a1fa9411071596abc47177619fe253e60",
+          "bytes": 160748
+        },
+        {
+          "path": "QuadSmith/fbx/split/NA_QuadSmith_3x3_LOD1.fbx",
+          "triangles": 7242,
+          "sha256": "75711980c5ea51f6cdcc5429e8a584630b053ea8016d9087ca380f01b4b30c1d",
+          "bytes": 135996
+        },
+        {
+          "path": "QuadSmith/fbx/split/NA_QuadSmith_3x3_LOD1_Win.fbx",
+          "triangles": 134,
+          "sha256": "3f1bbde4744186beb4da6a2d6b16d90bc83526dd344eaf0e6260ee2674229441",
+          "bytes": 18876
+        },
+        {
+          "path": "QuadSmith/fbx/split/NA_QuadSmith_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "9cf675af3f4366228a8f7b5147f2c8ea6fbeccd4d7e349b6ddffd73046a2228c",
+          "bytes": 22284
+        },
+        {
+          "path": "QuadSmith/fbx/split/NA_QuadSmith_3x3_Win.fbx",
+          "triangles": 134,
+          "sha256": "3489de8fd6ee88ecad67e325752b2c40051b480c31efe92926f35ab4c670e337",
+          "bytes": 18860
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadSmith/fbx/split/NA_QuadSmith_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "d3500f50d4119097b7e476affd16e45fec688c6639fc3bdd91fd9529e128fa57",
+          "bytes": 20908,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadSmith/fbx/split/NA_QuadSmith_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "906cbd8697a07dbf77ae6da3ae219ed165ae1bcb7ac73d8634566652fc6f01bb",
+          "bytes": 20924,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadSpeakman": {
+      "keep": [
+        {
+          "path": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3.fbx",
+          "triangles": 20806,
+          "sha256": "f8f0126fe0e733056d0ab38638a3da90da9b71282b5ecc9cd04062596fddd5a3",
+          "bytes": 303276
+        },
+        {
+          "path": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3_LOD1.fbx",
+          "triangles": 15046,
+          "sha256": "e5170b8c7969043c202eec5d0b14d4243e163460c580be5740fe082bdbbd5a49",
+          "bytes": 247756
+        },
+        {
+          "path": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3_LOD1_Win.fbx",
+          "triangles": 316,
+          "sha256": "6548882523ca093000e6947c88768a17cbca389acf1e2fb440b4ac59529972d6",
+          "bytes": 23068
+        },
+        {
+          "path": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "5f5619725a58dbaacc998c03fffe91eba419bea251528e831994337dcf8196c0",
+          "bytes": 22460
+        },
+        {
+          "path": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3_Win.fbx",
+          "triangles": 316,
+          "sha256": "ab232de91c056b3d70e79bad7faf1e62a20efd56e8dcf28838eb0f7d817c2f25",
+          "bytes": 23068
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "1fbe26430fbc6a642ed855d595c3ca7c48b2ca1167269f65fe178701abb57e89",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "d6ad2454b085c939a67af686db0500cff31bf4e03288b205bba74c89cc77721a",
+          "bytes": 21020,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadWard": {
+      "keep": [
+        {
+          "path": "QuadWard/fbx/split/NA_QuadWard_4x4.fbx",
+          "triangles": 14604,
+          "sha256": "3d8ae0970549de27f3e7f126ad5a2c17a12b440df6674ef19ee8a51b3b79b534",
+          "bytes": 237596
+        },
+        {
+          "path": "QuadWard/fbx/split/NA_QuadWard_4x4_LOD1.fbx",
+          "triangles": 10680,
+          "sha256": "2dc8b9bc732ca6399ac1fe019c0b20d7a2ee683cdac20caf0f882a5a7ab43678",
+          "bytes": 198412
+        },
+        {
+          "path": "QuadWard/fbx/split/NA_QuadWard_4x4_LOD1_Win.fbx",
+          "triangles": 214,
+          "sha256": "af7bb455dd91de39c4a49e1cd1c62ae1ad2ff2a44d576e235783fbac90580640",
+          "bytes": 20764
+        },
+        {
+          "path": "QuadWard/fbx/split/NA_QuadWard_4x4_LOD2.fbx",
+          "triangles": 328,
+          "sha256": "cd61c6bac9ffe4f1be450a34c9d6ce20d8fe27ffd541a16de6da1ff18c0b1fb3",
+          "bytes": 28300
+        },
+        {
+          "path": "QuadWard/fbx/split/NA_QuadWard_4x4_Win.fbx",
+          "triangles": 214,
+          "sha256": "aba4af910cebf7e74e5f3aa8e66b1ff6a8d41b84f108b0d464d7f16f69c38a41",
+          "bytes": 20748
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadWard/fbx/split/NA_QuadWard_4x4_Gls.fbx",
+          "triangles": 0,
+          "sha256": "db332ed8a205001fc448da7e9a44473d11be8f1d792eebe8214e758d30e92d8a",
+          "bytes": 20876,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadWard/fbx/split/NA_QuadWard_4x4_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "b34fa8d9343ccacc409f40812989778189f8917ac0a4b5c799cb05563efb6b29",
+          "bytes": 20876,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadWarwick": {
+      "keep": [
+        {
+          "path": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3.fbx",
+          "triangles": 13886,
+          "sha256": "979f17bb793e45a57a7c4620030fbb7640b1cb0227722026fe559176cfa811bb",
+          "bytes": 217116
+        },
+        {
+          "path": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3_LOD1.fbx",
+          "triangles": 10178,
+          "sha256": "c9ee4049699e5637a0e6f6f9edb36e2472d039fd21ac7cc65e2b2f9b0699e85d",
+          "bytes": 179996
+        },
+        {
+          "path": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3_LOD1_Win.fbx",
+          "triangles": 202,
+          "sha256": "fcf3cb947c2ae2dfc3039f10b419430ebdd574062cfce75dc30270ab508cf048",
+          "bytes": 20556
+        },
+        {
+          "path": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "689f99eaf250f54389fa41871f2727e2910149b1a508bdb6609854e546f174c2",
+          "bytes": 22428
+        },
+        {
+          "path": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3_Win.fbx",
+          "triangles": 202,
+          "sha256": "f02275a134a2dc3b2e2c0218b11d8ff6e525ed5f5f7de14505972afa74a55398",
+          "bytes": 20540
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "3a66295dcc0c0bc69bc5d5b9b38db8da684cb4615f56657e4bb8b9cb7ed1e389",
+          "bytes": 20972,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "eca64c661ac461dc057931260d655f79f9972959010df1db054373d6f558ec64",
+          "bytes": 20988,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "QuadWilson": {
+      "keep": [
+        {
+          "path": "QuadWilson/fbx/split/NA_QuadWilson_3x3.fbx",
+          "triangles": 10566,
+          "sha256": "dc50d94f317daa2b6d74a7c34da225d84cddf9dcb779f0f955e401f59dc02058",
+          "bytes": 172604
+        },
+        {
+          "path": "QuadWilson/fbx/split/NA_QuadWilson_3x3_LOD1.fbx",
+          "triangles": 7830,
+          "sha256": "e4e6f67f6fc9d9a13ce786dfda4abf0b75fbe0cac2ee5242a4f2ab9095bdc1e3",
+          "bytes": 145212
+        },
+        {
+          "path": "QuadWilson/fbx/split/NA_QuadWilson_3x3_LOD1_Win.fbx",
+          "triangles": 148,
+          "sha256": "ae252e4bbfbf1da30c9a1689e6832ff183ae9c5fda153b5960c98b17230b001f",
+          "bytes": 19228
+        },
+        {
+          "path": "QuadWilson/fbx/split/NA_QuadWilson_3x3_LOD2.fbx",
+          "triangles": 40,
+          "sha256": "f7c7e368471f16a98cd8232bbdbbd1c068ff18686b5ee7100a31d38efa4b1163",
+          "bytes": 22332
+        },
+        {
+          "path": "QuadWilson/fbx/split/NA_QuadWilson_3x3_Win.fbx",
+          "triangles": 148,
+          "sha256": "a3265e31e4c9872b8bff60a1e5bebafbd3b94122e74f4cb13c11ff302b71c3b0",
+          "bytes": 19228
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "QuadWilson/fbx/split/NA_QuadWilson_3x3_Gls.fbx",
+          "triangles": 0,
+          "sha256": "e527ea7f35a3effc1d8333bcf325cefc7650bb71858a54e8767a8246f9aa1a38",
+          "bytes": 20940,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "QuadWilson/fbx/split/NA_QuadWilson_3x3_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "89836fbf994490a53fd24a003a2aaf8f1a3e29734e62e10acdd3c3ca774525ca",
+          "bytes": 20956,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "SteinbergDietrich": {
+      "keep": [
+        {
+          "path": "SteinbergDietrich/fbx/split/NA_SteinbergDietrich_16x10.fbx",
+          "triangles": 24036,
+          "sha256": "3262637f7056a3e8b405c23df283cb6155ad303a3e36baf577af53c6724631a1",
+          "bytes": 317196
+        },
+        {
+          "path": "SteinbergDietrich/fbx/split/NA_SteinbergDietrich_16x10_LOD1.fbx",
+          "triangles": 10176,
+          "sha256": "07a5e5ba8f372e1ec791043c6b910c4b487286750c043ea66c70b3652a959148",
+          "bytes": 162300
+        },
+        {
+          "path": "SteinbergDietrich/fbx/split/NA_SteinbergDietrich_16x10_LOD1_Win.fbx",
+          "triangles": 326,
+          "sha256": "cb2dc689b44aed98371aaa1a04ecaa76cb17435859bc7bc76072c4c7f3c38ec3",
+          "bytes": 22588
+        },
+        {
+          "path": "SteinbergDietrich/fbx/split/NA_SteinbergDietrich_16x10_LOD2.fbx",
+          "triangles": 72,
+          "sha256": "2f82091c956a962df6b8f6218e8410eafe6410d826cc5964c92947e4550be8bd",
+          "bytes": 23084
+        },
+        {
+          "path": "SteinbergDietrich/fbx/split/NA_SteinbergDietrich_16x10_Win.fbx",
+          "triangles": 326,
+          "sha256": "d74d27b9ef566ab656eb5bab1c4f05b5fcdf8f1c6eaa589badc1d41691d92ac1",
+          "bytes": 22572
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "SteinbergDietrich/fbx/split/NA_SteinbergDietrich_16x10_Gls.fbx",
+          "triangles": 0,
+          "sha256": "358d62a56f31ff48d24284fcb74dcbafcde2eb6aece0a7359a1e5703380fde65",
+          "bytes": 21244,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "SteinbergDietrich/fbx/split/NA_SteinbergDietrich_16x10_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "e515c9b28abbc8c7b305ef2bcd29795c14ca4d95b9ccbeab0e37604d7824cc19",
+          "bytes": 21244,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "VanPeltLibrary": {
+      "keep": [
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6.fbx",
+          "triangles": 97776,
+          "sha256": "5831b9bb79bf36cf218c7ad7125d13b009330b084da118259d161fff92429bee",
+          "bytes": 1185852
+        },
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_LOD1.fbx",
+          "triangles": 45720,
+          "sha256": "8ced534e83b6636a2b49ccbb849d671567ebd6ff3fa2801495e179c085184d40",
+          "bytes": 601740
+        },
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_LOD1_Win.fbx",
+          "triangles": 1444,
+          "sha256": "b451ee1d675dfcd5082b9558a6122bef705d05ce7f3b41185ab97a232a7e216e",
+          "bytes": 48252
+        },
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_LOD2.fbx",
+          "triangles": 48,
+          "sha256": "0a9c0209d9a2834ae9746e6e63c571e0863d5c68b3eff15dbb74922f2762789a",
+          "bytes": 22636
+        },
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_Win.fbx",
+          "triangles": 1444,
+          "sha256": "15696f0bdb8dab29d83df0954a0bb733e4706ded483626c3bc32cb464200d09b",
+          "bytes": 48236
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_Gls.fbx",
+          "triangles": 0,
+          "sha256": "3bfce8f7a66169114b4ada3c9caab750a1c5be8d9bd8ac495868badd649f3ba2",
+          "bytes": 21116,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "970d0728e3a698541a82b765d12e42c4183daa292f2146646451cd5abc0e5fb9",
+          "bytes": 21116,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    },
+    "WistarInstitute": {
+      "keep": [
+        {
+          "path": "WistarInstitute/fbx/split/NA_WistarInstitute_17x8.fbx",
+          "triangles": 35696,
+          "sha256": "d6ee666fb3e738bdcd8ab3d2ed9a48056d32051ad142bc528fbd7d4cc00a12eb",
+          "bytes": 464572
+        },
+        {
+          "path": "WistarInstitute/fbx/split/NA_WistarInstitute_17x8_LOD1.fbx",
+          "triangles": 16040,
+          "sha256": "08968837fbfc8669f9902004d0a002a84133fb58861b4b416f5f1237b09d3c69",
+          "bytes": 239900
+        },
+        {
+          "path": "WistarInstitute/fbx/split/NA_WistarInstitute_17x8_LOD1_Win.fbx",
+          "triangles": 528,
+          "sha256": "e58df004d8ccc3f23176f38f0edaaea567a355c121c06d692b0fe50354d345a6",
+          "bytes": 27452
+        },
+        {
+          "path": "WistarInstitute/fbx/split/NA_WistarInstitute_17x8_LOD2.fbx",
+          "triangles": 36,
+          "sha256": "dee11affdd028dc8b207a8e58815740e8a7ebce694a815341c6e1e7f88b53cfc",
+          "bytes": 22348
+        },
+        {
+          "path": "WistarInstitute/fbx/split/NA_WistarInstitute_17x8_Win.fbx",
+          "triangles": 528,
+          "sha256": "3b77a49679d78834009fd04b8b0b3ace454d5857b7b2913f633a815024428e0a",
+          "bytes": 27436
+        }
+      ],
+      "skip_only_for_import": [
+        {
+          "path": "WistarInstitute/fbx/split/NA_WistarInstitute_17x8_Gls.fbx",
+          "triangles": 0,
+          "sha256": "3d020c82f1ff99ac1faebc6f2c096e22017120bed6e578c9092cf142d4d23a54",
+          "bytes": 21148,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "WistarInstitute/fbx/split/NA_WistarInstitute_17x8_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "23f441bd57f42855ee78a1a978dc84c293bbf29c866afe1a9d51c557544e90e7",
+          "bytes": 21148,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    }
+  }
+}

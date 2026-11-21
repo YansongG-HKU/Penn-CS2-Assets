@@ -1,0 +1,30 @@
+{
+  "datum": "EPSG:26918",
+  "corner_px_top_left_coordinates": [
+    [
+      302,
+      285
+    ],
+    [
+      419,
+      300
+    ],
+    [
+      401,
+      417
+    ],
+    [
+      286,
+      401
+    ]
+  ],
+  "estimated_visual_pick_uncertainty_px": 4,
+  "m_per_pixel": 0.15777449899076207,
+  "provisional_edge_lengths_m": [
+    18.610704320021586,
+    18.676795810521593,
+    18.318835555815408,
+    18.475117623329204
+  ],
+  "note": "Manually read from the 2025 740px ortho top-down grid, one central visible squared slope envelope only. Broad sloped roof clearly distinct from outer dark roof/attached hipped volumes. Tall rooftop parallax/roof lean and adjacent parapets not corrected. A corresponded model feature may not be the entire LOD2 octagon and must be identified against plan/section, not rescaled."
+}

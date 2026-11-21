@@ -1,0 +1,51 @@
+{
+  "notice": "First 64KiB only; no 2025 vertical CRS in header. Numeric cross-epoch check, not GPS/vertical-datum certification. Covered vicinity of west only, not east terrace or roof equipment.",
+  "results": {
+    "west middle roof": {
+      "local_box": [
+        -38,
+        -24,
+        7,
+        17
+      ],
+      "raw_2025_class": 6,
+      "available_2025": 420,
+      "within_0.22_m_of_2022": 419,
+      "median_2022": 42.049999999999955,
+      "median_2025_assuming_US_survey_foot": 42.03810007620016,
+      "2025_minus_2022_p10_50_90_m": [
+        -0.09864719329429335,
+        -0.011899923799795431,
+        0.07311455422911307
+      ],
+      "paired_horizontal_offset_p10_50_90_m": [
+        0.03242147130129036,
+        0.08024933145836383,
+        0.13922902142959573
+      ]
+    },
+    "north paved street": {
+      "local_box": [
+        -38,
+        -24,
+        28.55,
+        30.0
+      ],
+      "raw_2025_class": 2,
+      "available_2025": 112,
+      "within_0.22_m_of_2022": 103,
+      "median_2022": 19.779999999999973,
+      "median_2025_assuming_US_survey_foot": 19.751079502159005,
+      "2025_minus_2022_p10_50_90_m": [
+        -0.055555499111039096,
+        -0.02597663195329858,
+        0.0006202692405231739
+      ],
+      "paired_horizontal_offset_p10_50_90_m": [
+        0.040285001253774995,
+        0.09574568482676601,
+        0.19096115936230654
+      ]
+    }
+  }
+}

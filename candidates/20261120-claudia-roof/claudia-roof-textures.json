@@ -1,0 +1,72 @@
+[
+  {
+    "file": "NA_ClaudiaCohenHall_7x5_LOD2_BaseColor.png",
+    "before_sha256": "c312301e505d9abae85bc0b53f81969b5d94317ad77eb62d9cd408514d1d66b3",
+    "after_sha256": "6f949de617bb8d7147ad88384b1cbbd335d9d9ddcb4d602efc697acb53e4fd0b",
+    "pixels_changed": 26785,
+    "bytes_before": 1211545,
+    "bytes_after": 1200981,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "unchanged_outside_patch": true
+  },
+  {
+    "file": "NA_ClaudiaCohenHall_7x5_LOD2_ControlMask.png",
+    "before_sha256": "fb170ff0355e7250bdae90c5eca796a6a27b6b9f49e91addf8fc4e5b3e774941",
+    "after_sha256": "c5ae40696e10205593ec6e2f3b04afdd549fc10e88bf7a8a0e5c96e0691506d8",
+    "pixels_changed": 2717,
+    "bytes_before": 103114,
+    "bytes_after": 51104,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "unchanged_outside_patch": true
+  },
+  {
+    "file": "NA_ClaudiaCohenHall_7x5_LOD2_Emissive.png",
+    "before_sha256": "bf4d78c42b20fba03c7845646ae44c42847e6ffdf6d95a0f0a35a0bd126c8888",
+    "after_sha256": "44fb082d68f8d97462aaabc52c295f8dbe6238129d05d1fac8363911790c1db5",
+    "pixels_changed": 0,
+    "bytes_before": 30661,
+    "bytes_after": 11269,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "unchanged_outside_patch": true
+  },
+  {
+    "file": "NA_ClaudiaCohenHall_7x5_LOD2_MaskMap.png",
+    "before_sha256": "8fa8f0a7d31cd9e6c3ff84656055a47cd0c3160fb6acdcdf4b0b0e644cceb0c5",
+    "after_sha256": "359c822349d849beca83195745b3eac61d32acdf3642504c57d34ac9a548e992",
+    "pixels_changed": 2717,
+    "bytes_before": 112534,
+    "bytes_after": 106844,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "unchanged_outside_patch": true
+  },
+  {
+    "file": "NA_ClaudiaCohenHall_7x5_LOD2_Normal.png",
+    "before_sha256": "dd10d86f9bd1791dcc9e262a347dd65234c52898057e773c6288fb827aad701b",
+    "after_sha256": "45eaed1e14a0c73e75b1386baafc1b10ef0b70f7e264b0fd827868dab4afd4b6",
+    "pixels_changed": 19668,
+    "bytes_before": 713563,
+    "bytes_after": 696906,
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "mode": "RGB",
+    "unchanged_outside_patch": true
+  }
+]

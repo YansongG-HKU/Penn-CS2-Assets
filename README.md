@@ -25,7 +25,6 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Quad: McClelland | [QuadMcClelland](QuadMcClelland) | NA_QuadMcClelland_6x3 | 6x3 |
 | Quad: Ward | [QuadWard](QuadWard) | NA_QuadWard_4x4 | 4x4 |
 | Quad: Fitler | [QuadFitler](QuadFitler) | NA_QuadFitler_3x3 | 3x3 |
-| Quad: MemorialTower | [QuadMemorialTower](QuadMemorialTower) | NA_QuadMemorialTower_3x3 | 3x3 |
 | Quad: McKean | [QuadMcKean](QuadMcKean) | NA_QuadMcKean_5x4 | 5x4 |
 | Quad: BaldwinW | [QuadBaldwinW](QuadBaldwinW) | NA_QuadBaldwinW_3x3 | 3x3 |
 | Quad: BaldwinE | [QuadBaldwinE](QuadBaldwinE) | NA_QuadBaldwinE_3x3 | 3x3 |
@@ -63,3 +62,9 @@ Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `se
 - Footprints/heights: (c) OpenStreetMap contributors (ODbL) where cited; Penn Facilities, Wikipedia, NRHP, SAH Archipedia.
 - All geometry and textures are procedurally generated for this project (no third-party meshes unless noted).
 - Unofficial fan project; not affiliated with the University of Pennsylvania.
+
+## Audit and repository hygiene (2026-11-18)
+
+See [file classification, candidate version order and measured package sizes](_audit/20261118/repository-hygiene.md). The inventory contains **46 unique assets**, including Quad segments/towers; it is not a count of independent buildings.
+
+PR #1 currently publishes audit/hygiene text only. Refined model binaries and canonical FBX synchronization remain pending authenticated Git LFS upload; CS2 Editor and in-game validation are not complete. Do not treat the existing main assets or this documentation as a fully validated release.

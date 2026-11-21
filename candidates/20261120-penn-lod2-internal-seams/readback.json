@@ -1,0 +1,1200 @@
+{
+  "NA_IrvineAuditorium_7x7_LOD2.fbx": {
+    "input_sha256": "d936739218c7a3e133e63340d76b49ab6a64c2f7cecb711a9797f6d19161757e",
+    "output_sha256": "0596ce84c6646952000bd9876f672079cc09595bd7a67846c6910d7104d2610c",
+    "removed_opposite_cap_faces": [
+      36,
+      41,
+      90,
+      91,
+      92,
+      93,
+      94,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "old_triangles": 108,
+    "new_triangles": 96,
+    "welded_vertex_count": 8,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 144
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 64,
+    "after_vertices": 56,
+    "after_edges": 144,
+    "bounds_m": [
+      [
+        -28.0,
+        -28.0,
+        -0.05000211298465729
+      ],
+      [
+        28.0,
+        28.0,
+        56.5
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.573300733951135e-05
+  },
+  "NA_QuadAshhurst_3x3_LOD2.fbx": {
+    "input_sha256": "f69462575e11121358edc32119af30f046b9a02311cd8b1eb25b3e9d9dcf8a99",
+    "output_sha256": "8c52a38ab5a7b577a58982359d0409dfee0d96678d3cc8978a4d696176d3887d",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        19.65999984741211
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 6.294137599684109e-05
+  },
+  "NA_QuadBaird_3x3_LOD2.fbx": {
+    "input_sha256": "e482478ee51349ff93ee4bea3b5fc67700ea92c4b3c133cf9fc95ebbf1a5a087",
+    "output_sha256": "704e583135d7b0abbdc615ee4a4363fb95647560d58d19cea2a01b99c03b44f9",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.450000762939453
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 6.1490070933189e-05
+  },
+  "NA_QuadBaldwinE_3x3_LOD2.fbx": {
+    "input_sha256": "8e246a862fbdc11da2ce0e65e065fdfbef589aeb8457cbe286f33c3001fc1125",
+    "output_sha256": "7081b21d3d9464714a3c4aff0ae6dee464bcfeb9239879272844d4709c82948b",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        19.360000610351562
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.5591741116305556e-05
+  },
+  "NA_QuadBaldwinW_3x3_LOD2.fbx": {
+    "input_sha256": "e6ef21a761ffee0324d8c6abbc92c29b737fd660c574a21f2fd4016bef36fd76",
+    "output_sha256": "6ef0ae8f5bcfe92381e94c53c81fc771636f7596fb5b5b060226b40cd83a53d8",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.639999389648438
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 2.851351893094047e-05
+  },
+  "NA_QuadBishopWhite_4x3_LOD2.fbx": {
+    "input_sha256": "969043f87bcee53d61807025765477f4bb40ec15469d4dcb3a458eff18a2fdb7",
+    "output_sha256": "9f181bd5c36b8327072f1f4e693f86e3b2d8ada5167cedae318adafad6cfa1cd",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        19.6200008392334
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.488016018374814e-05
+  },
+  "NA_QuadBodine_3x3_LOD2.fbx": {
+    "input_sha256": "5c3f66d0ccf8aa06c4ba0dc70304b29a0626c5221fe077ab5f0431ed5aea7cfe",
+    "output_sha256": "3cc358dd21f8d8c54452e2e978131e0b769ade3fb02bb5814b95e6d1e2df5127",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.190000534057617
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 8.239132713082174e-05
+  },
+  "NA_QuadBrooks_4x3_LOD2.fbx": {
+    "input_sha256": "81b2484ebd9adebb97973e38021ae788b05962337502b104f71b63cf1dc870ee",
+    "output_sha256": "1d036c8f374b552b85a3a4781c3d97cbf59b7513a7a4962599711bda3402849e",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        20.229999542236328
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 6.519966938438783e-05
+  },
+  "NA_QuadButcher_5x3_LOD2.fbx": {
+    "input_sha256": "5f860310000ce3e693cf98621a11917150b2ea4c4d25d6cbcfd2fdba29143bee",
+    "output_sha256": "2e166f97b6c7405e0fb676e7c88ce3775c08123ca25b8b2d151106226d13d7e3",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -20.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        20.0,
+        12.0,
+        19.6200008392334
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.485154518409856e-05
+  },
+  "NA_QuadCarruth_3x3_LOD2.fbx": {
+    "input_sha256": "5941cc42c028cc6e19deab67ed8dab125ce67675923ff848d7a90f4814a5dde9",
+    "output_sha256": "072cefcc74aa9b3fb8cc216d866528018b0c5bcc2674b0084c8059f3939dd865",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        19.290000915527344
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.925682777451658e-05
+  },
+  "NA_QuadChestnut_3x3_LOD2.fbx": {
+    "input_sha256": "c1a956a3e0f1c2d9ba209ae6907e20ac7b21f9e97ba8ffe1a92eb1ef5c2b7c9c",
+    "output_sha256": "c1829b3e7b75ce709ac758a39d99a0f17356666784b6f6420dfbe66844287ec5",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.489999771118164
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 3.079784165619137e-05
+  },
+  "NA_QuadClassOf28_3x3_LOD2.fbx": {
+    "input_sha256": "36508119f3c82f39abe141060023b7b2a79348b8e98a75402acbfd539ecf6ece",
+    "output_sha256": "4a503f3b8d4f62788b447cc029039b590d09bb6d141aafedee6254e2e0864480",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.3799991607666
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.173363900735734e-05
+  },
+  "NA_QuadCleemann_4x3_LOD2.fbx": {
+    "input_sha256": "820909090f8efa98371dd70f64ea8c99b7826ec0539a9d8e0c881dd41f147b5e",
+    "output_sha256": "d43c1b2b0899c048e40e95bd643a700348e6bfdf3720a2b3f7a1a11c879428b3",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        18.309999465942383
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 8.26552461772115e-05
+  },
+  "NA_QuadCoxe_4x3_LOD2.fbx": {
+    "input_sha256": "7192d27a9a82530ba0623f78801225ae4c2888c39e44d16cbf92ed9101ad79e4",
+    "output_sha256": "485b4e69d4c5f3b5147878b9f5e0f9a89ab2bacd36dfdfc5cc0f277a8a8a6eea",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        19.65999984741211
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.63755338212958e-05
+  },
+  "NA_QuadCraig_3x3_LOD2.fbx": {
+    "input_sha256": "e0e72176871235fd6b00408a3e2a58d39b91ab7559c7a2b56cd5325e48b192fd",
+    "output_sha256": "5e19e6674a300775af4f046f8f11d0205e0590b27ca7f719306b376c090b7833",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.860000610351562
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 4.358905236727707e-05
+  },
+  "NA_QuadEFSmith_4x3_LOD2.fbx": {
+    "input_sha256": "82b0b6d22fd3a4550f5a3f0d3c55faa624dd5f569ba46afe6fdf752ce8bf59c9",
+    "output_sha256": "8ea8c65d214f4f46aa1328791d7227aa30db5c4645a8db0d83a6ee3b7e571b68",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        19.59000015258789
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.946183978934525e-05
+  },
+  "NA_QuadFitler_3x3_LOD2.fbx": {
+    "input_sha256": "61fd6546ebb6a5b18dd9c1c61d83b8e9592da43b29f4038017dea72a70218ad2",
+    "output_sha256": "09639797789c7674dcb218ab2da989f1424b5e9525a64795fddf30ddb9171976",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.3799991607666
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 6.19335928548473e-05
+  },
+  "NA_QuadFoerderer_4x3_LOD2.fbx": {
+    "input_sha256": "134bce17e686b41dbf03ee1beec2c37f25da4b96464191af338b2c28fa1c8c08",
+    "output_sha256": "0cadf79fba7141865a1f22ef5b602952525f2bc6a3e65440162a6dc1abf938f7",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        18.799999237060547
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 9.011151944662848e-05
+  },
+  "NA_QuadFranklin_4x3_LOD2.fbx": {
+    "input_sha256": "f2191933e6ca4640d984cea893b287fa9a2f634779f99f75ffa4688d8f25deaf",
+    "output_sha256": "e98cd9f519d5f4a1d8c4e22fe56a8c916524b21a5d5a38193e928676d0bdda95",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        20.229999542236328
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 6.518525525222246e-05
+  },
+  "NA_QuadHopkinson_3x3_LOD2.fbx": {
+    "input_sha256": "548b30c1ac639533e16332e4f7908d469102a3f177c76b8a05a7f83795c71614",
+    "output_sha256": "6b9261012f304dec5c7452d7c1ce6c601f98d9f1ccd9a41e88dc0f8231a30194",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.40999984741211
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 4.485252489678296e-05
+  },
+  "NA_QuadLeidy_4x3_LOD2.fbx": {
+    "input_sha256": "d71b215d9cedd8e3877776b20e0f5a4f2694685e6f6fcbf9821df48011a9726f",
+    "output_sha256": "3f1ec9f7181c8a2430a92403952791f45ce8de2f5fa29b19922f2762bf38c72f",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        20.190000534057617
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 8.234187521493905e-05
+  },
+  "NA_QuadLippincott_3x3_LOD2.fbx": {
+    "input_sha256": "8d0c7c6444be3b098c3eb0bdb6c8c9242091fe12103bcb03a8b7c4313148f760",
+    "output_sha256": "02c67b0e289ea95a7c5010e1d95c93ab466e16c0261ca3f47637877061fcae4d",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.34000015258789
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 3.429878318173301e-05
+  },
+  "NA_QuadMagee_4x3_LOD2.fbx": {
+    "input_sha256": "9bda72adf5c302aa4f01bcd496ffd3b11c82e075715a9f1605fc44332ef357bb",
+    "output_sha256": "664e835540a2254571e23ce20fec669e6b2dc891151cef7299da070f3c62403a",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        20.81999969482422
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.154380049531168e-05
+  },
+  "NA_QuadMcKean_5x4_LOD2.fbx": {
+    "input_sha256": "7abcfcd3e310e73281877d00bc1600a3cb54e65d0408778fa4442f13639a9cab",
+    "output_sha256": "b3abd1241f0d8395bf856b0ac4574b0049150698fbc93466f9be862e419ddd27",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -20.0,
+        -16.0,
+        -0.05000120773911476
+      ],
+      [
+        20.0,
+        16.0,
+        22.780000686645508
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.46775079173772e-05
+  },
+  "NA_QuadMemorialTower_3x3_LOD2.fbx": {
+    "input_sha256": "69296703693dade481712b296df20aefb19c95737f57c5fd551455c9b4287bc9",
+    "output_sha256": "8c455da99603e7a459d7bf2ec04ec6a7131f367620a4c6fd1379c5525fe7fdac",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      84,
+      87
+    ],
+    "old_triangles": 160,
+    "new_triangles": 156,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 234
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 100,
+    "after_vertices": 96,
+    "after_edges": 234,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        38.5
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 8.101508507994058e-05
+  },
+  "NA_QuadMorgan_4x3_LOD2.fbx": {
+    "input_sha256": "caf7d65f13d0d96b1c693ddb9b1f6bbf773eb047fe26278c91a8e62de8605fb3",
+    "output_sha256": "b5aae1b5d8f64bc415f2908fdbfaf5a8a4e36bf490bfa69e8d6e2f14b7135ecc",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        18.84000015258789
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.400012668611938e-05
+  },
+  "NA_QuadMorris_4x4_LOD2.fbx": {
+    "input_sha256": "9370c11b2b24e294d98b2f6c7016b9038782b4be128ef21c8eb6537d75c0c52e",
+    "output_sha256": "85a51fa0bdc227cd23c21fe57b42aee6adfd0355bf075d0f3062ed75ff72ff21",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -16.0,
+        -0.05000120773911476
+      ],
+      [
+        16.0,
+        16.0,
+        21.690000534057617
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.9172254054242015e-05
+  },
+  "NA_QuadNewYorkAlumni_3x3_LOD2.fbx": {
+    "input_sha256": "99272da4a79451346a9327bf81d5be040af37b66c353298f7d79de8b45982cd3",
+    "output_sha256": "145010fd48aef7c1552b16509c337e80a807818b0dc45b355e8435b019ee789d",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        19.18000030517578
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.821391465447898e-05
+  },
+  "NA_QuadRodney_4x3_LOD2.fbx": {
+    "input_sha256": "c63fcf3196f9470c973586237e250cccb6c5d7d5b8af21ed600cf711787611f2",
+    "output_sha256": "5bd5adc88e2f65c1f5bae37dae8d9aed0950b9b1834a483d265285bdddfe7061",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        20.40999984741211
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 9.083544974958608e-05
+  },
+  "NA_QuadSmith_3x3_LOD2.fbx": {
+    "input_sha256": "5e99fb95e8b54819dc6b48b48e9bcf9a0dae43f73d050b76344a7ff3d7ed0801",
+    "output_sha256": "34c67b915cced2893fa9f7987dc49d91a36342be77a59249b4287471053474d9",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        20.260000228881836
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 8.233371484369928e-05
+  },
+  "NA_QuadSpeakman_7x3_LOD2.fbx": {
+    "input_sha256": "bb888a3a4842c1a299e842a541abc499e1cc16b1e75130980efe175537a18280",
+    "output_sha256": "fd66e451784a4ded277f856aacf0bdf3af331ebb8410d12a9a84a7c3448b88e8",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -28.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        28.0,
+        12.0,
+        20.860000610351562
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.679722972700178e-05
+  },
+  "NA_QuadWard_4x4_LOD2.fbx": {
+    "input_sha256": "9a374d5dd32c16878db4de5eb428c28c7849dd5ec8623d6a99094c99c4e9ea70",
+    "output_sha256": "0ed9bb5316eb1df2688b75eb037fc57987cb0479583f383267959e136e39f91f",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      46,
+      49
+    ],
+    "old_triangles": 68,
+    "new_triangles": 64,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 96
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 44,
+    "after_vertices": 40,
+    "after_edges": 96,
+    "bounds_m": [
+      [
+        -16.0,
+        -16.0,
+        -0.05000120773911476
+      ],
+      [
+        16.0,
+        16.0,
+        23.0
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 3.6837611428915615e-05
+  },
+  "NA_QuadWarwick_4x3_LOD2.fbx": {
+    "input_sha256": "5535be292fb7dbe41a6c9ce490cfe1fe27560142f2da306469e854dc1f8a809c",
+    "output_sha256": "3fa993c8b337067653741cbc1d5b34d7b4317dc8ab7e5f3c6bcc466fe6994d9a",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -16.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        16.0,
+        12.0,
+        19.549999237060547
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.473458094990214e-05
+  },
+  "NA_QuadWilson_3x3_LOD2.fbx": {
+    "input_sha256": "c94bfedee2769465de8c7abc60bd225b0b34e1941b5b4ee17b3307d84dcf92a0",
+    "output_sha256": "e8199e68ce53f7919a5e2c8c9e0251288e577c18ab5158912cce31ba6aea9589",
+    "removed_opposite_cap_faces": [
+      16,
+      21,
+      36,
+      39
+    ],
+    "old_triangles": 40,
+    "new_triangles": 36,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 54
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 28,
+    "after_vertices": 24,
+    "after_edges": 54,
+    "bounds_m": [
+      [
+        -12.0,
+        -12.0,
+        -0.050000905990600586
+      ],
+      [
+        12.0,
+        12.0,
+        19.809999465942383
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 8.009132808553657e-05
+  }
+}

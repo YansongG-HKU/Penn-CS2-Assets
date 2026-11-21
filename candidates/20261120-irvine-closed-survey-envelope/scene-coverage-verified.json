@@ -1,0 +1,107 @@
+{
+  "source_record_extent": [
+    819137.7319165688,
+    822407.4249994273,
+    71493.25738315076,
+    73870.92107584668
+  ],
+  "official_layer_feature_count": 859,
+  "declared_epsg": "2272",
+  "candidates_tested": {
+    "Irvine": {
+      "2272": {
+        "xy_bounds": [
+          2685176.904136933,
+          235219.5439765076,
+          2685410.3071399713,
+          235452.94697953542
+        ],
+        "records": 0,
+        "has_layer_extent_overlap": false
+      },
+      "32129": {
+        "xy_bounds": [
+          818443.5572680517,
+          71695.06039416029,
+          818514.6986456604,
+          71766.20177176593
+        ],
+        "records": 0,
+        "has_layer_extent_overlap": false
+      }
+    },
+    "Van_Pelt": {
+      "2272": {
+        "xy_bounds": [
+          2684653.053181478,
+          235607.63079491013,
+          2685463.357744155,
+          236370.2590307404
+        ],
+        "records": 0,
+        "has_layer_extent_overlap": false
+      },
+      "32129": {
+        "xy_bounds": [
+          818283.8871774887,
+          71813.34949298759,
+          818530.8685021554,
+          72045.79904416775
+        ],
+        "records": 0,
+        "has_layer_extent_overlap": false
+      }
+    }
+  },
+  "sample_objects": [
+    [
+      "PHIL0001.flt",
+      [
+        821624.2629010172,
+        821694.2747422713,
+        71721.20628632534,
+        71867.98933955785,
+        9.641364492957337,
+        43.701674750956
+      ],
+      "GEOMETRYCOLLECTION"
+    ],
+    [
+      "PHIL0002.flt",
+      [
+        821557.2963238229,
+        821633.1410838662,
+        71729.65868077225,
+        71799.82843088465,
+        10.594795612080429,
+        54.3719090921375
+      ],
+      "GEOMETRYCOLLECTION"
+    ],
+    [
+      "PHIL0003.flt",
+      [
+        821567.9302110291,
+        821635.6657601156,
+        71802.80218785538,
+        71878.63895651557,
+        11.131683623415675,
+        35.70800228673683
+      ],
+      "GEOMETRYCOLLECTION"
+    ],
+    [
+      "PHIL0004.flt",
+      [
+        821435.0312596502,
+        821562.9850008666,
+        71825.16537092101,
+        71895.61352376529,
+        11.089549437012483,
+        35.84436514936627
+      ],
+      "GEOMETRYCOLLECTION"
+    ]
+  ],
+  "note": "Raw XY are of metric state-plane order of magnitude while layer SRS is 2272 feet, but both CRS interpretations exclude Irvine and Van Pelt. No Z/datum conclusion for these out-of-coverage buildings."
+}

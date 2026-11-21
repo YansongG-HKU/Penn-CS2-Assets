@@ -1,0 +1,68 @@
+{
+  "base-front": {
+    "silhouette_delta_px": 0,
+    "joint_foreground_px": 81623,
+    "joint_foreground_q50_q95_q99_max_channel_delta": [
+      0.0,
+      0.0,
+      0.0,
+      2.0
+    ],
+    "joint_foreground_gt12_px": 0
+  },
+  "base-rear": {
+    "silhouette_delta_px": 0,
+    "joint_foreground_px": 85088,
+    "joint_foreground_q50_q95_q99_max_channel_delta": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "joint_foreground_gt12_px": 0
+  },
+  "base-aerial": {
+    "silhouette_delta_px": 0,
+    "joint_foreground_px": 116442,
+    "joint_foreground_q50_q95_q99_max_channel_delta": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "joint_foreground_gt12_px": 0
+  },
+  "lit-front": {
+    "silhouette_delta_px": 0,
+    "joint_foreground_px": 81549,
+    "joint_foreground_q50_q95_q99_max_channel_delta": [
+      0.0,
+      0.0,
+      0.0,
+      10.0
+    ],
+    "joint_foreground_gt12_px": 0
+  },
+  "lit-rear": {
+    "silhouette_delta_px": 0,
+    "joint_foreground_px": 85045,
+    "joint_foreground_q50_q95_q99_max_channel_delta": [
+      0.0,
+      0.0,
+      1.0,
+      7.0
+    ],
+    "joint_foreground_gt12_px": 0
+  },
+  "lit-aerial": {
+    "silhouette_delta_px": 0,
+    "joint_foreground_px": 116373,
+    "joint_foreground_q50_q95_q99_max_channel_delta": [
+      0.0,
+      0.0,
+      0.0,
+      25.0
+    ],
+    "joint_foreground_gt12_px": 1
+  }
+}

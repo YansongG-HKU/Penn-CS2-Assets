@@ -1,0 +1,47 @@
+{
+  "scope": "Pinned canonical split Base FBX only (excludes separately delivered roof candidate, glass and windows)",
+  "asset": "ClaudiaCohenHall",
+  "pinned_draft": "8c4991d613428a513bec269dbac9db71f7c4de43",
+  "blender": "4.3.2",
+  "source_fbx_sha256": {
+    "NA_ClaudiaCohenHall_7x5.fbx": "bc00c52f8f968cd65ef804c3bf844cba351d4f5c3f5a4fa5f920cb5746f788c8",
+    "NA_ClaudiaCohenHall_7x5_LOD1.fbx": "fb7354bf19db4221c5ec124e4ae38792700341b5c78c25e1ba4df1ec2f3ae7a1",
+    "NA_ClaudiaCohenHall_7x5_LOD2.fbx": "ac516f69295d3789dfcc67b25a4476c2a294e7882a13d11528cfe961233fc588"
+  },
+  "mesh_checks": {
+    "NA_ClaudiaCohenHall_7x5_Base": {
+      "tris": 14522,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 224,
+      "zero_area": 0,
+      "loose_verts": 0,
+      "bad_winding": 0,
+      "components": 991,
+      "flipped_closed": 0,
+      "floating": 0
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD1_Base": {
+      "tris": 9266,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 224,
+      "zero_area": 0,
+      "loose_verts": 0,
+      "bad_winding": 0,
+      "components": 553,
+      "flipped_closed": 0,
+      "floating": 0
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2_Base": {
+      "tris": 36,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "zero_area": 0,
+      "loose_verts": 0,
+      "bad_winding": 0,
+      "components": 3,
+      "flipped_closed": 0,
+      "floating": 0
+    }
+  },
+  "cs2_editor_tested": false
+}
