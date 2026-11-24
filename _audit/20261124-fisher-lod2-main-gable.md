@@ -1,0 +1,10 @@
+# Fisher Fine Arts Library: main gable LOD2 offline evidence
+
+Existing 8×6 (64×48 m) trial. The 22×16 m main wing was represented by a flat 21 m face at LOD2. The exact archived near and middle candidate both read back with a gable at approx. 18.3–25 m. Replace only this far roof with the two slopes and gable ends, lowering its four facade top vertices to model eave height. New gable ends sample red brick from the unchanged 1024 atlas; reproject the original roof rectangle to the two slopes. Round reading room, 38 m main tower and all other far geometry outside the targeted component are unchanged. This is not a survey.
+
+- Readback: 376→380 triangles; every far UV triangle positive area by absolute cross product; edge orientation/watertight check on raw geometry. 211 old polygons untouched, four walls keep UV/normals with lowered eave, one roof quad replaced by four faces. No other FBX, PNG or settings byte changed. All five FBX loaded from a fresh package path, ten PNGs decoded and attached image paths resolved.
+- 279,552 probes per mesh over eight orthographic directions. Both long elevations: LOD1/LOD2 mask IoU 89.25→94.45%, misses 1491→743; along the ridge, two views each lose six matching silhouette rays (−0.076 percentage points). All exterior changes hit the repaired wing volume. At 9,699 matched near/mid overhead points on the unobstructed roof band, mean far height error 1.730→0.017 m, max 4.000→0.033 m.
+- Prior entire candidate SHA-256: 047b4249b87bb9303e3504c0587a8c7a8829c5ce5a9df3bbfe22161197230c24.
+- New far FBX SHA-256: 4543cca99527bd77923606c80fcbcb5e6c94f9085b191380ca681367fef188d5.
+- New whole candidate: 宾大-Fisher-Fine-Arts-远景主坡屋顶整栋-未游戏验收.zip, 20927089 bytes, SHA-256 24d6340636b6c3b17ced2d2b3feb6b61105f2ad8412808a7ce7aaebd4f1f551f. Contains viewport-independent geometry comparison and per-view stats; no game screenshots.
+- No Editor executable found on the Dot cloud computer. Actual import, distance switching, brick shading/mips, entry, placement and reload remain untested. Lower auxiliary-wing roofs, tower crenellation and reading-room ornaments remain simplified. No model blobs, merge or release.
