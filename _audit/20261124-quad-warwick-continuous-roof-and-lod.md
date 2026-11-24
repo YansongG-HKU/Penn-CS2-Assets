@@ -9,4 +9,4 @@
 参考：[PennAccess 校方平面图](https://facilities.upenn.edu/sites/default/files/pennaccess/PA0490-Quadrangle.pdf)定位段落，[宾大建筑史补刊](https://almanac.upenn.edu/uploads/media/No._29_Architecture_Supplement-Quad-2020_.pdf)记录 Warwick 是 1929 年增建的一部分；具体造型以仓库钉住的 FBX 近档为候选依据，未采用测绘。
 
 ### 候选留档
-原仓固定 `3a7097a0ef154f454e0ce67da0b26c37c26bfed4`，逐文件核验 Git blob/LFS 摘要。候选 ZIP `宾大-Quad-Warwick-连续坡顶与双烟囱整段-未游戏验收.zip`，7,428,713 字节，SHA-256 `d909725742ffeb7ecc6611f54e18034d8dacf94a9102206fa47377fc5db076a2`，解包校验全部 23 个成员（含摘要清单本身，摘要核对其余成员）。本提交只记录可复核结果，无模型 LFS 或发布；未作 CS2 Editor 验收。
+原仓固定 `3a7097a0ef154f454e0ce67da0b26c37c26bfed4`，逐文件核验 Git blob/LFS 摘要。候选 ZIP `宾大-Quad-Warwick-连续坡顶与双烟囱整段-未游戏验收.zip`，7,428,713 字节，SHA-256 `d909725742ffeb7ecc6611f54e18034d8dacf94a9102206fa47377fc5db076a2`，解包校验24 个成员（23 个以摘要逐一核对，另 1 个为摘要清单）。本提交只记录可复核结果，无模型 LFS 或发布；未作 CS2 Editor 验收。
