@@ -1,0 +1,117 @@
+{
+  "whole_tile_summary": "No complete tile or guaranteed exact spire tip: source subset capped by plan and requested depth.",
+  "local_central_cluster_maximum_by_source": {
+    "19": {
+      "points_above_72_plane_central": 2,
+      "peak_navd88_m": 75.23000000000002
+    },
+    "20": {
+      "points_above_72_plane_central": 3,
+      "peak_navd88_m": 74.04999999999995
+    },
+    "59": {
+      "points_above_72_plane_central": 2,
+      "peak_navd88_m": 76.68000000000006
+    },
+    "60": {
+      "points_above_72_plane_central": 6,
+      "peak_navd88_m": 74.33999999999992
+    },
+    "61": {
+      "points_above_72_plane_central": 7,
+      "peak_navd88_m": 75.25
+    },
+    "62": {
+      "points_above_72_plane_central": 6,
+      "peak_navd88_m": 75.42000000000007
+    }
+  },
+  "flat_roof_strips": [
+    {
+      "wing": "west flat",
+      "xy_ranges_from_ortho_center_m": [
+        [
+          -16,
+          -11
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "point_count": 280,
+      "p05_p50_p95_navd88_m": [
+        42.329499999999925,
+        42.399999999999864,
+        42.5
+      ],
+      "sources_observed": [
+        19,
+        20,
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "wing": "east flat",
+      "xy_ranges_from_ortho_center_m": [
+        [
+          9,
+          14
+        ],
+        [
+          -1,
+          1
+        ]
+      ],
+      "point_count": 293,
+      "p05_p50_p95_navd88_m": [
+        42.34999999999991,
+        42.440000000000055,
+        42.50999999999999
+      ],
+      "sources_observed": [
+        19,
+        20,
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "wing": "south flat",
+      "xy_ranges_from_ortho_center_m": [
+        [
+          -1,
+          1
+        ],
+        [
+          -10,
+          -5
+        ]
+      ],
+      "point_count": 224,
+      "p05_p50_p95_navd88_m": [
+        42.36999999999989,
+        42.460000000000036,
+        42.548499999999954
+      ],
+      "sources_observed": [
+        19,
+        20,
+        59,
+        60,
+        61,
+        62
+      ]
+    }
+  ],
+  "nearby_ground_navd88_m": [
+    14.104953307562864,
+    14.51338617093738
+  ],
+  "input_unique_data_count": 53270
+}

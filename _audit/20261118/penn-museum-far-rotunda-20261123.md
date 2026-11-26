@@ -1,0 +1,5 @@
+# Penn Museum: two-slope far Rotunda roof
+
+Builds on [the front gable candidate](penn-museum-far-gable-20261123.md), retaining it. Replaced only 48 straight-cone side triangles with 96 triangles on a two-slope roof; 24-segment, radius 8.0m break at 30.5m, same 18.5m eave and 31.0m apex. The surviving 198 triangles retain attributes. Existing roof planar UV transform recovered within 1e-7 UV units, map binaries unchanged. Blender readback: 294 triangles, zero degenerate, original envelope unchanged, local image paths resolve, 24 break vertices with radius 8.0m, all other asset files byte-identical. 441 paired edges in FBX. No local survey patch mixed into the asset coordinates.
+
+Same geometric projection comparison before/after: front 96.0→99.1%, diagonal 96.8→99.6%, side 94.7→97.8%. Package `宾大-Penn-Museum-整栋及圆厅双段屋顶-未游戏验收.zip`, 9,144,090 bytes, SHA-256 `8c3fdd5cf8ccf3a329fe1483f26b11ad604ce9746caadbe552cc01afb0ba4e6d`, CRC passed. The whole far silhouette passes offline preflight; prioritize game placement/visual validation instead of chasing the remaining small stairs/cornice differences. No Editor run, LFS upload or pmod.

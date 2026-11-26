@@ -1,0 +1,267 @@
+{
+  "blender": "4.3.2",
+  "engine_test": "not run",
+  "files": {
+    "NA_ClaudiaCohenHall_7x5.fbx": {
+      "finished": true,
+      "meshes": [
+        {
+          "name": "NA_ClaudiaCohenHall_7x5_Base",
+          "triangles": 14522,
+          "zero_area": 0,
+          "vertices": 9240,
+          "bounds_m": [
+            [
+              -28.0,
+              -20.0,
+              -0.050002
+            ],
+            [
+              28.0,
+              20.0,
+              23.000001
+            ]
+          ],
+          "finite": true,
+          "geometry_sha256": "75172930d4b68cb423995cdc0ca933287aeb0801d483698b5fb17a4cde26e50d",
+          "uv": [
+            {
+              "name": "UVMap",
+              "finite": true,
+              "sha256": "95ee84c172c9c9bd6817004e313a40b352c153aa97f80a8b58889b03c464acfd",
+              "outside_unit_components": 0
+            }
+          ],
+          "materials": [
+            "NA_ClaudiaCohenHall_7x5_Base"
+          ]
+        }
+      ],
+      "images": {
+        "NA_ClaudiaCohenHall_7x5_BaseColor": {
+          "local": true,
+          "size": [
+            4096,
+            4096
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_BaseColor.png"
+        },
+        "NA_ClaudiaCohenHall_7x5_Emissive": {
+          "local": true,
+          "size": [
+            4096,
+            4096
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_Emissive.png"
+        },
+        "NA_ClaudiaCohenHall_7x5_Normal": {
+          "local": true,
+          "size": [
+            4096,
+            4096
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_Normal.png"
+        }
+      },
+      "paths_not_loaded_by_blender": []
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD1.fbx": {
+      "finished": true,
+      "meshes": [
+        {
+          "name": "NA_ClaudiaCohenHall_7x5_LOD1_Base",
+          "triangles": 9266,
+          "zero_area": 0,
+          "vertices": 5736,
+          "bounds_m": [
+            [
+              -28.0,
+              -20.0,
+              -0.050002
+            ],
+            [
+              28.0,
+              20.0,
+              23.000001
+            ]
+          ],
+          "finite": true,
+          "geometry_sha256": "2dec781e65095f520d7353853e16c73d4333c07490cc1f6bcb4a5ea01ac73fae",
+          "uv": [
+            {
+              "name": "UVMap",
+              "finite": true,
+              "sha256": "74e79343de1d80cb524aa2cb13d02d13e2c7bc9cb62d43432691892c92d38a48",
+              "outside_unit_components": 0
+            }
+          ],
+          "materials": [
+            "NA_ClaudiaCohenHall_7x5_Base"
+          ]
+        }
+      ],
+      "images": {
+        "NA_ClaudiaCohenHall_7x5_BaseColor": {
+          "local": true,
+          "size": [
+            4096,
+            4096
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_BaseColor.png"
+        },
+        "NA_ClaudiaCohenHall_7x5_Emissive": {
+          "local": true,
+          "size": [
+            4096,
+            4096
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_Emissive.png"
+        },
+        "NA_ClaudiaCohenHall_7x5_Normal": {
+          "local": true,
+          "size": [
+            4096,
+            4096
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_Normal.png"
+        }
+      },
+      "paths_not_loaded_by_blender": []
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD1_Win.fbx": {
+      "finished": true,
+      "meshes": [
+        {
+          "name": "NA_ClaudiaCohenHall_7x5_LOD1_Win",
+          "triangles": 216,
+          "zero_area": 0,
+          "vertices": 432,
+          "bounds_m": [
+            [
+              -22.060001,
+              -17.560001,
+              4.799999
+            ],
+            [
+              22.059999,
+              14.060002,
+              17.800001
+            ]
+          ],
+          "finite": true,
+          "geometry_sha256": "d2aca1a061c9e696d6a1a99b1c51ca462d6a267d2063a428df8ae372b18a5e9e",
+          "uv": [
+            {
+              "name": "UVMap",
+              "finite": true,
+              "sha256": "37164d004f31d8264e5be844d28590a41584172c3804cf83ae21d48d2be92791",
+              "outside_unit_components": 0
+            }
+          ],
+          "materials": []
+        }
+      ],
+      "images": {},
+      "paths_not_loaded_by_blender": []
+    },
+    "NA_ClaudiaCohenHall_7x5_LOD2.fbx": {
+      "finished": true,
+      "meshes": [
+        {
+          "name": "NA_ClaudiaCohenHall_7x5_LOD2_Base",
+          "triangles": 48,
+          "zero_area": 0,
+          "vertices": 72,
+          "bounds_m": [
+            [
+              -28.0,
+              -20.0,
+              -0.050002
+            ],
+            [
+              28.0,
+              20.0,
+              23.000001
+            ]
+          ],
+          "finite": true,
+          "geometry_sha256": "0436df7b120c42ba1a0ba91f38ae969532afb5f69809136c910bab46cb591924",
+          "uv": [
+            {
+              "name": "UVMap",
+              "finite": true,
+              "sha256": "aafe1370cf9ab363ce54e5e6b21795dc31a867a95b8f3f317b397461805563cb",
+              "outside_unit_components": 0
+            }
+          ],
+          "materials": [
+            "NA_ClaudiaCohenHall_7x5_LOD2_Base"
+          ]
+        }
+      ],
+      "images": {
+        "NA_ClaudiaCohenHall_7x5_LOD2_BaseColor": {
+          "local": true,
+          "size": [
+            1024,
+            1024
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_LOD2_BaseColor.png"
+        },
+        "NA_ClaudiaCohenHall_7x5_LOD2_Emissive": {
+          "local": true,
+          "size": [
+            1024,
+            1024
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_LOD2_Emissive.png"
+        },
+        "NA_ClaudiaCohenHall_7x5_LOD2_Normal": {
+          "local": true,
+          "size": [
+            1024,
+            1024
+          ],
+          "path": "NA_ClaudiaCohenHall_7x5_LOD2_Normal.png"
+        }
+      },
+      "paths_not_loaded_by_blender": []
+    },
+    "NA_ClaudiaCohenHall_7x5_Win.fbx": {
+      "finished": true,
+      "meshes": [
+        {
+          "name": "NA_ClaudiaCohenHall_7x5_Win",
+          "triangles": 216,
+          "zero_area": 0,
+          "vertices": 432,
+          "bounds_m": [
+            [
+              -22.060001,
+              -17.560001,
+              4.799999
+            ],
+            [
+              22.059999,
+              14.060002,
+              17.800001
+            ]
+          ],
+          "finite": true,
+          "geometry_sha256": "d2aca1a061c9e696d6a1a99b1c51ca462d6a267d2063a428df8ae372b18a5e9e",
+          "uv": [
+            {
+              "name": "UVMap",
+              "finite": true,
+              "sha256": "37164d004f31d8264e5be844d28590a41584172c3804cf83ae21d48d2be92791",
+              "outside_unit_components": 0
+            }
+          ],
+          "materials": []
+        }
+      ],
+      "images": {},
+      "paths_not_loaded_by_blender": []
+    }
+  }
+}

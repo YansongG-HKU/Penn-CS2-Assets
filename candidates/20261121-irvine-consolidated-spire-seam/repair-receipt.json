@@ -1,0 +1,18 @@
+{
+  "source_sha256": "89aaa473cf65f76bb3a2a96b3b11b34312535f6766a5e84bdc1ddf82fce71dac",
+  "candidate_sha256": "705a27c02c69cce5b365f35259be6ec19c56688d8777a2b9a876bc47790f7bec",
+  "raw_export_version": 7400,
+  "old_triangles": 108,
+  "new_triangles": 96,
+  "retained_polygons": 40,
+  "paired_polygon_edges": 88,
+  "new_vertices": 56,
+  "merged_coincident_ring_pairs": 8,
+  "both_caps_each_covered_m2": 7.2407738810892965,
+  "old_coplanar_z_m": 40.5,
+  "opposite_coverage_areas_after_m2": [
+    0,
+    0
+  ],
+  "kept_vertices_uv_normals_smoothing_material_paths": "exact"
+}

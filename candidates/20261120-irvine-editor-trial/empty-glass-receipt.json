@@ -1,0 +1,12 @@
+{
+  "NA_IrvineAuditorium_7x7_Gls.fbx": {
+    "source_sha256": "3c8cfd5f55e9a991085cbb7b4d1bb2502a87316c1e8da58ba54e4e708cd76e92",
+    "polygon_corner_count": 0,
+    "excluded_from_trial": true
+  },
+  "NA_IrvineAuditorium_7x7_LOD1_Gls.fbx": {
+    "source_sha256": "3fd373df4aff3540494a48629ab000517d667d549904bf255eaedde0558a460e",
+    "polygon_corner_count": 0,
+    "excluded_from_trial": true
+  }
+}

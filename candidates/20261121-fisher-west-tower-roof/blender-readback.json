@@ -1,0 +1,70 @@
+{
+  "distinct_vertices": 510,
+  "triangles": 1020,
+  "paired_edges": 1530,
+  "non_adjacent_pairs": 0,
+  "signed_volume_isolated_reference_m3": 217.96011328945556,
+  "provisional_through_cut_ray_passed": true,
+  "gated_inner_roof_holdout": {
+    "in_n": 417,
+    "matched_new_ray_n": 417,
+    "old_abs_p50_p90_p95_on_matched_subset": [
+      0.049227905273575345,
+      0.13571936035150287,
+      0.17139813232424927
+    ],
+    "new_abs_p50_p90_p95_on_matched_subset": [
+      0.04926361083980879,
+      0.11698529052741975,
+      0.14140228271485428
+    ],
+    "min_max_new_return_navd88": [
+      43.649583435058595,
+      44.93621978759766
+    ]
+  },
+  "upper_filtered_height_holdout": {
+    "in_n": 76,
+    "matched_new_ray_n": 72,
+    "old_abs_p50_p90_p95_on_matched_subset": [
+      0.0872344970703125,
+      2.3074840087889457,
+      3.5478863220214962
+    ],
+    "new_abs_p50_p90_p95_on_matched_subset": [
+      0.10499511718749233,
+      0.38399511718746593,
+      0.529495117187561
+    ],
+    "min_max_new_return_navd88": [
+      44.824998474121095,
+      50.36671600341797
+    ]
+  },
+  "lower_crest_filtered_height_holdout": {
+    "in_n": 199,
+    "matched_new_ray_n": 181,
+    "old_abs_p50_p90_p95_on_matched_subset": [
+      0.3131622314453111,
+      1.602922668456948,
+      2.54893432617191
+    ],
+    "new_abs_p50_p90_p95_on_matched_subset": [
+      0.28999359130862246,
+      0.9649938964843372,
+      1.0250015258788139
+    ],
+    "min_max_new_return_navd88": [
+      44.824998474121095,
+      45.829995727539064
+    ]
+  },
+  "materials_only_for_reference": [
+    "higher_crown_reference",
+    "synthetic_cut_base",
+    "crest_station_reference",
+    "masonry_reference",
+    "roof_surface_unknown_finish",
+    "vertical_reference"
+  ]
+}

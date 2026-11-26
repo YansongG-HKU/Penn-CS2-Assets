@@ -1,0 +1,47 @@
+{
+  "0": {
+    "normal_direction_pairwise_original_m2": [
+      4624.0,
+      4624.0
+    ],
+    "normal_direction_pairwise_repaired_m2": [
+      0.0,
+      0
+    ],
+    "retained_outward_coverage_m2": 2288.0,
+    "visible_target_symmetric_difference_m2": 0.0,
+    "within_normal_new_overlap_m2": 0.0,
+    "readback_world_plane_tolerance_m": 1e-05,
+    "XY_snap_for_area_m": 0.0001
+  },
+  "4.8": {
+    "normal_direction_pairwise_original_m2": [
+      4624.0,
+      4624.0
+    ],
+    "normal_direction_pairwise_repaired_m2": [
+      0,
+      0
+    ],
+    "retained_outward_coverage_m2": 0.0,
+    "visible_target_symmetric_difference_m2": 0.0,
+    "within_normal_new_overlap_m2": 0.0,
+    "readback_world_plane_tolerance_m": 1e-05,
+    "XY_snap_for_area_m": 0.0001
+  },
+  "22": {
+    "normal_direction_pairwise_original_m2": [
+      4256.0,
+      4256.0
+    ],
+    "normal_direction_pairwise_repaired_m2": [
+      0.0,
+      0
+    ],
+    "retained_outward_coverage_m2": 368.0,
+    "visible_target_symmetric_difference_m2": 0.0,
+    "within_normal_new_overlap_m2": 0.0,
+    "readback_world_plane_tolerance_m": 1e-05,
+    "XY_snap_for_area_m": 0.0001
+  }
+}

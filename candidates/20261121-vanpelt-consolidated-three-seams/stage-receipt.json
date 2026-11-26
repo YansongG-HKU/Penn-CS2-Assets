@@ -1,0 +1,86 @@
+{
+  "source_sha256": "82c3dc8211489c19ee33b0bade3b8a334165cab5146dd60997c70ced70081b42",
+  "source_settings_ref": "7e00cba1653a8ef3ee07ebc03fc995e31f065503",
+  "controls": {
+    "VanPeltLibrary": {
+      "fbx": {
+        "NA_VanPeltLibrary_18x6.fbx": {
+          "canonical_sha256": "5831b9bb79bf36cf218c7ad7125d13b009330b084da118259d161fff92429bee",
+          "trial_sha256": "1d684f118b7ef3c7b1f31638d453be9716fa66fdd4ebec054af3f89702dcbb60",
+          "triangles": 97776,
+          "version": 7400,
+          "image_path_fields_rewritten": 12,
+          "source_is_geometry_repair": false,
+          "geometry_stage_sha256": "5831b9bb79bf36cf218c7ad7125d13b009330b084da118259d161fff92429bee"
+        },
+        "NA_VanPeltLibrary_18x6_LOD1.fbx": {
+          "canonical_sha256": "8ced534e83b6636a2b49ccbb849d671567ebd6ff3fa2801495e179c085184d40",
+          "trial_sha256": "3afb530b497623e5676c5f6f377e6ccf21bb6b4979cf9214e97d6e2c22bdb43b",
+          "triangles": 45720,
+          "version": 7400,
+          "image_path_fields_rewritten": 12,
+          "source_is_geometry_repair": false,
+          "geometry_stage_sha256": "8ced534e83b6636a2b49ccbb849d671567ebd6ff3fa2801495e179c085184d40"
+        },
+        "NA_VanPeltLibrary_18x6_LOD1_Win.fbx": {
+          "canonical_sha256": "b451ee1d675dfcd5082b9558a6122bef705d05ce7f3b41185ab97a232a7e216e",
+          "trial_sha256": "b451ee1d675dfcd5082b9558a6122bef705d05ce7f3b41185ab97a232a7e216e",
+          "triangles": 1444,
+          "version": 7400,
+          "image_path_fields_rewritten": 0,
+          "source_is_geometry_repair": false,
+          "geometry_stage_sha256": "b451ee1d675dfcd5082b9558a6122bef705d05ce7f3b41185ab97a232a7e216e"
+        },
+        "NA_VanPeltLibrary_18x6_LOD2.fbx": {
+          "canonical_sha256": "0a9c0209d9a2834ae9746e6e63c571e0863d5c68b3eff15dbb74922f2762789a",
+          "trial_sha256": "a841482ef8fdcecf4084525d45d1c7f6561bcf697fd726d1fde5db9c93e0f6bb",
+          "triangles": 52,
+          "version": 7400,
+          "image_path_fields_rewritten": 12,
+          "source_is_geometry_repair": true,
+          "geometry_stage_sha256": "688fcc193ed13f0616087aceb3f7eb83439ee648434cfd042bbd845e546385c1"
+        },
+        "NA_VanPeltLibrary_18x6_Win.fbx": {
+          "canonical_sha256": "15696f0bdb8dab29d83df0954a0bb733e4706ded483626c3bc32cb464200d09b",
+          "trial_sha256": "15696f0bdb8dab29d83df0954a0bb733e4706ded483626c3bc32cb464200d09b",
+          "triangles": 1444,
+          "version": 7400,
+          "image_path_fields_rewritten": 0,
+          "source_is_geometry_repair": false,
+          "geometry_stage_sha256": "15696f0bdb8dab29d83df0954a0bb733e4706ded483626c3bc32cb464200d09b"
+        }
+      },
+      "png": {
+        "NA_VanPeltLibrary_18x6_BaseColor.png": "fe6c3787a34769b31cf7295ff92fcdd2377942ef1e0a4f679a0932a4aceefab8",
+        "NA_VanPeltLibrary_18x6_ControlMask.png": "7fed6816b7e419d30250cfcc5f2f2809fc8fd56d0be734b4c4b63907175a209d",
+        "NA_VanPeltLibrary_18x6_Emissive.png": "c3d4c4e5ae9cd743836815198f592c7090562137bcf7cdc0d950034984f8fb01",
+        "NA_VanPeltLibrary_18x6_LOD2_BaseColor.png": "cc6455509be261ddf630524de262610d8eb055a95dfc56e783bb027f8b378b24",
+        "NA_VanPeltLibrary_18x6_LOD2_ControlMask.png": "c2ee3c1f7fe2934892164dc8bce5ecc89e96bc1704e0ac531f6bf3ad7094d148",
+        "NA_VanPeltLibrary_18x6_LOD2_Emissive.png": "7e93bc722dcf04d17c1fbb5ccf5327cdf8a3c35c7affed59644121a26af802c5",
+        "NA_VanPeltLibrary_18x6_LOD2_MaskMap.png": "e2c1527d92848176edb62e115d30a9c7a6982d2aae7c1592a8ba90faf08afa13",
+        "NA_VanPeltLibrary_18x6_LOD2_Normal.png": "e57e5d23cdee7355fba76f1b758984664a8864db8a8f731e6e10adf5b03aae32",
+        "NA_VanPeltLibrary_18x6_MaskMap.png": "5e7025aa808579599a3200bb3675439f868eceb667fb8e1ba3eaa99abe9e5a25",
+        "NA_VanPeltLibrary_18x6_Normal.png": "d47468d3c7c244746bb55fd665252099eeeb628ad35a6d64487cf06ff1eef3d7"
+      },
+      "settings_git_blob_sha1": "4148eea29a9e80791b5c042ed506b0b236bcf588",
+      "settings_sha256": "b77faddd41b6a24fa3b978e70ae589e16bbe54185df96a50eecfc8b01c7d3cfa",
+      "empty_glass_excluded": [
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_Gls.fbx",
+          "triangles": 0,
+          "sha256": "3bfce8f7a66169114b4ada3c9caab750a1c5be8d9bd8ac495868badd649f3ba2",
+          "bytes": 21116,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        },
+        {
+          "path": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_LOD1_Gls.fbx",
+          "triangles": 0,
+          "sha256": "970d0728e3a698541a82b765d12e42c4183daa292f2146646451cd5abc0e5fb9",
+          "bytes": 21116,
+          "reason": "exact zero vertices and zero polygon indices, not a glass surface"
+        }
+      ]
+    }
+  },
+  "engine_status": "not_run"
+}

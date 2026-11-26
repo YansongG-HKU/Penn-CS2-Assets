@@ -1,0 +1,124 @@
+{
+  "legacy_repo_lod2_tag_and_sha256": {
+    "triangles": 336,
+    "sha256": "093b4847af7ac7df3a81fc15d007d8d7e70bc8df8877474600acede8e716f349",
+    "unchanged_retrieved_texture_maps": {
+      "BaseColor": {
+        "sha256": "29e3a1378d7bf634aa79a2b9f716e243e8a3bf60bcfe9156f1cf2bf2e73a893c",
+        "dimensions": [
+          1024,
+          1024
+        ]
+      },
+      "Normal": {
+        "sha256": "84284b720e7ca0b3a0f31731bb44fdf2df365f0f225cdbbf7bad9914266023c0",
+        "dimensions": [
+          1024,
+          1024
+        ]
+      },
+      "MaskMap": {
+        "sha256": "a299a97dcc475491627e1a93bd32c2f7284cf48976a21ac86224811d337d1fa5",
+        "dimensions": [
+          1024,
+          1024
+        ]
+      },
+      "Emissive": {
+        "sha256": "70a1c3db2e21207d3ccda9270146063dfab32097e36fba276689c7120fcbea73",
+        "dimensions": [
+          1024,
+          1024
+        ]
+      },
+      "ControlMask": {
+        "sha256": "db809bef526573a32312510d16e7dd9129263b7d195d780c0543866c6c320a93",
+        "dimensions": [
+          1024,
+          1024
+        ]
+      }
+    }
+  },
+  "legacy_pose_note": "Diagnostic rotation, apse north; central horizontal and fixed z datum, not a game import or exact pose registration.",
+  "legacy_comparison": {
+    "valid_lidar_interior_hits_above_ground": 12743,
+    "old_abs_p50_p90_p95_m": [
+      2.5799999999999983,
+      13.5945234375,
+      16.778000000000002
+    ],
+    "new_same_hit_subset_abs_p50_p90_p95_m": [
+      0.07154327392578175,
+      1.1395652465820318,
+      3.5237795715332023
+    ]
+  },
+  "original_survey_shell": {
+    "verts": 9510,
+    "tris": 19016,
+    "oriented_two_face_edges": 28524,
+    "non_adjacent_triangle_pairs": 0,
+    "volume_m3_shell_with_synthetic_base_not_building_volume": 34909.47899685503,
+    "bounds": [
+      [
+        -23.211650848388672,
+        -34.03836441040039,
+        -0.699999988079071
+      ],
+      [
+        23.211650848388672,
+        34.03836441040039,
+        33.381587982177734
+      ]
+    ],
+    "min_face_area": 1.595073626958765e-06
+  },
+  "final_survey_shell": {
+    "verts": 9510,
+    "tris": 19016,
+    "oriented_two_face_edges": 28524,
+    "non_adjacent_triangle_pairs": 0,
+    "volume_m3_shell_with_synthetic_base_not_building_volume": 34919.33994530465,
+    "bounds": [
+      [
+        -23.211650848388672,
+        -34.03836441040039,
+        -0.699999988079071
+      ],
+      [
+        23.211650848388672,
+        34.03836441040039,
+        33.41999816894531
+      ]
+    ],
+    "min_face_area": 1.595073626958765e-06
+  },
+  "roof_holdout_all": {
+    "points": 25605,
+    "initial_abs_p50_p90_p95_m": [
+      0.07052947998046832,
+      0.966684265136719,
+      3.473093017578126
+    ],
+    "final_abs_p50_p90_p95_m": [
+      0.07040740966796832,
+      0.9590539550781252,
+      3.4791857299804696
+    ]
+  },
+  "roof_holdout_above_48_navd88": {
+    "points": 86,
+    "initial_abs_p50_p90_p95_m": [
+      0.5364564514160151,
+      4.43535842895508,
+      5.489028549194336
+    ],
+    "final_abs_p50_p90_p95_m": [
+      0.10446105957031548,
+      2.465941619873046,
+      3.8445321655273457
+    ]
+  },
+  "moved_upper_turret_vertices": 21
+}

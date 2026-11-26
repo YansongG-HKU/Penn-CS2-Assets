@@ -1,0 +1,40 @@
+{
+  "old_survey": {
+    "verts": 509,
+    "triangles": 1014,
+    "oriented_edges": 1521,
+    "nonadjacent_triangle_intersections": 0,
+    "min_face_area_m2": 0.0003367960453033447,
+    "bounds": [
+      [
+        -71.02108001708984,
+        -21.433069229125977,
+        -2.5
+      ],
+      [
+        71.02108001708984,
+        28.346389770507812,
+        29.65863037109375
+      ]
+    ]
+  },
+  "raised_surface_candidate": {
+    "verts": 728,
+    "triangles": 1452,
+    "oriented_edges": 2178,
+    "nonadjacent_triangle_intersections": 0,
+    "min_face_area_m2": 0.0003367960453033447,
+    "bounds": [
+      [
+        -71.02108001708984,
+        -21.433069229125977,
+        -2.5
+      ],
+      [
+        71.02108001708984,
+        28.346389770507812,
+        29.65863037109375
+      ]
+    ]
+  }
+}

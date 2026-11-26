@@ -1,0 +1,11 @@
+[
+  {
+    "base": "VanPeltLibrary/fbx/split/NA_VanPeltLibrary_18x6_LOD2.fbx",
+    "candidate": "VanPeltLibrary/NA_VanPeltLibrary_18x6_LOD2.fbx",
+    "patch": "NA_VanPeltLibrary_18x6_LOD2.fbx.zst",
+    "before_sha256": "07cbdfa1ef67521cd9b4982cbb813a7f2c94fd5384b95b910ce4399073a321d4",
+    "after_sha256": "6205164fd52bc8849c458ffcac5440455d8b32e975f39cc8feb2c686a3345437",
+    "patch_sha256": "295023decf56e234b9a9c2ae6a8a75b285cd0fff8567a0204c4f6d60cb261cc1",
+    "bytes": 25436
+  }
+]

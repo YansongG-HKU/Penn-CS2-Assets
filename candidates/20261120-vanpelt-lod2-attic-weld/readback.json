@@ -1,0 +1,73 @@
+{
+  "before": {
+    "triangles": 44,
+    "edges_all_degree_two": 66,
+    "vertices": 28,
+    "decoded_textures": {
+      "NA_VanPeltLibrary_18x6_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_VanPeltLibrary_18x6_LOD2_Emissive.png": [
+        1024,
+        1024
+      ],
+      "NA_VanPeltLibrary_18x6_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      8,
+      8,
+      12
+    ],
+    "bounds": [
+      [
+        -72.0,
+        -24.0,
+        -0.05000181123614311
+      ],
+      [
+        72.0,
+        24.0,
+        28.000001907348633
+      ]
+    ]
+  },
+  "after": {
+    "triangles": 52,
+    "edges_all_degree_two": 78,
+    "vertices": 30,
+    "decoded_textures": {
+      "NA_VanPeltLibrary_18x6_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_VanPeltLibrary_18x6_LOD2_Emissive.png": [
+        1024,
+        1024
+      ],
+      "NA_VanPeltLibrary_18x6_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      8,
+      22
+    ],
+    "bounds": [
+      [
+        -72.0,
+        -24.0,
+        -0.05000181123614311
+      ],
+      [
+        72.0,
+        24.0,
+        28.000001907348633
+      ]
+    ]
+  }
+}

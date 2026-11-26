@@ -1,0 +1,74 @@
+{
+  "index_file": "ept.json",
+  "query_maxerror_m": 0.22,
+  "vertical_range_m": [
+    -10,
+    120
+  ],
+  "compound_srs": "EPSG 6347 horizontal / EPSG 5703 NAVD88 GEOID18 vertical (source SRS; QGIS WKT not assigned a simple code)",
+  "queries": [
+    {
+      "bbox": [
+        483491.0,
+        4422307.0,
+        483513.0,
+        4422324.0
+      ],
+      "points_returned": 12956,
+      "maximum_requested": 40000,
+      "classes": {
+        "1": 12529,
+        "7": 2,
+        "2": 374,
+        "8": 51
+      }
+    },
+    {
+      "bbox": [
+        483491.0,
+        4422324.0,
+        483513.0,
+        4422341.0
+      ],
+      "points_returned": 12057,
+      "maximum_requested": 40000,
+      "classes": {
+        "1": 11742,
+        "7": 3,
+        "8": 40,
+        "2": 272
+      }
+    },
+    {
+      "bbox": [
+        483513.0,
+        4422307.0,
+        483535.0,
+        4422324.0
+      ],
+      "points_returned": 14493,
+      "maximum_requested": 40000,
+      "classes": {
+        "1": 14426,
+        "2": 57,
+        "8": 10
+      }
+    },
+    {
+      "bbox": [
+        483513.0,
+        4422324.0,
+        483535.0,
+        4422341.0
+      ],
+      "points_returned": 13764,
+      "maximum_requested": 40000,
+      "classes": {
+        "18": 1,
+        "1": 13730,
+        "2": 30,
+        "8": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Irvine Auditorium: far LOD low-wing roof candidate
+
+Based on the whole-building buttress ZIP SHA-256 `1e41afcb1f5fc43dd16881246561e96e0bf9aaf357691054dd4f722c162254f1`. Four existing LOD1 pyramidal low roofs around (±19, ±19) m were represented in LOD2 with 24 additional triangles, apex 17 m, underside 11.95 m below the 12 m deck plane. Reused far slate UV swatch; atlas unchanged. Only the LOD2 body file differed byte-for-byte; all 538 prior triangles and their UVs remained on Blender reread. All five FBX files and local image references tested in Blender 4.3.2, LOD2 562 positive-area triangles with 843 paired edges. Eight same-camera side silhouettes at 10 px/m: mid-vs-far IoU improved 93.587–94.141% to 96.725–98.700%. This is a geometry-only projection. Game editor, LOD switch, shadow, material and placement not verified.
+
+New whole ZIP SHA-256 `484197f468746fa208eed16bc884577b2bb5829d3b65a71728f219535bbc2661`, 21,260,995 bytes; archive CRC and entries verified. Select `IrvineAuditorium/` for an isolated test project. Docs only; no uploaded model binaries, merge, or publication.

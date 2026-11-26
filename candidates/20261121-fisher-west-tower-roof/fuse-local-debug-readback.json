@@ -1,0 +1,48 @@
+{
+  "vertices": 9783,
+  "triangles": 19562,
+  "closed_nonadjacent_pairs": 0,
+  "unchanged_ground_footprint_extents": [
+    [
+      -23.211650848388672,
+      -34.03836441040039,
+      -0.699999988079071
+    ],
+    [
+      23.211650848388672,
+      34.03836441040039,
+      33.244998931884766
+    ]
+  ],
+  "all_held_outside_mask_n": 23946,
+  "max_outside_mask_height_difference_m": 0.7695846557617188,
+  "inside_mask_holdout_n": 1333,
+  "old_abs_m_p50_p90_p95": [
+    0.17158172607421918,
+    5.993169372558594,
+    10.1417666015625
+  ],
+  "new_abs_m_p50_p90_p95": [
+    0.10499847412109276,
+    6.670995117187499,
+    10.172997131347657
+  ],
+  "patch_rectangle_lo_hi": [
+    [
+      -15.6,
+      1.56
+    ],
+    [
+      -3.12,
+      14.56
+    ]
+  ],
+  "seam_edge_count": 98,
+  "rectangle_collar_n": 326,
+  "collar_abs_height_change_m_p50_p90_p95": [
+    0.0,
+    3.0517578125e-05,
+    0.06337738037109375
+  ],
+  "collar_max_m": 4.4248046875
+}

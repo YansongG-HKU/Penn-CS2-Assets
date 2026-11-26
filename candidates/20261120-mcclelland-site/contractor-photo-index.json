@@ -1,0 +1,50 @@
+{
+  "base_url": "https://www.intechconstruction.com/wp-content/uploads/2025/06/PennQuad-Ware-McClelland_",
+  "images": {
+    "Ext01": {
+      "sha256": "44829612b4a37b0b6388955a21b367a6e0dcf842417d2045cd9a11ad4755b8af",
+      "pixels": [
+        2121,
+        2833
+      ],
+      "capture_date": null,
+      "embedded_exif": false
+    },
+    "Ext02": {
+      "sha256": "20edc63b8161e85a6aa437fcdb60f200226b696553538c93799f495e4440a615",
+      "pixels": [
+        1842,
+        2512
+      ],
+      "capture_date": null,
+      "embedded_exif": false
+    },
+    "Ext04": {
+      "sha256": "1da21d64dade0ff289ea84b8cff1f277eb0416652289ae963f696e69b72c48e9",
+      "pixels": [
+        3433,
+        2380
+      ],
+      "capture_date": null,
+      "embedded_exif": false
+    },
+    "Ext06": {
+      "sha256": "9c11529084963f3d35af0fb72a738a2b84dea5d2f1a1e0535695debb371d6141",
+      "pixels": [
+        3816,
+        2597
+      ],
+      "capture_date": null,
+      "embedded_exif": false
+    },
+    "Ext07": {
+      "sha256": "8d492caee68940bad1b528f6c0d39cb19bade9e0433a0bb0d60a51a57314e8a7",
+      "pixels": [
+        3678,
+        2611
+      ],
+      "capture_date": null,
+      "embedded_exif": false
+    }
+  }
+}

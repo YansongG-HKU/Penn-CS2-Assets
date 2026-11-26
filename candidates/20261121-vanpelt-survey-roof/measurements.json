@@ -1,0 +1,891 @@
+{
+  "notice": "Offline closed roof reconstruction with synthetic wall and base closure; not production FBX, UV, materials, LOD or game validation",
+  "sources": {
+    "city_footprint": "https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/LI_BUILDING_FOOTPRINTS/FeatureServer/0",
+    "city_bin": "1386251",
+    "footprint_json_sha256": "8022f9b52955c7da526a1199f66da12ac9b5a1513c87e1eb34c97e5435c66363",
+    "photograph": "https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=7157",
+    "point_ept": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/entwine/geoid18/9848",
+    "point_catalog": "https://www.fisheries.noaa.gov/inport/item/70174",
+    "qgis_crop_gzip_sha256": "dea517e394d044de8fd5f4f3ebf14e00218e4b84dcbceb2113e0ee156ad13f1d",
+    "crop": {
+      "index_file": "ept.json",
+      "query_maxerror_m": 0.22,
+      "vertical_range_m": [
+        -10,
+        120
+      ],
+      "compound_srs": "EPSG 6347 horizontal / EPSG 5703 NAVD88 GEOID18 vertical (source SRS; QGIS WKT not assigned a simple code)",
+      "queries": [
+        {
+          "bbox": [
+            483359.0,
+            4422485.0,
+            483384.6666666667,
+            4422498.5
+          ],
+          "points_returned": 25701,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 21556,
+            "8": 298,
+            "2": 3847
+          }
+        },
+        {
+          "bbox": [
+            483359.0,
+            4422498.5,
+            483384.6666666667,
+            4422512.0
+          ],
+          "points_returned": 28372,
+          "maximum_requested": 40000,
+          "classes": {
+            "8": 425,
+            "1": 25766,
+            "2": 2181
+          }
+        },
+        {
+          "bbox": [
+            483359.0,
+            4422512.0,
+            483384.6666666667,
+            4422525.5
+          ],
+          "points_returned": 23766,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 19355,
+            "2": 3818,
+            "8": 545,
+            "7": 48
+          }
+        },
+        {
+          "bbox": [
+            483359.0,
+            4422525.5,
+            483384.6666666667,
+            4422539.0
+          ],
+          "points_returned": 16960,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 15958,
+            "8": 130,
+            "2": 872
+          }
+        },
+        {
+          "bbox": [
+            483359.0,
+            4422539.0,
+            483384.6666666667,
+            4422552.5
+          ],
+          "points_returned": 16664,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14587,
+            "8": 179,
+            "2": 1896,
+            "7": 2
+          }
+        },
+        {
+          "bbox": [
+            483359.0,
+            4422552.5,
+            483384.6666666667,
+            4422566.0
+          ],
+          "points_returned": 20482,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14669,
+            "2": 5552,
+            "7": 8,
+            "8": 253
+          }
+        },
+        {
+          "bbox": [
+            483384.6666666667,
+            4422485.0,
+            483410.3333333333,
+            4422498.5
+          ],
+          "points_returned": 33379,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 28122,
+            "8": 436,
+            "2": 4821
+          }
+        },
+        {
+          "bbox": [
+            483384.6666666667,
+            4422498.5,
+            483410.3333333333,
+            4422512.0
+          ],
+          "points_returned": 31224,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 25605,
+            "8": 615,
+            "2": 5004
+          }
+        },
+        {
+          "bbox": [
+            483384.6666666667,
+            4422512.0,
+            483410.3333333333,
+            4422525.5
+          ],
+          "points_returned": 19908,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18182,
+            "2": 1401,
+            "7": 133,
+            "8": 192
+          }
+        },
+        {
+          "bbox": [
+            483384.6666666667,
+            4422525.5,
+            483410.3333333333,
+            4422539.0
+          ],
+          "points_returned": 12070,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 12070
+          }
+        },
+        {
+          "bbox": [
+            483384.6666666667,
+            4422539.0,
+            483410.3333333333,
+            4422552.5
+          ],
+          "points_returned": 12083,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 12083
+          }
+        },
+        {
+          "bbox": [
+            483384.6666666667,
+            4422552.5,
+            483410.3333333333,
+            4422566.0
+          ],
+          "points_returned": 18266,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14115,
+            "2": 3942,
+            "8": 209
+          }
+        },
+        {
+          "bbox": [
+            483410.3333333333,
+            4422485.0,
+            483436.0,
+            4422498.5
+          ],
+          "points_returned": 33233,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 26611,
+            "2": 6218,
+            "8": 404
+          }
+        },
+        {
+          "bbox": [
+            483410.3333333333,
+            4422498.5,
+            483436.0,
+            4422512.0
+          ],
+          "points_returned": 38457,
+          "maximum_requested": 40000,
+          "classes": {
+            "7": 7,
+            "1": 32294,
+            "2": 5639,
+            "8": 517
+          }
+        },
+        {
+          "bbox": [
+            483410.3333333333,
+            4422512.0,
+            483436.0,
+            4422525.5
+          ],
+          "points_returned": 20267,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18238,
+            "8": 311,
+            "7": 29,
+            "2": 1689
+          }
+        },
+        {
+          "bbox": [
+            483410.3333333333,
+            4422525.5,
+            483436.0,
+            4422539.0
+          ],
+          "points_returned": 15252,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14871,
+            "2": 328,
+            "8": 53
+          }
+        },
+        {
+          "bbox": [
+            483410.3333333333,
+            4422539.0,
+            483436.0,
+            4422552.5
+          ],
+          "points_returned": 17719,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 15043,
+            "2": 2318,
+            "8": 358
+          }
+        },
+        {
+          "bbox": [
+            483410.3333333333,
+            4422552.5,
+            483436.0,
+            4422566.0
+          ],
+          "points_returned": 21058,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 15076,
+            "8": 335,
+            "2": 5647
+          }
+        },
+        {
+          "bbox": [
+            483436.0,
+            4422485.0,
+            483461.6666666667,
+            4422498.5
+          ],
+          "points_returned": 21483,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18130,
+            "2": 3054,
+            "8": 299
+          }
+        },
+        {
+          "bbox": [
+            483436.0,
+            4422498.5,
+            483461.6666666667,
+            4422512.0
+          ],
+          "points_returned": 17281,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 17123,
+            "7": 3,
+            "8": 29,
+            "2": 126
+          }
+        },
+        {
+          "bbox": [
+            483436.0,
+            4422512.0,
+            483461.6666666667,
+            4422525.5
+          ],
+          "points_returned": 19325,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 19324,
+            "8": 1
+          }
+        },
+        {
+          "bbox": [
+            483436.0,
+            4422525.5,
+            483461.6666666667,
+            4422539.0
+          ],
+          "points_returned": 19408,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 19105,
+            "8": 40,
+            "2": 263
+          }
+        },
+        {
+          "bbox": [
+            483436.0,
+            4422539.0,
+            483461.6666666667,
+            4422552.5
+          ],
+          "points_returned": 23765,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18051,
+            "2": 5309,
+            "8": 401,
+            "7": 4
+          }
+        },
+        {
+          "bbox": [
+            483436.0,
+            4422552.5,
+            483461.6666666667,
+            4422566.0
+          ],
+          "points_returned": 19567,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14020,
+            "2": 5250,
+            "8": 297
+          }
+        },
+        {
+          "bbox": [
+            483461.6666666667,
+            4422485.0,
+            483487.3333333333,
+            4422498.5
+          ],
+          "points_returned": 25470,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 21459,
+            "2": 3686,
+            "8": 325
+          }
+        },
+        {
+          "bbox": [
+            483461.6666666667,
+            4422498.5,
+            483487.3333333333,
+            4422512.0
+          ],
+          "points_returned": 18486,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18486
+          }
+        },
+        {
+          "bbox": [
+            483461.6666666667,
+            4422512.0,
+            483487.3333333333,
+            4422525.5
+          ],
+          "points_returned": 16170,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 16170
+          }
+        },
+        {
+          "bbox": [
+            483461.6666666667,
+            4422525.5,
+            483487.3333333333,
+            4422539.0
+          ],
+          "points_returned": 28216,
+          "maximum_requested": 40000,
+          "classes": {
+            "18": 1,
+            "7": 5,
+            "1": 26979,
+            "8": 135,
+            "2": 1096
+          }
+        },
+        {
+          "bbox": [
+            483461.6666666667,
+            4422539.0,
+            483487.3333333333,
+            4422552.5
+          ],
+          "points_returned": 20981,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14745,
+            "2": 5819,
+            "8": 417
+          }
+        },
+        {
+          "bbox": [
+            483461.6666666667,
+            4422552.5,
+            483487.3333333333,
+            4422566.0
+          ],
+          "points_returned": 24771,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18987,
+            "2": 5507,
+            "8": 277
+          }
+        },
+        {
+          "bbox": [
+            483487.3333333333,
+            4422485.0,
+            483513.0,
+            4422498.5
+          ],
+          "points_returned": 22433,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18155,
+            "2": 4006,
+            "8": 272
+          }
+        },
+        {
+          "bbox": [
+            483487.3333333333,
+            4422498.5,
+            483513.0,
+            4422512.0
+          ],
+          "points_returned": 16712,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14244,
+            "8": 251,
+            "2": 2217
+          }
+        },
+        {
+          "bbox": [
+            483487.3333333333,
+            4422512.0,
+            483513.0,
+            4422525.5
+          ],
+          "points_returned": 20183,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18572,
+            "8": 196,
+            "2": 1415
+          }
+        },
+        {
+          "bbox": [
+            483487.3333333333,
+            4422525.5,
+            483513.0,
+            4422539.0
+          ],
+          "points_returned": 32718,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 30634,
+            "8": 283,
+            "2": 1801
+          }
+        },
+        {
+          "bbox": [
+            483487.3333333333,
+            4422539.0,
+            483513.0,
+            4422552.5
+          ],
+          "points_returned": 23976,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 17478,
+            "2": 6215,
+            "8": 283
+          }
+        },
+        {
+          "bbox": [
+            483487.3333333333,
+            4422552.5,
+            483513.0,
+            4422566.0
+          ],
+          "points_returned": 24716,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 18803,
+            "2": 5607,
+            "8": 306
+          }
+        }
+      ]
+    }
+  },
+  "metre_frame": {
+    "horizontal_epsg": 6347,
+    "source_vertical": "EPSG5703 NAVD88 GEOID18",
+    "origin_EN": [
+      483434.7145394473,
+      4422522.221188336
+    ],
+    "axes_rows_EN": [
+      [
+        0.9871790911692041,
+        -0.15961654663080543
+      ],
+      [
+        0.15961654663080543,
+        0.9871790911692041
+      ]
+    ],
+    "z0_south_approach_m": 19.331369165057666,
+    "full_footprint_span_m": [
+      142.04216377021078,
+      56.69278951023077
+    ],
+    "body_span_after_low_layer_clips_m": [
+      142.04216,
+      49.77946
+    ],
+    "city_footprint_area_m2": 5550.505275637032
+  },
+  "flightline_holdout_source_IDs": [
+    19,
+    20
+  ],
+  "distinct_source_points": 799510,
+  "height_fits": {
+    "low_perimeter": {
+      "controls_local_xy_boxes_m": [
+        [
+          -60,
+          -30,
+          23,
+          26
+        ]
+      ],
+      "selected_height_band_m": [
+        38.1,
+        38.61
+      ],
+      "fitted_height_navd88_m": 38.34,
+      "train_in_band": 1900,
+      "held_in_band": 564,
+      "held_all_heights": 566,
+      "held_in_band_absolute_p50_90_95_m": [
+        0.040000000000048885,
+        0.11000000000004206,
+        0.13000000000002387
+      ],
+      "held_without_z_screen_absolute_p50_90_95_m": [
+        0.040000000000048885,
+        0.1150000000000091,
+        0.13000000000002387
+      ]
+    },
+    "main_deck_and_connector": {
+      "controls_local_xy_boxes_m": [
+        [
+          -59,
+          -30,
+          13,
+          18
+        ],
+        [
+          -17,
+          1,
+          6.2,
+          11.7
+        ],
+        [
+          12,
+          58,
+          -19,
+          -17.8
+        ]
+      ],
+      "selected_height_band_m": [
+        41.75,
+        42.26
+      ],
+      "fitted_height_navd88_m": 42.03,
+      "train_in_band": 6297,
+      "held_in_band": 2311,
+      "held_all_heights": 2453,
+      "held_in_band_absolute_p50_90_95_m": [
+        0.03999999999999204,
+        0.10999999999987153,
+        0.13000000000013756
+      ],
+      "held_without_z_screen_absolute_p50_90_95_m": [
+        0.03999999999999204,
+        0.13000000000013756,
+        0.8039999999999233
+      ]
+    },
+    "east_high_deck": {
+      "controls_local_xy_boxes_m": [
+        [
+          50,
+          57,
+          6.9,
+          10.5
+        ],
+        [
+          40,
+          56,
+          -12,
+          -7
+        ]
+      ],
+      "selected_height_band_m": [
+        44.24,
+        44.74
+      ],
+      "fitted_height_navd88_m": 44.49,
+      "train_in_band": 3011,
+      "held_in_band": 834,
+      "held_all_heights": 852,
+      "held_in_band_absolute_p50_90_95_m": [
+        0.039999999999970726,
+        0.10999999999990706,
+        0.13000000000010203
+      ],
+      "held_without_z_screen_absolute_p50_90_95_m": [
+        0.039999999999970726,
+        0.11000000000012022,
+        0.14999999999987068
+      ]
+    },
+    "west_local_penthouse": {
+      "controls_local_xy_boxes_m": [
+        [
+          -47.9,
+          -41.1,
+          5.55,
+          10.65
+        ]
+      ],
+      "selected_height_band_m": [
+        46.3,
+        46.9
+      ],
+      "fitted_height_navd88_m": 46.56,
+      "train_in_band": 785,
+      "held_in_band": 267,
+      "held_all_heights": 306,
+      "held_in_band_absolute_p50_90_95_m": [
+        0.03000000000002956,
+        0.0999999999999659,
+        0.11000000000007049
+      ],
+      "held_without_z_screen_absolute_p50_90_95_m": [
+        0.040000000000020464,
+        0.6999999999999886,
+        0.7999999999998977
+      ]
+    },
+    "east_high_platform": {
+      "controls_local_xy_boxes_m": [
+        [
+          18.0,
+          28.0,
+          -1.55,
+          3.0
+        ]
+      ],
+      "selected_height_band_m": [
+        48.75,
+        49.2
+      ],
+      "fitted_height_navd88_m": 48.99,
+      "train_in_band": 2910,
+      "held_in_band": 519,
+      "held_all_heights": 519,
+      "held_in_band_absolute_p50_90_95_m": [
+        0.019999999999974705,
+        0.039999999999970726,
+        0.04999999999996163
+      ],
+      "held_without_z_screen_absolute_p50_90_95_m": [
+        0.019999999999974705,
+        0.039999999999970726,
+        0.04999999999996163
+      ]
+    }
+  },
+  "roof_extent_test_all_returns_no_height_cut": {
+    "low": [
+      {
+        "n": 12690,
+        "all_z_held_abs_p50_p90_p95_m": [
+          0.20000000000013074,
+          15.860999999999988,
+          19.54000000000005
+        ],
+        "fraction_within_half_m": 0.5531126871552403
+      },
+      {
+        "n": 577,
+        "all_z_held_abs_p50_p90_p95_m": [
+          0.040000000000048885,
+          0.10999999999998522,
+          0.12999999999996703
+        ],
+        "fraction_within_half_m": 1.0
+      }
+    ],
+    "middle": [
+      {
+        "n": 19023,
+        "all_z_held_abs_p50_p90_p95_m": [
+          0.05999999999997385,
+          1.549999999999926,
+          3.549999999999983
+        ],
+        "fraction_within_half_m": 0.8189034326867476
+      }
+    ],
+    "attic": [
+      {
+        "n": 8774,
+        "all_z_held_abs_p50_p90_p95_m": [
+          0.43000000000007077,
+          3.0499999999999616,
+          3.509999999999998
+        ],
+        "fraction_within_half_m": 0.5305447914292227
+      }
+    ],
+    "west_penthouse": [
+      {
+        "n": 536,
+        "all_z_held_abs_p50_p90_p95_m": [
+          0.04999999999989768,
+          0.4300000000000068,
+          0.7899999999999068
+        ],
+        "fraction_within_half_m": 0.9104477611940298
+      }
+    ],
+    "east_high_platform": [
+      {
+        "n": 913,
+        "all_z_held_abs_p50_p90_p95_m": [
+          0.019999999999974705,
+          0.04999999999996163,
+          0.06999999999992923
+        ],
+        "fraction_within_half_m": 0.9627601314348302
+      }
+    ]
+  },
+  "north_recess": {
+    "all_first_return_n": 797,
+    "held_first_return_n": 133,
+    "held_return_5_50_95_z_m": [
+      16.450000000000045,
+      17.950000000000045,
+      19.125999999999973
+    ],
+    "ground_class2_median_m": 17.930000000000064,
+    "action": "removed the above-ground roof slab in this pocket; below-grade extent unmodeled"
+  },
+  "shape_limits": [
+    "roof plan has primary partitions but interior patch boundaries approximate",
+    "eastern high deck is underlying representative plane, omits equipment and additional facets distinct at 44.9\u201348.3 m; measured 49 m patch is represented as a closed rectangular mass, material and purpose unresolved",
+    "south stair and canopy group separate, excluded from the model",
+    "one provisional z0, no ground/entrance surfaces are certified",
+    "nominal existing lot 18x6 144x48 m cannot cover full 56.69 m width at 1:1; 18x8 arithmetic with stairs only, not access/Editor proof"
+  ],
+  "obj_build": {
+    "verts": 509,
+    "tris": 1014,
+    "oriented_edges": 1521,
+    "bad_edges": 0,
+    "min_face_area_m2": 0.00033671699999713754,
+    "signed_volume_m3": 133106.42941127482,
+    "extent_m": [
+      [
+        -71.02108,
+        -21.43307,
+        -2.499999165057666
+      ],
+      [
+        71.02108,
+        28.34639,
+        29.658630834942336
+      ]
+    ],
+    "sha256": "2f9ff054852425181661bad3849d16c700173570b9a97a2abe360fc3c1ed2d7e",
+    "retained_footprint_area_m2": 5370.196619675749,
+    "body_vs_full_difference_m2": 180.31025306102552,
+    "roof_patches": [
+      {
+        "name": "low_outer",
+        "area_m2": 1636.7423586183538,
+        "z_m": 38.34
+      },
+      {
+        "name": "connected_middle",
+        "area_m2": 2413.6522610573966,
+        "z_m": 42.03
+      },
+      {
+        "name": "east_attic",
+        "area_m2": 1150.9465000000002,
+        "z_m": 44.49
+      },
+      {
+        "name": "west_penthouse",
+        "area_m2": 74.95950000000005,
+        "z_m": 46.56
+      },
+      {
+        "name": "east_high_platform",
+        "area_m2": 93.89600000000003,
+        "z_m": 48.99
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# McClelland terrace: whole standalone FBX trial
+
+Continues [the university and contractor-led shape study](mcclelland-modern-terrace-shape-20261123.md). One low red brick arcade, a playable-scale terrace shape with stone balustrade and a low wedge skylight (not surveyed). Adjacent historic dorms are separate; do not use the previously measured courtyard grade difference as a finished height. Maintains independent 6×3 lot and legacy frontage orientation. Twelve bays are schematic, and the window/skylight are opaque representations with no nighttime emissions, not indoor or walkway behavior.
+
+Three 7400 FBX bodies (4,300 / 2,600 / 816 tris), ten deterministic procedural maps, shared five-map LOD1 settings. Clean-folder Blender 4.3.2 matched all individual triangles back to the shape study within 2µm, with nonzero geometry/UV areas. The same 12 bays per tier each produced a recessed pane hit at Y=-8.95m and adjacent brick at -9.40m; no opaque outer wall overlays the arcade holes. Dimensions incl. pad ±24×±12m, Z=-0.05…5.75m. This far tier intentionally trades a higher count than the inaccurate old 40-triangle proxy for retained openings and silhouette.
+
+Package `宾大-McClelland-完整拱廊与露台试放-未游戏验收.zip`, 3,009,392 bytes, SHA-256 `98141be31a447fe36119e0121f6ed50846ff7fb3671f1819fc930bcfeb562c24`, CRC passed. Blender previews only. Editor import, material matching, neighborhood joins/grade, dynamic LOD, game performance and save/reopen remain open; no binary upload, merge or release.

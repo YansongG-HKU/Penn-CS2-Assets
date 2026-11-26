@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.1930750155996,
+              39.95094491244643
+            ],
+            [
+              -75.19285885469314,
+              39.950923949316596
+            ],
+            [
+              -75.19289163382737,
+              39.950757576030085
+            ],
+            [
+              -75.19310410419136,
+              39.950779966774704
+            ],
+            [
+              -75.1930750155996,
+              39.95094491244643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "role": "visual 2025 main upper slate slope envelope, not surveyed roof footprint",
+        "input_pixel_corners": [
+          [
+            302,
+            285
+          ],
+          [
+            419,
+            300
+          ],
+          [
+            401,
+            417
+          ],
+          [
+            286,
+            401
+          ]
+        ],
+        "image_resolution_m_per_px": 0.15777449899076207,
+        "manual_pick_uncertainty_px": 4,
+        "ground_control_not_roof_xyz": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1929170886671,
+          39.9506139593634
+        ]
+      },
+      "properties": {
+        "role": "Spruce sidewalk south of building",
+        "floor_control_only": true,
+        "z_navd88_m": 14.51338617093738,
+        "z_range_navd88_m": [
+          14.102515079419806,
+          14.548437589917171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19268657159019,
+          39.95074228022287
+        ]
+      },
+      "properties": {
+        "role": "34th Street west sidewalk east of building",
+        "floor_control_only": true,
+        "z_navd88_m": 14.466447081697874,
+        "z_range_navd88_m": [
+          14.394818752406058,
+          14.530454930660838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1927245251395,
+          39.95110328519581
+        ]
+      },
+      "properties": {
+        "role": "Upper north service area pavement",
+        "floor_control_only": true,
+        "z_navd88_m": 14.104953307562864,
+        "z_range_navd88_m": [
+          14.066853231362712,
+          14.168047256992951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19332195566159,
+          39.95074548704413
+        ]
+      },
+      "properties": {
+        "role": "West-side exterior paved path",
+        "floor_control_only": true,
+        "z_navd88_m": 14.432003766351283,
+        "z_range_navd88_m": [
+          14.407315689021026,
+          14.45516867779341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19273983570567,
+          39.95063557709604
+        ]
+      },
+      "properties": {
+        "role": "Southeast approach footpath (not threshold)",
+        "floor_control_only": true,
+        "z_navd88_m": 14.422250853779051,
+        "z_range_navd88_m": [
+          14.387502905254832,
+          14.457911539114093
+        ]
+      }
+    }
+  ]
+}

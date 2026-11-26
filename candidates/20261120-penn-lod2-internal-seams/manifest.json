@@ -1,0 +1,308 @@
+[
+  {
+    "base": "IrvineAuditorium/fbx/split/NA_IrvineAuditorium_7x7_LOD2.fbx",
+    "candidate": "IrvineAuditorium/NA_IrvineAuditorium_7x7_LOD2.fbx",
+    "patch": "NA_IrvineAuditorium_7x7_LOD2.fbx.zst",
+    "before_sha256": "d936739218c7a3e133e63340d76b49ab6a64c2f7cecb711a9797f6d19161757e",
+    "after_sha256": "0596ce84c6646952000bd9876f672079cc09595bd7a67846c6910d7104d2610c",
+    "patch_sha256": "ea3ef3605f44eae401c7ce94d4dd8fd78d75b8e9092d151c1f501716c59213cf",
+    "bytes": 28796
+  },
+  {
+    "base": "QuadAshhurst/fbx/split/NA_QuadAshhurst_3x3_LOD2.fbx",
+    "candidate": "QuadAshhurst/NA_QuadAshhurst_3x3_LOD2.fbx",
+    "patch": "NA_QuadAshhurst_3x3_LOD2.fbx.zst",
+    "before_sha256": "f69462575e11121358edc32119af30f046b9a02311cd8b1eb25b3e9d9dcf8a99",
+    "after_sha256": "8c52a38ab5a7b577a58982359d0409dfee0d96678d3cc8978a4d696176d3887d",
+    "patch_sha256": "cb39a9a127c1dc2543ecd7f6871a86df452fc80618a4872f8a33162ee0d47be1",
+    "bytes": 24476
+  },
+  {
+    "base": "QuadBaird/fbx/split/NA_QuadBaird_3x3_LOD2.fbx",
+    "candidate": "QuadBaird/NA_QuadBaird_3x3_LOD2.fbx",
+    "patch": "NA_QuadBaird_3x3_LOD2.fbx.zst",
+    "before_sha256": "e482478ee51349ff93ee4bea3b5fc67700ea92c4b3c133cf9fc95ebbf1a5a087",
+    "after_sha256": "704e583135d7b0abbdc615ee4a4363fb95647560d58d19cea2a01b99c03b44f9",
+    "patch_sha256": "d4dfdb0a6bc1b1dcdde33f71415cd4ba726eceff9c8b01e177a7a55cf195d2cc",
+    "bytes": 24396
+  },
+  {
+    "base": "QuadBaldwinE/fbx/split/NA_QuadBaldwinE_3x3_LOD2.fbx",
+    "candidate": "QuadBaldwinE/NA_QuadBaldwinE_3x3_LOD2.fbx",
+    "patch": "NA_QuadBaldwinE_3x3_LOD2.fbx.zst",
+    "before_sha256": "8e246a862fbdc11da2ce0e65e065fdfbef589aeb8457cbe286f33c3001fc1125",
+    "after_sha256": "7081b21d3d9464714a3c4aff0ae6dee464bcfeb9239879272844d4709c82948b",
+    "patch_sha256": "aafd98d3b03bf0b713702f8b28f95b3a4252d4add4713b704519345dcdec42f6",
+    "bytes": 24444
+  },
+  {
+    "base": "QuadBaldwinW/fbx/split/NA_QuadBaldwinW_3x3_LOD2.fbx",
+    "candidate": "QuadBaldwinW/NA_QuadBaldwinW_3x3_LOD2.fbx",
+    "patch": "NA_QuadBaldwinW_3x3_LOD2.fbx.zst",
+    "before_sha256": "e6ef21a761ffee0324d8c6abbc92c29b737fd660c574a21f2fd4016bef36fd76",
+    "after_sha256": "6ef0ae8f5bcfe92381e94c53c81fc771636f7596fb5b5b060226b40cd83a53d8",
+    "patch_sha256": "c9c81dfac5cec88af48bcf020ec186b8fc76fab480ca8082b7f0cb2a7f97a363",
+    "bytes": 24540
+  },
+  {
+    "base": "QuadBishopWhite/fbx/split/NA_QuadBishopWhite_4x3_LOD2.fbx",
+    "candidate": "QuadBishopWhite/NA_QuadBishopWhite_4x3_LOD2.fbx",
+    "patch": "NA_QuadBishopWhite_4x3_LOD2.fbx.zst",
+    "before_sha256": "969043f87bcee53d61807025765477f4bb40ec15469d4dcb3a458eff18a2fdb7",
+    "after_sha256": "9f181bd5c36b8327072f1f4e693f86e3b2d8ada5167cedae318adafad6cfa1cd",
+    "patch_sha256": "a01e9de7757dd35e880ac456873977eb3f2e96086435340d02bb08a172989a4b",
+    "bytes": 24604
+  },
+  {
+    "base": "QuadBodine/fbx/split/NA_QuadBodine_3x3_LOD2.fbx",
+    "candidate": "QuadBodine/NA_QuadBodine_3x3_LOD2.fbx",
+    "patch": "NA_QuadBodine_3x3_LOD2.fbx.zst",
+    "before_sha256": "5c3f66d0ccf8aa06c4ba0dc70304b29a0626c5221fe077ab5f0431ed5aea7cfe",
+    "after_sha256": "3cc358dd21f8d8c54452e2e978131e0b769ade3fb02bb5814b95e6d1e2df5127",
+    "patch_sha256": "28d3db5aee475013df426411f4a6443f1a3541cbed2a196c22799d1a1964be4e",
+    "bytes": 24268
+  },
+  {
+    "base": "QuadBrooks/fbx/split/NA_QuadBrooks_4x3_LOD2.fbx",
+    "candidate": "QuadBrooks/NA_QuadBrooks_4x3_LOD2.fbx",
+    "patch": "NA_QuadBrooks_4x3_LOD2.fbx.zst",
+    "before_sha256": "81b2484ebd9adebb97973e38021ae788b05962337502b104f71b63cf1dc870ee",
+    "after_sha256": "1d036c8f374b552b85a3a4781c3d97cbf59b7513a7a4962599711bda3402849e",
+    "patch_sha256": "ac1480d03863f79eafe75b59c0354fbe2b5fce5d39c282078abf3c35bae3c177",
+    "bytes": 24396
+  },
+  {
+    "base": "QuadButcher/fbx/split/NA_QuadButcher_5x3_LOD2.fbx",
+    "candidate": "QuadButcher/NA_QuadButcher_5x3_LOD2.fbx",
+    "patch": "NA_QuadButcher_5x3_LOD2.fbx.zst",
+    "before_sha256": "5f860310000ce3e693cf98621a11917150b2ea4c4d25d6cbcfd2fdba29143bee",
+    "after_sha256": "2e166f97b6c7405e0fb676e7c88ce3775c08123ca25b8b2d151106226d13d7e3",
+    "patch_sha256": "db135300b15c6975da5f90ec6e6c621f875ab094dbe6bbb9297abe105fd349e6",
+    "bytes": 24588
+  },
+  {
+    "base": "QuadCarruth/fbx/split/NA_QuadCarruth_3x3_LOD2.fbx",
+    "candidate": "QuadCarruth/NA_QuadCarruth_3x3_LOD2.fbx",
+    "patch": "NA_QuadCarruth_3x3_LOD2.fbx.zst",
+    "before_sha256": "5941cc42c028cc6e19deab67ed8dab125ce67675923ff848d7a90f4814a5dde9",
+    "after_sha256": "072cefcc74aa9b3fb8cc216d866528018b0c5bcc2674b0084c8059f3939dd865",
+    "patch_sha256": "43158124bf4b9c79b3c27f68f1da043183b90cd41ecf644792999a3311856fe5",
+    "bytes": 24428
+  },
+  {
+    "base": "QuadChestnut/fbx/split/NA_QuadChestnut_3x3_LOD2.fbx",
+    "candidate": "QuadChestnut/NA_QuadChestnut_3x3_LOD2.fbx",
+    "patch": "NA_QuadChestnut_3x3_LOD2.fbx.zst",
+    "before_sha256": "c1a956a3e0f1c2d9ba209ae6907e20ac7b21f9e97ba8ffe1a92eb1ef5c2b7c9c",
+    "after_sha256": "c1829b3e7b75ce709ac758a39d99a0f17356666784b6f6420dfbe66844287ec5",
+    "patch_sha256": "bb7843af4cbf4d3bb3515efaa0b8cbec4ecbc9be93269a9084e4dbb385f2c0ee",
+    "bytes": 24428
+  },
+  {
+    "base": "QuadClassOf28/fbx/split/NA_QuadClassOf28_3x3_LOD2.fbx",
+    "candidate": "QuadClassOf28/NA_QuadClassOf28_3x3_LOD2.fbx",
+    "patch": "NA_QuadClassOf28_3x3_LOD2.fbx.zst",
+    "before_sha256": "36508119f3c82f39abe141060023b7b2a79348b8e98a75402acbfd539ecf6ece",
+    "after_sha256": "4a503f3b8d4f62788b447cc029039b590d09bb6d141aafedee6254e2e0864480",
+    "patch_sha256": "4218e96b354d3104d8f1c6ea8fbc772e36fca232a6ec210114798da076afac2e",
+    "bytes": 24492
+  },
+  {
+    "base": "QuadCleemann/fbx/split/NA_QuadCleemann_4x3_LOD2.fbx",
+    "candidate": "QuadCleemann/NA_QuadCleemann_4x3_LOD2.fbx",
+    "patch": "NA_QuadCleemann_4x3_LOD2.fbx.zst",
+    "before_sha256": "820909090f8efa98371dd70f64ea8c99b7826ec0539a9d8e0c881dd41f147b5e",
+    "after_sha256": "d43c1b2b0899c048e40e95bd643a700348e6bfdf3720a2b3f7a1a11c879428b3",
+    "patch_sha256": "91fa123411d6bed4046ecfcb5192474f8380621044d10c8fb4eccc926254a792",
+    "bytes": 24620
+  },
+  {
+    "base": "QuadCoxe/fbx/split/NA_QuadCoxe_4x3_LOD2.fbx",
+    "candidate": "QuadCoxe/NA_QuadCoxe_4x3_LOD2.fbx",
+    "patch": "NA_QuadCoxe_4x3_LOD2.fbx.zst",
+    "before_sha256": "7192d27a9a82530ba0623f78801225ae4c2888c39e44d16cbf92ed9101ad79e4",
+    "after_sha256": "485b4e69d4c5f3b5147878b9f5e0f9a89ab2bacd36dfdfc5cc0f277a8a8a6eea",
+    "patch_sha256": "7a1353f262e7fbc69651b1db7c48dd47c66f10e6633b3ee7521ec68f680cc239",
+    "bytes": 24332
+  },
+  {
+    "base": "QuadCraig/fbx/split/NA_QuadCraig_3x3_LOD2.fbx",
+    "candidate": "QuadCraig/NA_QuadCraig_3x3_LOD2.fbx",
+    "patch": "NA_QuadCraig_3x3_LOD2.fbx.zst",
+    "before_sha256": "e0e72176871235fd6b00408a3e2a58d39b91ab7559c7a2b56cd5325e48b192fd",
+    "after_sha256": "5e19e6674a300775af4f046f8f11d0205e0590b27ca7f719306b376c090b7833",
+    "patch_sha256": "3d990a4ac38060e8010a8ba0ec3104c9cf34cc518cdc0a4e88d07a6c81ea47d1",
+    "bytes": 24428
+  },
+  {
+    "base": "QuadEFSmith/fbx/split/NA_QuadEFSmith_4x3_LOD2.fbx",
+    "candidate": "QuadEFSmith/NA_QuadEFSmith_4x3_LOD2.fbx",
+    "patch": "NA_QuadEFSmith_4x3_LOD2.fbx.zst",
+    "before_sha256": "82b0b6d22fd3a4550f5a3f0d3c55faa624dd5f569ba46afe6fdf752ce8bf59c9",
+    "after_sha256": "8ea8c65d214f4f46aa1328791d7227aa30db5c4645a8db0d83a6ee3b7e571b68",
+    "patch_sha256": "b0cf478365fd2f67b1c7bce01d6367e6e8f5f5682a03bf360c93843420344e07",
+    "bytes": 24380
+  },
+  {
+    "base": "QuadFitler/fbx/split/NA_QuadFitler_3x3_LOD2.fbx",
+    "candidate": "QuadFitler/NA_QuadFitler_3x3_LOD2.fbx",
+    "patch": "NA_QuadFitler_3x3_LOD2.fbx.zst",
+    "before_sha256": "61fd6546ebb6a5b18dd9c1c61d83b8e9592da43b29f4038017dea72a70218ad2",
+    "after_sha256": "09639797789c7674dcb218ab2da989f1424b5e9525a64795fddf30ddb9171976",
+    "patch_sha256": "98c65c28d991981157fdf0500ed03185ad1f04a010b78c34b3390479b3999ce4",
+    "bytes": 24332
+  },
+  {
+    "base": "QuadFoerderer/fbx/split/NA_QuadFoerderer_4x3_LOD2.fbx",
+    "candidate": "QuadFoerderer/NA_QuadFoerderer_4x3_LOD2.fbx",
+    "patch": "NA_QuadFoerderer_4x3_LOD2.fbx.zst",
+    "before_sha256": "134bce17e686b41dbf03ee1beec2c37f25da4b96464191af338b2c28fa1c8c08",
+    "after_sha256": "0cadf79fba7141865a1f22ef5b602952525f2bc6a3e65440162a6dc1abf938f7",
+    "patch_sha256": "52e247afc43c9afaa4a41a1d99c013347423098c241c38ac65b7ce3e3f1bc0aa",
+    "bytes": 24460
+  },
+  {
+    "base": "QuadFranklin/fbx/split/NA_QuadFranklin_4x3_LOD2.fbx",
+    "candidate": "QuadFranklin/NA_QuadFranklin_4x3_LOD2.fbx",
+    "patch": "NA_QuadFranklin_4x3_LOD2.fbx.zst",
+    "before_sha256": "f2191933e6ca4640d984cea893b287fa9a2f634779f99f75ffa4688d8f25deaf",
+    "after_sha256": "e98cd9f519d5f4a1d8c4e22fe56a8c916524b21a5d5a38193e928676d0bdda95",
+    "patch_sha256": "5b19b5d04950b7f7bb2d8653822c06494c1164a082b1469c9e5788549b5cfe26",
+    "bytes": 24428
+  },
+  {
+    "base": "QuadHopkinson/fbx/split/NA_QuadHopkinson_3x3_LOD2.fbx",
+    "candidate": "QuadHopkinson/NA_QuadHopkinson_3x3_LOD2.fbx",
+    "patch": "NA_QuadHopkinson_3x3_LOD2.fbx.zst",
+    "before_sha256": "548b30c1ac639533e16332e4f7908d469102a3f177c76b8a05a7f83795c71614",
+    "after_sha256": "6b9261012f304dec5c7452d7c1ce6c601f98d9f1ccd9a41e88dc0f8231a30194",
+    "patch_sha256": "7c3596ba190354590bf5d076ad023fa70b6d10ef1acf6239901df51caf4aa59c",
+    "bytes": 24652
+  },
+  {
+    "base": "QuadLeidy/fbx/split/NA_QuadLeidy_4x3_LOD2.fbx",
+    "candidate": "QuadLeidy/NA_QuadLeidy_4x3_LOD2.fbx",
+    "patch": "NA_QuadLeidy_4x3_LOD2.fbx.zst",
+    "before_sha256": "d71b215d9cedd8e3877776b20e0f5a4f2694685e6f6fcbf9821df48011a9726f",
+    "after_sha256": "3f1ec9f7181c8a2430a92403952791f45ce8de2f5fa29b19922f2762bf38c72f",
+    "patch_sha256": "9938d632cd52e7d3424a82c7432ae19d2220a1e4115b4a176981bf142bb33bce",
+    "bytes": 24236
+  },
+  {
+    "base": "QuadLippincott/fbx/split/NA_QuadLippincott_3x3_LOD2.fbx",
+    "candidate": "QuadLippincott/NA_QuadLippincott_3x3_LOD2.fbx",
+    "patch": "NA_QuadLippincott_3x3_LOD2.fbx.zst",
+    "before_sha256": "8d0c7c6444be3b098c3eb0bdb6c8c9242091fe12103bcb03a8b7c4313148f760",
+    "after_sha256": "02c67b0e289ea95a7c5010e1d95c93ab466e16c0261ca3f47637877061fcae4d",
+    "patch_sha256": "634129a187dae9a2afeac03ce91a59a63a03abf4f792440f676ec9f89bf77833",
+    "bytes": 24604
+  },
+  {
+    "base": "QuadMagee/fbx/split/NA_QuadMagee_4x3_LOD2.fbx",
+    "candidate": "QuadMagee/NA_QuadMagee_4x3_LOD2.fbx",
+    "patch": "NA_QuadMagee_4x3_LOD2.fbx.zst",
+    "before_sha256": "9bda72adf5c302aa4f01bcd496ffd3b11c82e075715a9f1605fc44332ef357bb",
+    "after_sha256": "664e835540a2254571e23ce20fec669e6b2dc891151cef7299da070f3c62403a",
+    "patch_sha256": "89a44c3590e0507f79908ebda8354ed78e5e0ff31992b51deb390d2651a0c25a",
+    "bytes": 24380
+  },
+  {
+    "base": "QuadMcKean/fbx/split/NA_QuadMcKean_5x4_LOD2.fbx",
+    "candidate": "QuadMcKean/NA_QuadMcKean_5x4_LOD2.fbx",
+    "patch": "NA_QuadMcKean_5x4_LOD2.fbx.zst",
+    "before_sha256": "7abcfcd3e310e73281877d00bc1600a3cb54e65d0408778fa4442f13639a9cab",
+    "after_sha256": "b3abd1241f0d8395bf856b0ac4574b0049150698fbc93466f9be862e419ddd27",
+    "patch_sha256": "6401f1d0d0f7f65fb1b1ee8cd6e7c1cade71d7144be12caa7acee83b8ac95d12",
+    "bytes": 24620
+  },
+  {
+    "base": "QuadMemorialTower/fbx/split/NA_QuadMemorialTower_3x3_LOD2.fbx",
+    "candidate": "QuadMemorialTower/NA_QuadMemorialTower_3x3_LOD2.fbx",
+    "patch": "NA_QuadMemorialTower_3x3_LOD2.fbx.zst",
+    "before_sha256": "69296703693dade481712b296df20aefb19c95737f57c5fd551455c9b4287bc9",
+    "after_sha256": "8c455da99603e7a459d7bf2ec04ec6a7131f367620a4c6fd1379c5525fe7fdac",
+    "patch_sha256": "c405eeb31668ef13a58a97b372ff20206f5a20f4d47d30ccdacfbe5779e5d13e",
+    "bytes": 33548
+  },
+  {
+    "base": "QuadMorgan/fbx/split/NA_QuadMorgan_4x3_LOD2.fbx",
+    "candidate": "QuadMorgan/NA_QuadMorgan_4x3_LOD2.fbx",
+    "patch": "NA_QuadMorgan_4x3_LOD2.fbx.zst",
+    "before_sha256": "caf7d65f13d0d96b1c693ddb9b1f6bbf773eb047fe26278c91a8e62de8605fb3",
+    "after_sha256": "b5aae1b5d8f64bc415f2908fdbfaf5a8a4e36bf490bfa69e8d6e2f14b7135ecc",
+    "patch_sha256": "fea08d04bd97c556dc9724c0430f292bf99e04ca1c245932a2a0bdcc576831d0",
+    "bytes": 24380
+  },
+  {
+    "base": "QuadMorris/fbx/split/NA_QuadMorris_4x4_LOD2.fbx",
+    "candidate": "QuadMorris/NA_QuadMorris_4x4_LOD2.fbx",
+    "patch": "NA_QuadMorris_4x4_LOD2.fbx.zst",
+    "before_sha256": "9370c11b2b24e294d98b2f6c7016b9038782b4be128ef21c8eb6537d75c0c52e",
+    "after_sha256": "85a51fa0bdc227cd23c21fe57b42aee6adfd0355bf075d0f3062ed75ff72ff21",
+    "patch_sha256": "a0318f45e70209cdce8d64161351b3004740fb04e06646f8f4f1016628250b10",
+    "bytes": 24492
+  },
+  {
+    "base": "QuadNewYorkAlumni/fbx/split/NA_QuadNewYorkAlumni_3x3_LOD2.fbx",
+    "candidate": "QuadNewYorkAlumni/NA_QuadNewYorkAlumni_3x3_LOD2.fbx",
+    "patch": "NA_QuadNewYorkAlumni_3x3_LOD2.fbx.zst",
+    "before_sha256": "99272da4a79451346a9327bf81d5be040af37b66c353298f7d79de8b45982cd3",
+    "after_sha256": "145010fd48aef7c1552b16509c337e80a807818b0dc45b355e8435b019ee789d",
+    "patch_sha256": "511fcd8f8e63a39ecb8b2489a0c53a538d76067aa5ba474d72197fcf4fcbc955",
+    "bytes": 24524
+  },
+  {
+    "base": "QuadRodney/fbx/split/NA_QuadRodney_4x3_LOD2.fbx",
+    "candidate": "QuadRodney/NA_QuadRodney_4x3_LOD2.fbx",
+    "patch": "NA_QuadRodney_4x3_LOD2.fbx.zst",
+    "before_sha256": "c63fcf3196f9470c973586237e250cccb6c5d7d5b8af21ed600cf711787611f2",
+    "after_sha256": "5bd5adc88e2f65c1f5bae37dae8d9aed0950b9b1834a483d265285bdddfe7061",
+    "patch_sha256": "f844b7aa135a31567fb1c68e3c9c6d5bf697932d832b50a021b957681c0d30fb",
+    "bytes": 24444
+  },
+  {
+    "base": "QuadSmith/fbx/split/NA_QuadSmith_3x3_LOD2.fbx",
+    "candidate": "QuadSmith/NA_QuadSmith_3x3_LOD2.fbx",
+    "patch": "NA_QuadSmith_3x3_LOD2.fbx.zst",
+    "before_sha256": "5e99fb95e8b54819dc6b48b48e9bcf9a0dae43f73d050b76344a7ff3d7ed0801",
+    "after_sha256": "34c67b915cced2893fa9f7987dc49d91a36342be77a59249b4287471053474d9",
+    "patch_sha256": "2a527e06b50974a20891392f4a7b0eee4286e1ddedeb2ea92487d1c43b349966",
+    "bytes": 24396
+  },
+  {
+    "base": "QuadSpeakman/fbx/split/NA_QuadSpeakman_7x3_LOD2.fbx",
+    "candidate": "QuadSpeakman/NA_QuadSpeakman_7x3_LOD2.fbx",
+    "patch": "NA_QuadSpeakman_7x3_LOD2.fbx.zst",
+    "before_sha256": "bb888a3a4842c1a299e842a541abc499e1cc16b1e75130980efe175537a18280",
+    "after_sha256": "fd66e451784a4ded277f856aacf0bdf3af331ebb8410d12a9a84a7c3448b88e8",
+    "patch_sha256": "dfa69042fa6b775303e84e683eeabdfd461da7e5f1a34bf94cd6492f1d399423",
+    "bytes": 24412
+  },
+  {
+    "base": "QuadWard/fbx/split/NA_QuadWard_4x4_LOD2.fbx",
+    "candidate": "QuadWard/NA_QuadWard_4x4_LOD2.fbx",
+    "patch": "NA_QuadWard_4x4_LOD2.fbx.zst",
+    "before_sha256": "9a374d5dd32c16878db4de5eb428c28c7849dd5ec8623d6a99094c99c4e9ea70",
+    "after_sha256": "0ed9bb5316eb1df2688b75eb037fc57987cb0479583f383267959e136e39f91f",
+    "patch_sha256": "47cbcbfb7a40776043dc410cc9f52fc7104bed8959c55f19699ba200957a67cf",
+    "bytes": 26652
+  },
+  {
+    "base": "QuadWarwick/fbx/split/NA_QuadWarwick_4x3_LOD2.fbx",
+    "candidate": "QuadWarwick/NA_QuadWarwick_4x3_LOD2.fbx",
+    "patch": "NA_QuadWarwick_4x3_LOD2.fbx.zst",
+    "before_sha256": "5535be292fb7dbe41a6c9ce490cfe1fe27560142f2da306469e854dc1f8a809c",
+    "after_sha256": "3fa993c8b337067653741cbc1d5b34d7b4317dc8ab7e5f3c6bcc466fe6994d9a",
+    "patch_sha256": "c621caed8faacf521e8eab22a1fbd651047f4237a8ea0ebf596adbc66e8cad13",
+    "bytes": 24556
+  },
+  {
+    "base": "QuadWilson/fbx/split/NA_QuadWilson_3x3_LOD2.fbx",
+    "candidate": "QuadWilson/NA_QuadWilson_3x3_LOD2.fbx",
+    "patch": "NA_QuadWilson_3x3_LOD2.fbx.zst",
+    "before_sha256": "c94bfedee2769465de8c7abc60bd225b0b34e1941b5b4ee17b3307d84dcf92a0",
+    "after_sha256": "e8199e68ce53f7919a5e2c8c9e0251288e577c18ab5158912cce31ba6aea9589",
+    "patch_sha256": "9858b4f544a25c9c87121d007b5f92106f76169cc037346cc984b26320e0fe69",
+    "bytes": 24428
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "bbox_min_max": [
+    [
+      -11.44,
+      -30.16
+    ],
+    [
+      15.6,
+      -29.12
+    ]
+  ],
+  "synthetic_collar_triangles": 330,
+  "retained_exterior_faces": 18808,
+  "roof_old_faces_replaced": 208,
+  "replacement_new_face_count": 338,
+  "same_exact_exterior_triangle_stream_sha256_f64": "7cf9590273c5ba9ee819192556239d4152bda2700eddd4b6f56d4a63dd5d5270",
+  "retained_profile_weight": 0.1,
+  "intermediate_pinned_old_collar_vertices": 106,
+  "inner_measured_strip_triangles": 8,
+  "fixed_outer_seam_edges": 108,
+  "full_v_f_paired_edges": [
+    9575,
+    19146,
+    28719
+  ],
+  "candidate_obj_sha256": "a8e6d3729d265cae6462148d81083e31749ee574c19e890baabecf3b757b5c9e"
+}

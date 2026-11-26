@@ -1,0 +1,230 @@
+{
+  "HillCollegeHouse": {
+    "original_sha256": "a78a7ce74162bf5ddb07d05ae1724c13cfeb522fb21e9ad486b8065bd986b1b3",
+    "new_sha256": "0aa07c358b55bb81667295e85dd4b4023ecb7421cc832dbea68cf6aa62c1815d",
+    "version": 7400,
+    "edited_paths": [
+      [
+        "/workspace/penn_campus/HillCollegeHouse/split_fbx/NA_HillCollegeHouse_10x6_LOD2_BaseColor.png",
+        "NA_HillCollegeHouse_10x6_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/HillCollegeHouse/split_fbx/NA_HillCollegeHouse_10x6_LOD2_Emissive.png",
+        "NA_HillCollegeHouse_10x6_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/HillCollegeHouse/split_fbx/NA_HillCollegeHouse_10x6_LOD2_Normal.png",
+        "NA_HillCollegeHouse_10x6_LOD2_Normal.png"
+      ],
+      [
+        "/workspace/penn_campus/HillCollegeHouse/split_fbx/NA_HillCollegeHouse_10x6_LOD2_BaseColor.png",
+        "NA_HillCollegeHouse_10x6_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/HillCollegeHouse/split_fbx/NA_HillCollegeHouse_10x6_LOD2_Emissive.png",
+        "NA_HillCollegeHouse_10x6_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/HillCollegeHouse/split_fbx/NA_HillCollegeHouse_10x6_LOD2_Normal.png",
+        "NA_HillCollegeHouse_10x6_LOD2_Normal.png"
+      ]
+    ],
+    "triangles": 72,
+    "geometry_degenerate": 0,
+    "images_fbx": {
+      "NA_HillCollegeHouse_10x6_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_HillCollegeHouse_10x6_LOD2_Emissive.png": [
+        1024,
+        1024
+      ],
+      "NA_HillCollegeHouse_10x6_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "sidecars_decoded": {
+      "NA_HillCollegeHouse_10x6_LOD2_MaskMap.png": [
+        1024,
+        1024
+      ],
+      "NA_HillCollegeHouse_10x6_LOD2_ControlMask.png": [
+        1024,
+        1024
+      ]
+    }
+  },
+  "IrvineAuditorium": {
+    "original_sha256": "d936739218c7a3e133e63340d76b49ab6a64c2f7cecb711a9797f6d19161757e",
+    "new_sha256": "86763b0e5ff9ab2792219a3b823f7899078168103bda46910b59ea816d59791d",
+    "version": 7400,
+    "edited_paths": [
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Emissive.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Normal.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Normal.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Emissive.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Normal.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Normal.png"
+      ]
+    ],
+    "triangles": 108,
+    "geometry_degenerate": 0,
+    "images_fbx": {
+      "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_IrvineAuditorium_7x7_LOD2_Emissive.png": [
+        1024,
+        1024
+      ],
+      "NA_IrvineAuditorium_7x7_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "sidecars_decoded": {
+      "NA_IrvineAuditorium_7x7_LOD2_MaskMap.png": [
+        1024,
+        1024
+      ],
+      "NA_IrvineAuditorium_7x7_LOD2_ControlMask.png": [
+        1024,
+        1024
+      ]
+    }
+  },
+  "SteinbergDietrich": {
+    "original_sha256": "9b6b7e409732f275253a3baa6ba37665828aab7b1a6e179bd2ec5368cf3f78c8",
+    "new_sha256": "982b3c2c6ca60811789496d62d280224d6c2cbb4f1d18d62508f71657cbef22e",
+    "version": 7400,
+    "edited_paths": [
+      [
+        "/workspace/penn_campus/SteinbergDietrich/split_fbx/NA_SteinbergDietrich_16x10_LOD2_BaseColor.png",
+        "NA_SteinbergDietrich_16x10_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/SteinbergDietrich/split_fbx/NA_SteinbergDietrich_16x10_LOD2_Emissive.png",
+        "NA_SteinbergDietrich_16x10_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/SteinbergDietrich/split_fbx/NA_SteinbergDietrich_16x10_LOD2_Normal.png",
+        "NA_SteinbergDietrich_16x10_LOD2_Normal.png"
+      ],
+      [
+        "/workspace/penn_campus/SteinbergDietrich/split_fbx/NA_SteinbergDietrich_16x10_LOD2_BaseColor.png",
+        "NA_SteinbergDietrich_16x10_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/SteinbergDietrich/split_fbx/NA_SteinbergDietrich_16x10_LOD2_Emissive.png",
+        "NA_SteinbergDietrich_16x10_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/SteinbergDietrich/split_fbx/NA_SteinbergDietrich_16x10_LOD2_Normal.png",
+        "NA_SteinbergDietrich_16x10_LOD2_Normal.png"
+      ]
+    ],
+    "triangles": 72,
+    "geometry_degenerate": 0,
+    "images_fbx": {
+      "NA_SteinbergDietrich_16x10_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_SteinbergDietrich_16x10_LOD2_Emissive.png": [
+        1024,
+        1024
+      ],
+      "NA_SteinbergDietrich_16x10_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "sidecars_decoded": {
+      "NA_SteinbergDietrich_16x10_LOD2_MaskMap.png": [
+        1024,
+        1024
+      ],
+      "NA_SteinbergDietrich_16x10_LOD2_ControlMask.png": [
+        1024,
+        1024
+      ]
+    }
+  },
+  "WistarInstitute": {
+    "original_sha256": "cf54205617d398522ebdc8067071452b588d65540b84f51a5e778ce34a407eb1",
+    "new_sha256": "7f7034f847b7efe733de6bc95ddc2ff22030dfa604b60473eea393b4646b1130",
+    "version": 7400,
+    "edited_paths": [
+      [
+        "/workspace/penn_campus/WistarInstitute/split_fbx/NA_WistarInstitute_17x8_LOD2_BaseColor.png",
+        "NA_WistarInstitute_17x8_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/WistarInstitute/split_fbx/NA_WistarInstitute_17x8_LOD2_Emissive.png",
+        "NA_WistarInstitute_17x8_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/WistarInstitute/split_fbx/NA_WistarInstitute_17x8_LOD2_Normal.png",
+        "NA_WistarInstitute_17x8_LOD2_Normal.png"
+      ],
+      [
+        "/workspace/penn_campus/WistarInstitute/split_fbx/NA_WistarInstitute_17x8_LOD2_BaseColor.png",
+        "NA_WistarInstitute_17x8_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/WistarInstitute/split_fbx/NA_WistarInstitute_17x8_LOD2_Emissive.png",
+        "NA_WistarInstitute_17x8_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/WistarInstitute/split_fbx/NA_WistarInstitute_17x8_LOD2_Normal.png",
+        "NA_WistarInstitute_17x8_LOD2_Normal.png"
+      ]
+    ],
+    "triangles": 36,
+    "geometry_degenerate": 0,
+    "images_fbx": {
+      "NA_WistarInstitute_17x8_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_WistarInstitute_17x8_LOD2_Emissive.png": [
+        1024,
+        1024
+      ],
+      "NA_WistarInstitute_17x8_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "sidecars_decoded": {
+      "NA_WistarInstitute_17x8_LOD2_MaskMap.png": [
+        1024,
+        1024
+      ],
+      "NA_WistarInstitute_17x8_LOD2_ControlMask.png": [
+        1024,
+        1024
+      ]
+    }
+  }
+}

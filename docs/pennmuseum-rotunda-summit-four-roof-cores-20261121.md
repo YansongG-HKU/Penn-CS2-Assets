@@ -1,0 +1,8 @@
+# Harrison Rotunda measured summit and four-surface trial
+
+Independent four-patch inspection asset aligning the previously measured three surfaces without altering their vertices, face lists, UVs or normals. New patch is only a 0.60 m model-radius summit core, not an identified finial and not connected to the adjoining roof.
+
+- [NOAA Philadelphia EPT 9848](https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/entwine/geoid18/9848/ept.json), 2022 first Class 1 returns: 228 adjacent, 62 within the frozen fitting window. Both source cohorts independently cover eight azimuth bins within the 0.60 m core. Flight holdout all-return P95 0.113/0.123 m; opposing-sector holdout worst 0.149 m. Cross-fit surface change max 0.059 m. The apparent double population beyond about 0.75 m is not treated as a continuous surface. Fitted summit 51.512 m and outer core 51.195 m NAVD88. This is not an authoritative building height.
+- FBX reread combined 2,176 / 1,392 / 924 triangles. Summit alone 832 / 432 / 252; 11,877 targeted rays with 7,038 matched at all three levels, inter-LOD delta ≤6.60 mm and 28 outline differences all within 2.0 mm. Winding, expected open boundary, UVs and corner-normal storage verified. Fresh ZIP reproduction gives identical mesh and verification output. Test metrics do not represent absolute point-cloud accuracy or Editor shading.
+- All four cores share the prior EPSG 6347/NAVD88 frame at E 483593.52591283 / N 4422145.39119905 / Zref 40.000 m. No guessed connectors, structure, textures, walls, collisions, published pmod or CS2 Editor verification. Original Penn Museum asset and LFS untouched.
+- ZIP 1,208,741 B, SHA-256 `aac0af86812c0cfbff856e5cdc2e4a04b52ed81f2c1ff7937cf3ec416299918f`.

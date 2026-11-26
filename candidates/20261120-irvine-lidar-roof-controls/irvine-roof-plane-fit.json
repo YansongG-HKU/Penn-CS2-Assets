@@ -1,0 +1,150 @@
+{
+  "source": "2022 NOAA EPT 9848, EPSG6347 horizontal / EPSG5703 NAVD88 GEOID18 m",
+  "body_center_local_origin_utm": [
+    483515.07,
+    4422324.0649999995
+  ],
+  "local_east_axis_utm": [
+    0.9911905478735423,
+    -0.13244356460827808
+  ],
+  "local_north_axis_utm": [
+    0.13244356460827808,
+    0.9911905478735423
+  ],
+  "inlier_selection": "first returns unclassified, four sectors exclude center/eaves and diagonal, 0.18m train threshold and 0.25m withheld diagnostic",
+  "unique_input_points": 53270,
+  "holdout_source_ids": [
+    19,
+    20
+  ],
+  "orthophoto_center_utm": [
+    483515.2705328985,
+    4422320.076988949
+  ],
+  "train_observed_center_shift_m": 3.9930496589197193,
+  "planes": {
+    "east": {
+      "local_xy_plane_a_b_c": [
+        -1.7745961564890365,
+        0.04149361410104291,
+        66.85546713747031
+      ],
+      "dip_deg": 60.60506789303774,
+      "train_n": 1421,
+      "train_plane_inliers": 802,
+      "withheld_n": 438,
+      "withheld_plane_inliers": 289,
+      "withheld_all_abs_residual_quantiles_m": [
+        0.02688034902155465,
+        0.1628022188881566,
+        0.7309841195014869,
+        0.8433677177573308
+      ],
+      "withheld_inlier_abs_residual_p95_m": 0.22438688946994745,
+      "distributions_inlier_height_m": [
+        54.15000000000009,
+        54.49000000000001,
+        57.17000000000007,
+        61.035999999999966,
+        62.77889999999997
+      ]
+    },
+    "west": {
+      "local_xy_plane_a_b_c": [
+        1.7612403968985513,
+        -0.05289532528098562,
+        67.26205739797102
+      ],
+      "dip_deg": 60.423972634966916,
+      "train_n": 1104,
+      "train_plane_inliers": 654,
+      "withheld_n": 319,
+      "withheld_plane_inliers": 196,
+      "withheld_all_abs_residual_quantiles_m": [
+        0.03310133345788557,
+        0.18454505523158815,
+        0.5605386283728505,
+        0.6923175467579238
+      ],
+      "withheld_inlier_abs_residual_p95_m": 0.23301809814710417,
+      "distributions_inlier_height_m": [
+        53.97770000000002,
+        54.443000000000055,
+        56.854999999999905,
+        60.843999999999916,
+        62.983500000000014
+      ]
+    },
+    "north": {
+      "local_xy_plane_a_b_c": [
+        -0.0470841450003193,
+        -1.4047246488267806,
+        64.11724845353011
+      ],
+      "dip_deg": 54.56876796226767,
+      "train_n": 1211,
+      "train_plane_inliers": 666,
+      "withheld_n": 379,
+      "withheld_plane_inliers": 229,
+      "withheld_all_abs_residual_quantiles_m": [
+        0.02629844719228771,
+        0.16375520112727315,
+        0.89864445414496,
+        1.9079236544122764
+      ],
+      "withheld_inlier_abs_residual_p95_m": 0.22233902505459183,
+      "distributions_inlier_height_m": [
+        54.02999999999997,
+        54.42000000000007,
+        56.450000000000045,
+        59.79499999999996,
+        61.20050000000005
+      ]
+    },
+    "south": {
+      "local_xy_plane_a_b_c": [
+        0.04423947551684348,
+        1.4111485421851668,
+        63.86363536481272
+      ],
+      "dip_deg": 54.69026278208883,
+      "train_n": 1264,
+      "train_plane_inliers": 676,
+      "withheld_n": 485,
+      "withheld_plane_inliers": 319,
+      "withheld_all_abs_residual_quantiles_m": [
+        0.021155308707290037,
+        0.12371487891699928,
+        0.8137577725170304,
+        0.9991041270689462
+      ],
+      "withheld_inlier_abs_residual_p95_m": 0.20011215784591982,
+      "distributions_inlier_height_m": [
+        54.09749999999991,
+        54.40000000000009,
+        56.19500000000005,
+        59.57999999999993,
+        60.88749999999993
+      ]
+    }
+  },
+  "plane_meeting_utm_xy": [
+    483514.97442593524,
+    4422324.179293535
+  ],
+  "plane_meeting_m_navd88": 65.52492184433306,
+  "four_plane_residuals_m": [
+    1.5296948194084337,
+    1.5383060815873364,
+    -1.5438556135189927,
+    -1.5241452874768413
+  ],
+  "spatial_central_return_count": 378,
+  "highest_central_observed_m_navd88": 76.68000000000006,
+  "nearby_paving_navd88_m": [
+    14.104953307562864,
+    14.51338617093738
+  ],
+  "note": "Plane intersection is extrapolated convergence, not a measured spire/roof join; highest central observed class1 point is not a survey finial height. Sector assignment from approximate 2025 ortho with parallax review."
+}

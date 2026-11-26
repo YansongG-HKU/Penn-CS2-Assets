@@ -1,0 +1,96 @@
+{
+  "status": "standalone survey-envelope reference, not CS2 asset",
+  "footprint_sha256": "df98fd3aa6a7b4113d99bdd898fcaae0805563c8f848236cc4dc26723ab0e7f2",
+  "input_npz_sha256": "b7f7db6be6cf2851a423395081e2c133bf1ac55f333f9645c216b141620e7a46",
+  "obj_sha256": "4f842b3f094d4a3cfa7b0c118ee803140c035e0a4038120c1815cada5e579095",
+  "local_axes_origin_utm": [
+    483514.97442593524,
+    4422324.179293535
+  ],
+  "holdout_point_source_ids": [
+    19,
+    20
+  ],
+  "source_point_count": 205337,
+  "height_sample_filter": "first class-1 inside footprint from 24.5m to below77m NAVD88; excludes grade/ground artifacts",
+  "top_build_mesh": "0.64m triangulated grid clipped to city exterior; robust locally fitted height under spatial support; interpolation is NOT wall position",
+  "polygon_source_vertices": 39,
+  "polygon_used_vertices": 38,
+  "footprint_preserved_area_m2": 1941.551342723299,
+  "roof_xy_extent_m": [
+    50.8062145,
+    51.2478763
+  ],
+  "roof_z_navd88_min_max_m": [
+    25.2403265466782,
+    73.95188233530207
+  ],
+  "mesh_vertices": 5484,
+  "mesh_triangles": 10964,
+  "mesh_roof_triangles": 9874,
+  "mesh_boundary_skirt_vertices": 364,
+  "mesh_closed_two_face_edges": 16446,
+  "roof_max_neighbour_dist_m": 0.7230904760551116,
+  "roof_99pct_neighbour_dist_m": 0.4723843892784641,
+  "z0_navd88_m": 14.4,
+  "hidden_model_bottom_navd88_m": 13.75,
+  "train_n": 47327,
+  "holdout_filtered_n": 18955,
+  "holdout_triangle_intersections": 18955,
+  "held_abs_p50_p90_p95_m": [
+    0.07373475656822137,
+    1.7820932713706092,
+    4.193734624243714
+  ],
+  "held_within_0p5m": 0.8397256660511738,
+  "held_by_height_navd88": {
+    "24.5-31": {
+      "n": 4567,
+      "abs_p50_p90_p95_m": [
+        0.05919837202216627,
+        1.0652791989941357,
+        4.298684560693124
+      ]
+    },
+    "31-41": {
+      "n": 6870,
+      "abs_p50_p90_p95_m": [
+        0.08072540780745285,
+        1.167923718107615,
+        2.8917270158188124
+      ]
+    },
+    "41-48": {
+      "n": 4808,
+      "abs_p50_p90_p95_m": [
+        0.07273158261952517,
+        3.7371312409347297,
+        7.377299990258107
+      ]
+    },
+    "48-54": {
+      "n": 922,
+      "abs_p50_p90_p95_m": [
+        0.07295085654390832,
+        4.156796450941203,
+        5.667468951304059
+      ]
+    },
+    "54-67": {
+      "n": 1749,
+      "abs_p50_p90_p95_m": [
+        0.08283270107413898,
+        0.2612303560580856,
+        0.37374226313670933
+      ]
+    },
+    "67-77": {
+      "n": 39,
+      "abs_p50_p90_p95_m": [
+        1.661154237797092,
+        3.6186637006180664,
+        3.776698947334434
+      ]
+    }
+  }
+}

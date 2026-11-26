@@ -1,0 +1,81 @@
+{
+  "source": "NOAA 2022 Philadelphia 3-foot bare earth DEM, EPSG:6565 horizontal, US survey feet NAVD88 elevations",
+  "samples": {
+    "Spruce sidewalk south of building": {
+      "orthophoto_pixel": [
+        387,
+        518
+      ],
+      "utm18_m": [
+        483520.7926403632,
+        4422293.6892039925
+      ],
+      "median_navd88_m": 14.51338617093738,
+      "range_navd88_m": [
+        14.102515079419806,
+        14.548437589917171
+      ]
+    },
+    "34th Street west sidewalk east of building": {
+      "orthophoto_pixel": [
+        512,
+        428
+      ],
+      "utm18_m": [
+        483540.51445273706,
+        4422307.888908902
+      ],
+      "median_navd88_m": 14.466447081697874,
+      "range_navd88_m": [
+        14.394818752406058,
+        14.530454930660838
+      ]
+    },
+    "Upper north service area pavement": {
+      "orthophoto_pixel": [
+        492,
+        174
+      ],
+      "utm18_m": [
+        483537.3589627572,
+        4422347.963631646
+      ],
+      "median_navd88_m": 14.104953307562864,
+      "range_navd88_m": [
+        14.066853231362712,
+        14.168047256992951
+      ]
+    },
+    "West-side exterior paved path": {
+      "orthophoto_pixel": [
+        168,
+        425
+      ],
+      "utm18_m": [
+        483486.24002508423,
+        4422308.362232399
+      ],
+      "median_navd88_m": 14.432003766351283,
+      "range_navd88_m": [
+        14.407315689021026,
+        14.45516867779341
+      ]
+    },
+    "Southeast approach footpath (not threshold)": {
+      "orthophoto_pixel": [
+        483,
+        503
+      ],
+      "utm18_m": [
+        483535.9389922663,
+        4422296.055821477
+      ],
+      "median_navd88_m": 14.422250853779051,
+      "range_navd88_m": [
+        14.387502905254832,
+        14.457911539114093
+      ]
+    }
+  },
+  "caveat": "Paving control only: not door sill, roof, 1926 drawing datum, or exact building base. 3x3 raster unless footpath slopes interior; no terrain or fit edit from this alone."
+}

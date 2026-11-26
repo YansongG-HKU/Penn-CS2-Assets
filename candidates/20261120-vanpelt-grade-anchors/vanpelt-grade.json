@@ -1,0 +1,184 @@
+{
+  "asset": "Van Pelt–Dietrich Library Center / BIN 1386251",
+  "dem": "NOAA 2022 Philadelphia ground-only, EPSG:6565 + NAVD88 EPSG:6360, U.S. survey ft",
+  "ortho": "PASDA PhiladelphiaImagery2025 export bbox EPSG26918 483323,4422400,483554,4422620 size 924,880",
+  "crop_sha256": "5b3fd77ab6e4fe02813504b22e109026185b85224ddbcd463b6458c72f81611e",
+  "patches": {
+    "stair_foot_walk": {
+      "use_as_paved_approach_control": true,
+      "ortho_pixel_xy": [
+        514,
+        545
+      ],
+      "utm18_EPSG26918_m": [
+        483451.625,
+        4422483.625
+      ],
+      "lonlat": [
+        -75.1937316367009,
+        39.952323897817465
+      ],
+      "state_plane_EPSG6565_ft": [
+        2685067.5059812968,
+        235861.57997015226
+      ],
+      "center_ft": 63.38100051879883,
+      "samples": 9,
+      "percentiles_min_p10_p50_p90_max_ft": [
+        63.27299880981445,
+        63.334598541259766,
+        63.42300033569336,
+        63.5328010559082,
+        63.560001373291016
+      ],
+      "median_m": 19.331369165057666
+    },
+    "southern_walk": {
+      "use_as_paved_approach_control": true,
+      "ortho_pixel_xy": [
+        516,
+        565
+      ],
+      "utm18_EPSG26918_m": [
+        483452.125,
+        4422478.625
+      ],
+      "lonlat": [
+        -75.19372565614705,
+        39.95227885847027
+      ],
+      "state_plane_EPSG6565_ft": [
+        2685069.6568229278,
+        235845.2283441491
+      ],
+      "center_ft": 63.316001892089844,
+      "samples": 9,
+      "percentiles_min_p10_p50_p90_max_ft": [
+        63.141998291015625,
+        63.2083984375,
+        63.29199981689453,
+        63.35919952392578,
+        63.375999450683594
+      ],
+      "median_m": 19.291440127069706
+    },
+    "east_paved_approach": {
+      "use_as_paved_approach_control": true,
+      "ortho_pixel_xy": [
+        682,
+        554
+      ],
+      "utm18_EPSG26918_m": [
+        483493.625,
+        4422481.375
+      ],
+      "lonlat": [
+        -75.19323988877484,
+        39.952304446306734
+      ],
+      "state_plane_EPSG6565_ft": [
+        2685205.5182802933,
+        235858.48758230155
+      ],
+      "center_ft": 58.7599983215332,
+      "samples": 9,
+      "percentiles_min_p10_p50_p90_max_ft": [
+        58.62699890136719,
+        58.636599731445315,
+        58.7599983215332,
+        58.91379852294922,
+        58.94499969482422
+      ],
+      "median_m": 17.910083308569938
+    },
+    "southeast_access_direction_approx": {
+      "use_as_paved_approach_control": false,
+      "ortho_pixel_xy": [
+        653,
+        531
+      ],
+      "utm18_EPSG26918_m": [
+        483486.375,
+        4422487.125
+      ],
+      "lonlat": [
+        -75.1933249098149,
+        39.95235611130369
+      ],
+      "state_plane_EPSG6565_ft": [
+        2685181.147228931,
+        235876.61033576506
+      ],
+      "center_ft": 59.45100021362305,
+      "samples": 9,
+      "percentiles_min_p10_p50_p90_max_ft": [
+        59.387001037597656,
+        59.424598693847656,
+        59.547000885009766,
+        59.868001556396486,
+        59.880001068115234
+      ],
+      "median_m": 18.149962169675316
+    },
+    "stair_top_building_edge_rejected": {
+      "use_as_paved_approach_control": false,
+      "ortho_pixel_xy": [
+        518,
+        519
+      ],
+      "utm18_EPSG26918_m": [
+        483452.625,
+        4422490.125
+      ],
+      "lonlat": [
+        -75.19372009498939,
+        39.95238248124627
+      ],
+      "state_plane_EPSG6565_ft": [
+        2685070.122772598,
+        235883.00557299508
+      ],
+      "center_ft": 62.069000244140625,
+      "samples": 9,
+      "percentiles_min_p10_p50_p90_max_ft": [
+        61.32500076293945,
+        61.434601593017575,
+        62.069000244140625,
+        62.703199005126955,
+        62.8120002746582
+      ],
+      "median_m": 18.918669111752287
+    },
+    "stair_mid_interpolation_check": {
+      "use_as_paved_approach_control": false,
+      "ortho_pixel_xy": [
+        516,
+        528
+      ],
+      "utm18_EPSG26918_m": [
+        483452.125,
+        4422487.875
+      ],
+      "lonlat": [
+        -75.19372589126588,
+        39.95236219935769
+      ],
+      "state_plane_EPSG6565_ft": [
+        2685068.7122622915,
+        235875.57330823317
+      ],
+      "center_ft": 64.03299713134766,
+      "samples": 9,
+      "percentiles_min_p10_p50_p90_max_ft": [
+        63.28300094604492,
+        63.392598724365236,
+        64.03299713134766,
+        64.6886001586914,
+        64.83499908447266
+      ],
+      "median_m": 19.517296560227887
+    }
+  },
+  "controlled_approaches_height_diff_m": 1.421285856487728,
+  "notes": "3 ft grid. Neither doorway sill nor roof is measured; positions are matched visually on dated orthophoto."
+}

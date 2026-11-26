@@ -1,0 +1,92 @@
+{
+  "NA_IrvineAuditorium_7x7.fbx": {
+    "source_sha256": "16fe836647a6cb5ea75b91ddd2e447a24b2b9110cbbe7a77eb2ca1f718aeba7e",
+    "output_sha256": "305bb468c1af0088321fecb7943acdce7653c5333c0641410f1c712825b9b3fe",
+    "path_fields": [
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Emissive.png",
+        "NA_IrvineAuditorium_7x7_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Normal.png",
+        "NA_IrvineAuditorium_7x7_Normal.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Emissive.png",
+        "NA_IrvineAuditorium_7x7_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Normal.png",
+        "NA_IrvineAuditorium_7x7_Normal.png"
+      ]
+    ]
+  },
+  "NA_IrvineAuditorium_7x7_LOD1.fbx": {
+    "source_sha256": "159be1744aaaefa50cb9545862defdf35d70849a6181a9a87bea38e3b14c9127",
+    "output_sha256": "b301217a7703291b0b10a5c011fce85bce8e5d4f852b854985c1ce609b59495a",
+    "path_fields": [
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Emissive.png",
+        "NA_IrvineAuditorium_7x7_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Normal.png",
+        "NA_IrvineAuditorium_7x7_Normal.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Emissive.png",
+        "NA_IrvineAuditorium_7x7_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_Normal.png",
+        "NA_IrvineAuditorium_7x7_Normal.png"
+      ]
+    ]
+  },
+  "NA_IrvineAuditorium_7x7_LOD2.fbx": {
+    "source_sha256": "0596ce84c6646952000bd9876f672079cc09595bd7a67846c6910d7104d2610c",
+    "output_sha256": "4df9024caaf0e1204a6c433e1b158c0424dfc72ab3667acd0a00905f36aadb1a",
+    "path_fields": [
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Emissive.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Normal.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Normal.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_BaseColor.png",
+        "NA_IrvineAuditorium_7x7_LOD2_BaseColor.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Emissive.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Emissive.png"
+      ],
+      [
+        "/workspace/penn_campus/IrvineAuditorium/split_fbx/NA_IrvineAuditorium_7x7_LOD2_Normal.png",
+        "NA_IrvineAuditorium_7x7_LOD2_Normal.png"
+      ]
+    ]
+  }
+}
